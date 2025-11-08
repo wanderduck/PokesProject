@@ -1,0 +1,101 @@
+Pokemon,Category,Type 1,Type 2,Height (m),Weight (kg)
+Nuzleaf,Wily Pokémon,Grass,Dark,1.0 m,28.0 kg
+Shiftry,Wicked Pokémon,Grass,Dark,1.3 m,59.6 kg
+Taillow,Tiny Swallow Pokémon,Normal,Flying,0.3 m,2.3 kg
+Swellow,Swallow Pokémon,Normal,Flying,0.7 m,19.8 kg
+Wingull,Seagull Pokémon,Water,Flying,0.6 m,9.5 kg
+Pelipper,Water Bird Pokémon,Water,Flying,1.2 m,28.0 kg
+Ralts,Feeling Pokémon,Psychic,Fairy,0.4 m,6.6 kg
+Kirlia,Emotion Pokémon,Psychic,Fairy,0.8 m,20.2 kg
+Gardevoir,Embrace Pokémon,Psychic,Fairy,1.6 m,48.4 kg
+Gardevoir,Embrace Pokémon,Psychic,Fairy,1.6 m,48.4 kg
+Surskit,Pond Skater Pokémon,Bug,Water,0.5 m,1.7 kg
+Masquerain,Eyeball Pokémon,Bug,Flying,0.8 m,3.6 kg
+Shroomish,Mushroom Pokémon,Grass,,0.4 m,4.5 kg
+Breloom,Mushroom Pokémon,Grass,Fighting,1.2 m,39.2 kg
+Slakoth,Slacker Pokémon,Normal,,0.8 m,24.0 kg
+Vigoroth,Wild Monkey Pokémon,Normal,,1.4 m,46.5 kg
+Slaking,Lazy Pokémon,Normal,,2.0 m,130.5 kg
+Nincada,Trainee Pokémon,Bug,Ground,0.5 m,5.5 kg
+Ninjask,Ninja Pokémon,Bug,Flying,0.8 m,12.0 kg
+Shedinja,Shed Pokémon,Bug,Ghost,0.8 m,1.2 kg
+Whismur,Whisper Pokémon,Normal,,0.6 m,16.3 kg
+Loudred,Big Voice Pokémon,Normal,,1.0 m,40.5 kg
+Exploud,Loud Noise Pokémon,Normal,,1.5 m,84.0 kg
+Makuhita,Guts Pokémon,Fighting,,1.0 m,86.4 kg
+Hariyama,Arm Thrust Pokémon,Fighting,,2.3 m,253.8 kg
+Azurill,Polka Dot Pokémon,Normal,Fairy,0.2 m,2.0 kg
+Nosepass,Compass Pokémon,Rock,,1.0 m,97.0 kg
+Skitty,Kitten Pokémon,Normal,,0.6 m,11.0 kg
+Delcatty,Prim Pokémon,Normal,,1.1 m,32.6 kg
+Sableye,Darkness Pokémon,Dark,Ghost,0.5 m,11.0 kg
+Sableye,Darkness Pokémon,Dark,Ghost,0.5 m,11.0 kg
+Mawile,Deceiver Pokémon,Steel,Fairy,0.6 m,11.5 kg
+Mawile,Deceiver Pokémon,Steel,Fairy,0.6 m,11.5 kg
+Mawile,Deceiver Pokémon,Steel,Fairy,0.6 m,11.5 kg
+Aron,Iron Armor Pokémon,Steel,Rock,0.4 m,60.0 kg
+Lairon,Iron Armor Pokémon,Steel,Rock,0.9 m,120.0 kg
+Aggron,Iron Armor Pokémon,Steel,Rock,2.1 m,360.0 kg
+Aggron,Iron Armor Pokémon,Steel,Rock,2.1 m,360.0 kg
+Meditite,Meditate Pokémon,Fighting,Psychic,0.6 m,11.2 kg
+Meditite,Meditate Pokémon,Fighting,Psychic,0.6 m,11.2 kg
+Medicham,Meditate Pokémon,Fighting,Psychic,1.3 m,31.5 kg
+Medicham,Meditate Pokémon,Fighting,Psychic,1.3 m,31.5 kg
+Medicham,Meditate Pokémon,Fighting,Psychic,1.3 m,31.5 kg
+Medicham,Meditate Pokémon,Fighting,Psychic,1.3 m,31.5 kg
+Electrike,Lightning Pokémon,Electric,,0.6 m,15.2 kg
+Manectric,Discharge Pokémon,Electric,,1.5 m,40.2 kg
+Manectric,Discharge Pokémon,Electric,,1.5 m,40.2 kg
+Plusle,Cheering Pokémon,Electric,,0.4 m,4.2 kg
+Minun,Cheering Pokémon,Electric,,0.4 m,4.2 kg
+Volbeat,Firefly Pokémon,Bug,,0.7 m,17.7 kg
+Illumise,Firefly Pokémon,Bug,,0.6 m,17.7 kg
+Roselia,Thorn Pokémon,Grass,Poison,0.3 m,2.0 kg
+Gulpin,Stomach Pokémon,Poison,,0.4 m,10.3 kg
+Swalot,Poison Bag Pokémon,Poison,,1.7 m,80.0 kg
+Carvanha,Savage Pokémon,Water,Dark,0.8 m,20.8 kg
+Sharpedo,Brutal Pokémon,Water,Dark,1.8 m,88.8 kg
+Sharpedo,Brutal Pokémon,Water,Dark,1.8 m,88.8 kg
+Wailmer,Ball Whale Pokémon,Water,,2.0 m,130.0 kg
+Wailord,Float Whale Pokémon,Water,,14.5 m,398.0 kg
+Numel,Numb Pokémon,Fire,Ground,0.7 m,24.0 kg
+Camerupt,Eruption Pokémon,Fire,Ground,1.9 m,220.0 kg
+Camerupt,Eruption Pokémon,Fire,Ground,1.9 m,220.0 kg
+Torkoal,Coal Pokémon,Fire,,0.5 m,80.4 kg
+Spoink,Bounce Pokémon,Psychic,,0.7 m,30.6 kg
+Grumpig,Manipulate Pokémon,Psychic,,0.9 m,71.5 kg
+Spinda,Spot Panda Pokémon,Normal,,1.1 m,5.0 kg
+Trapinch,Ant Pit Pokémon,Ground,,0.7 m,15.0 kg
+Vibrava,Vibration Pokémon,Ground,Dragon,1.1 m,15.3 kg
+Flygon,Mystic Pokémon,Ground,Dragon,2.0 m,82.0 kg
+Cacnea,Cactus Pokémon,Grass,,0.4 m,51.3 kg
+Cacturne,Scarecrow Pokémon,Grass,Dark,1.3 m,77.4 kg
+Swablu,Cotton Bird Pokémon,Normal,Flying,0.4 m,1.2 kg
+Altaria,Humming Pokémon,Dragon,Flying,1.1 m,20.6 kg
+Altaria,Humming Pokémon,Dragon,Flying,1.1 m,20.6 kg
+Zangoose,Cat Ferret Pokémon,Normal,,1.3 m,40.3 kg
+Seviper,Fang Snake Pokémon,Poison,,2.7 m,52.5 kg
+Lunatone,Meteorite Pokémon,Rock,Psychic,1.0 m,168.0 kg
+Solrock,Meteorite Pokémon,Rock,Psychic,1.2 m,154.0 kg
+Barboach,Whiskers Pokémon,Water,Ground,0.4 m,1.9 kg
+Whiscash,Whiskers Pokémon,Water,Ground,0.9 m,23.6 kg
+Corphish,Ruffian Pokémon,Water,,0.6 m,11.5 kg
+Crawdaunt,Rogue Pokémon,Water,Dark,1.1 m,32.8 kg
+Baltoy,Clay Doll Pokémon,Ground,Psychic,0.5 m,21.5 kg
+Claydol,Clay Doll Pokémon,Ground,Psychic,1.5 m,108.0 kg
+Lileep,Sea Lily Pokémon,Rock,Grass,1.0 m,23.8 kg
+Cradily,Barnacle Pokémon,Rock,Grass,1.5 m,60.4 kg
+Anorith,Old Shrimp Pokémon,Rock,Bug,0.7 m,12.5 kg
+Armaldo,Plate Pokémon,Rock,Bug,1.5 m,68.2 kg
+Feebas,Fish Pokémon,Water,,0.6 m,7.4 kg
+Milotic,Tender Pokémon,Water,,6.2 m,162.0 kg
+Castform,Weather Pokémon,Normal,,0.3 m,0.8 kg
+Kecleon,Color Swap Pokémon,Normal,,1.0 m,22.0 kg
+Shuppet,Puppet Pokémon,Ghost,,0.6 m,2.3 kg
+Banette,Marionette Pokémon,Ghost,,1.1 m,12.5 kg
+Banette,Marionette Pokémon,Ghost,,1.1 m,12.5 kg
+Duskull,Requiem Pokémon,Ghost,,0.8 m,15.0 kg
+Dusclops,Beckon Pokémon,Ghost,,1.6 m,30.6 kg
+Tropius,Fruit Pokémon,Grass,Flying,2.0 m,100.0 kg
+Chimecho,Wind Chime Pokémon,Psychic,,0.6 m,1.0 kg
+Absol,Disaster Pokémon,Dark,,1.2 m,47.0 kg

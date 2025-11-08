@@ -1,0 +1,1221 @@
+Pokedex Number,Pokemon,Link,HP,Attack,Defense,Speed,Special Attack,Special Defense,Stat Total,Variation,Category,Type 1,Type 2,Height (m),Weight (kg),Generation
+1,Bulbasaur,https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon),45,49,49,45,65,65,318,,Seed Pokémon,Grass,Poison,0.7,6.9,1.0
+2,Ivysaur,https://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pok%C3%A9mon),60,62,63,60,80,80,405,,Seed Pokémon,Grass,Poison,1.0,13.0,1.0
+3,Venusaur,https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon),80,82,83,80,100,100,525,,Seed Pokémon,Grass,Poison,2.0,100.0,1.0
+3,Venusaur,https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon),80,100,123,80,122,120,625,Mega Venusaur,Seed Pokémon,Grass,Poison,2.0,100.0,1.0
+4,Charmander,https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon),39,52,43,65,60,50,309,,Lizard Pokémon,Fire,,0.6,8.5,1.0
+5,Charmeleon,https://bulbapedia.bulbagarden.net/wiki/Charmeleon_(Pok%C3%A9mon),58,64,58,80,80,65,405,,Flame Pokémon,Fire,,1.1,19.0,1.0
+6,Charizard,https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon),78,84,78,100,109,85,534,,Flame Pokémon,Fire,Flying,1.7,90.5,1.0
+6,Charizard,https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon),78,130,111,100,130,85,634,Mega Charizard X,Flame Pokémon,Fire,Flying,1.7,90.5,1.0
+6,Charizard,https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon),78,104,78,100,159,115,634,Mega Charizard Y,Flame Pokémon,Fire,Flying,1.7,90.5,1.0
+7,Squirtle,https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon),44,48,65,43,50,64,314,,Tiny Turtle Pokémon,Water,,0.5,9.0,1.0
+8,Wartortle,https://bulbapedia.bulbagarden.net/wiki/Wartortle_(Pok%C3%A9mon),59,63,80,58,65,80,405,,Turtle Pokémon,Water,,1.0,22.5,1.0
+9,Blastoise,https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon),79,83,100,78,85,105,530,,Shellfish Pokémon,Water,,1.6,85.5,1.0
+9,Blastoise,https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon),79,103,120,78,135,115,630,Mega Blastoise,Shellfish Pokémon,Water,,1.6,85.5,1.0
+10,Caterpie,https://bulbapedia.bulbagarden.net/wiki/Caterpie_(Pok%C3%A9mon),45,30,35,45,20,20,195,,Worm Pokémon,Bug,,0.3,2.9,1.0
+11,Metapod,https://bulbapedia.bulbagarden.net/wiki/Metapod_(Pok%C3%A9mon),50,20,55,30,25,25,205,,Cocoon Pokémon,Bug,,0.7,9.9,1.0
+12,Butterfree,https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pok%C3%A9mon),60,45,50,70,90,80,395,,Butterfly Pokémon,Bug,Flying,1.1,32.0,1.0
+13,Weedle,https://bulbapedia.bulbagarden.net/wiki/Weedle_(Pok%C3%A9mon),40,35,30,50,20,20,195,,Hairy Bug Pokémon,Bug,Poison,0.3,3.2,1.0
+14,Kakuna,https://bulbapedia.bulbagarden.net/wiki/Kakuna_(Pok%C3%A9mon),45,25,50,35,25,25,205,,Cocoon Pokémon,Bug,Poison,0.6,10.0,1.0
+15,Beedrill,https://bulbapedia.bulbagarden.net/wiki/Beedrill_(Pok%C3%A9mon),65,90,40,75,45,80,395,,Poison Bee Pokémon,Bug,Poison,1.0,29.5,1.0
+15,Beedrill,https://bulbapedia.bulbagarden.net/wiki/Beedrill_(Pok%C3%A9mon),65,150,40,145,15,80,495,Mega Beedrill,Poison Bee Pokémon,Bug,Poison,1.0,29.5,1.0
+16,Pidgey,https://bulbapedia.bulbagarden.net/wiki/Pidgey_(Pok%C3%A9mon),40,45,40,56,35,35,251,,Tiny Bird Pokémon,Normal,Flying,0.3,1.8,1.0
+17,Pidgeotto,https://bulbapedia.bulbagarden.net/wiki/Pidgeotto_(Pok%C3%A9mon),63,60,55,71,50,50,349,,Bird Pokémon,Normal,Flying,1.1,30.0,1.0
+18,Pidgeot,https://bulbapedia.bulbagarden.net/wiki/Pidgeot_(Pok%C3%A9mon),83,80,75,101,70,70,479,,Bird Pokémon,Normal,Flying,1.5,39.5,1.0
+18,Pidgeot,https://bulbapedia.bulbagarden.net/wiki/Pidgeot_(Pok%C3%A9mon),83,80,80,121,135,80,579,Mega Pidgeot,Bird Pokémon,Normal,Flying,1.5,39.5,1.0
+19,Rattata,https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pok%C3%A9mon),30,56,35,72,25,35,253,,Mouse Pokémon,Normal,,0.3,3.5,1.0
+19,Rattata,https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pok%C3%A9mon),30,56,35,72,25,35,253,Alolan Rattata,Mouse Pokémon,Normal,,0.3,3.5,1.0
+20,Raticate,https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pok%C3%A9mon),55,81,60,97,50,70,413,,Mouse Pokémon,Normal,,0.7,18.5,1.0
+20,Raticate,https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pok%C3%A9mon),75,71,70,77,40,80,413,Alolan Raticate,Mouse Pokémon,Normal,,0.7,18.5,1.0
+21,Spearow,https://bulbapedia.bulbagarden.net/wiki/Spearow_(Pok%C3%A9mon),40,60,30,70,31,31,262,,Tiny Bird Pokémon,Normal,Flying,0.3,2.0,1.0
+22,Fearow,https://bulbapedia.bulbagarden.net/wiki/Fearow_(Pok%C3%A9mon),65,90,65,100,61,61,442,,Beak Pokémon,Normal,Flying,1.2,38.0,1.0
+23,Ekans,https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pok%C3%A9mon),35,60,44,55,40,54,288,,Snake Pokémon,Poison,,2.0,6.9,1.0
+24,Arbok,https://bulbapedia.bulbagarden.net/wiki/Arbok_(Pok%C3%A9mon),60,95,69,80,65,79,448,,Cobra Pokémon,Poison,,3.5,65.0,1.0
+25,Pikachu,https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon),35,55,40,90,50,50,320,,Mouse Pokémon,Electric,,0.4,6.0,1.0
+25,Pikachu,https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon),45,80,50,120,75,60,430,Partner Pikachu,Mouse Pokémon,Electric,,0.4,6.0,1.0
+26,Raichu,https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon),60,90,55,110,90,80,485,,Mouse Pokémon,Electric,,0.8,30.0,1.0
+26,Raichu,https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon),60,85,50,110,95,85,485,Alolan Raichu,Mouse Pokémon,Electric,,0.8,30.0,1.0
+27,Sandshrew,https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pok%C3%A9mon),50,75,85,40,20,30,300,,Mouse Pokémon,Ground,,0.6,12.0,1.0
+27,Sandshrew,https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pok%C3%A9mon),50,75,90,40,10,35,300,Alolan Sandshrew,Mouse Pokémon,Ground,,0.6,12.0,1.0
+28,Sandslash,https://bulbapedia.bulbagarden.net/wiki/Sandslash_(Pok%C3%A9mon),75,100,110,65,45,55,450,,Mouse Pokémon,Ground,,1.0,29.5,1.0
+28,Sandslash,https://bulbapedia.bulbagarden.net/wiki/Sandslash_(Pok%C3%A9mon),75,100,120,65,25,65,450,Alolan Sandslash,Mouse Pokémon,Ground,,1.0,29.5,1.0
+29,Nidoran♀,https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon),55,47,52,41,40,40,275,,Poison Pin Pokémon,Poison,,0.4,7.0,1.0
+30,Nidorina,https://bulbapedia.bulbagarden.net/wiki/Nidorina_(Pok%C3%A9mon),70,62,67,56,55,55,365,,Poison Pin Pokémon,Poison,,0.8,20.0,1.0
+31,Nidoqueen,https://bulbapedia.bulbagarden.net/wiki/Nidoqueen_(Pok%C3%A9mon),90,92,87,76,75,85,505,,Drill Pokémon,Poison,Ground,1.3,60.0,1.0
+32,Nidoran♂,https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%82_(Pok%C3%A9mon),46,57,40,50,40,40,273,,Poison Pin Pokémon,Poison,,0.5,9.0,1.0
+33,Nidorino,https://bulbapedia.bulbagarden.net/wiki/Nidorino_(Pok%C3%A9mon),61,72,57,65,55,55,365,,Poison Pin Pokémon,Poison,,0.9,19.5,1.0
+34,Nidoking,https://bulbapedia.bulbagarden.net/wiki/Nidoking_(Pok%C3%A9mon),81,102,77,85,85,75,505,,Drill Pokémon,Poison,Ground,1.4,62.0,1.0
+35,Clefairy,https://bulbapedia.bulbagarden.net/wiki/Clefairy_(Pok%C3%A9mon),70,45,48,35,60,65,323,,Fairy Pokémon,Fairy,,0.6,7.5,1.0
+36,Clefable,https://bulbapedia.bulbagarden.net/wiki/Clefable_(Pok%C3%A9mon),95,70,73,60,95,90,483,,Fairy Pokémon,Fairy,,1.3,40.0,1.0
+36,Clefable,https://bulbapedia.bulbagarden.net/wiki/Clefable_(Pok%C3%A9mon),95,80,93,70,135,110,583,Mega Clefable,Fairy Pokémon,Fairy,,1.3,40.0,1.0
+37,Vulpix,https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon),38,41,40,65,50,65,299,,Fox Pokémon,Fire,,0.6,9.9,1.0
+37,Vulpix,https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon),38,41,40,65,50,65,299,Alolan Vulpix,Fox Pokémon,Fire,,0.6,9.9,1.0
+38,Ninetales,https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pok%C3%A9mon),73,76,75,100,81,100,505,,Fox Pokémon,Fire,,1.1,19.9,1.0
+38,Ninetales,https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pok%C3%A9mon),73,67,75,109,81,100,505,Alolan Ninetales,Fox Pokémon,Fire,,1.1,19.9,1.0
+39,Jigglypuff,https://bulbapedia.bulbagarden.net/wiki/Jigglypuff_(Pok%C3%A9mon),115,45,20,20,45,25,270,,Balloon Pokémon,Normal,Fairy,0.5,5.5,1.0
+40,Wigglytuff,https://bulbapedia.bulbagarden.net/wiki/Wigglytuff_(Pok%C3%A9mon),140,70,45,45,85,50,435,,Balloon Pokémon,Normal,Fairy,1.0,12.0,1.0
+41,Zubat,https://bulbapedia.bulbagarden.net/wiki/Zubat_(Pok%C3%A9mon),40,45,35,55,30,40,245,,Bat Pokémon,Poison,Flying,0.8,7.5,1.0
+42,Golbat,https://bulbapedia.bulbagarden.net/wiki/Golbat_(Pok%C3%A9mon),75,80,70,90,65,75,455,,Bat Pokémon,Poison,Flying,1.6,55.0,1.0
+43,Oddish,https://bulbapedia.bulbagarden.net/wiki/Oddish_(Pok%C3%A9mon),45,50,55,30,75,65,320,,Weed Pokémon,Grass,Poison,0.5,5.4,1.0
+44,Gloom,https://bulbapedia.bulbagarden.net/wiki/Gloom_(Pok%C3%A9mon),60,65,70,40,85,75,395,,Weed Pokémon,Grass,Poison,0.8,8.6,1.0
+45,Vileplume,https://bulbapedia.bulbagarden.net/wiki/Vileplume_(Pok%C3%A9mon),75,80,85,50,110,90,490,,Flower Pokémon,Grass,Poison,1.2,18.6,1.0
+46,Paras,https://bulbapedia.bulbagarden.net/wiki/Paras_(Pok%C3%A9mon),35,70,55,25,45,55,285,,Mushroom Pokémon,Bug,Grass,0.3,5.4,1.0
+47,Parasect,https://bulbapedia.bulbagarden.net/wiki/Parasect_(Pok%C3%A9mon),60,95,80,30,60,80,405,,Mushroom Pokémon,Bug,Grass,1.0,29.5,1.0
+48,Venonat,https://bulbapedia.bulbagarden.net/wiki/Venonat_(Pok%C3%A9mon),60,55,50,45,40,55,305,,Insect Pokémon,Bug,Poison,1.0,30.0,1.0
+49,Venomoth,https://bulbapedia.bulbagarden.net/wiki/Venomoth_(Pok%C3%A9mon),70,65,60,90,90,75,450,,Poison Moth Pokémon,Bug,Poison,1.5,12.5,1.0
+50,Diglett,https://bulbapedia.bulbagarden.net/wiki/Diglett_(Pok%C3%A9mon),10,55,25,95,35,45,265,,Mole Pokémon,Ground,,0.2,0.8,1.0
+50,Diglett,https://bulbapedia.bulbagarden.net/wiki/Diglett_(Pok%C3%A9mon),10,55,30,90,35,45,265,Alolan Diglett,Mole Pokémon,Ground,,0.2,0.8,1.0
+51,Dugtrio,https://bulbapedia.bulbagarden.net/wiki/Dugtrio_(Pok%C3%A9mon),35,100,50,120,50,70,425,,Mole Pokémon,Ground,,0.7,33.3,1.0
+51,Dugtrio,https://bulbapedia.bulbagarden.net/wiki/Dugtrio_(Pok%C3%A9mon),35,100,60,110,50,70,425,Alolan Dugtrio,Mole Pokémon,Ground,,0.7,33.3,1.0
+52,Meowth,https://bulbapedia.bulbagarden.net/wiki/Meowth_(Pok%C3%A9mon),40,45,35,90,40,40,290,,Scratch Cat Pokémon,Normal,,0.4,4.2,1.0
+52,Meowth,https://bulbapedia.bulbagarden.net/wiki/Meowth_(Pok%C3%A9mon),40,35,35,90,50,40,290,Alolan Meowth,Scratch Cat Pokémon,Normal,,0.4,4.2,1.0
+52,Meowth,https://bulbapedia.bulbagarden.net/wiki/Meowth_(Pok%C3%A9mon),50,65,55,40,40,40,290,Galarian Meowth,Scratch Cat Pokémon,Normal,,0.4,4.2,1.0
+53,Persian,https://bulbapedia.bulbagarden.net/wiki/Persian_(Pok%C3%A9mon),65,70,60,115,65,65,440,,Classy Cat Pokémon,Normal,,1.0,32.0,1.0
+53,Persian,https://bulbapedia.bulbagarden.net/wiki/Persian_(Pok%C3%A9mon),65,60,60,115,75,65,440,Alolan Persian,Classy Cat Pokémon,Normal,,1.0,32.0,1.0
+54,Psyduck,https://bulbapedia.bulbagarden.net/wiki/Psyduck_(Pok%C3%A9mon),50,52,48,55,65,50,320,,Duck Pokémon,Water,,0.8,19.6,1.0
+55,Golduck,https://bulbapedia.bulbagarden.net/wiki/Golduck_(Pok%C3%A9mon),80,82,78,85,95,80,500,,Duck Pokémon,Water,,1.7,76.6,1.0
+56,Mankey,https://bulbapedia.bulbagarden.net/wiki/Mankey_(Pok%C3%A9mon),40,80,35,70,35,45,305,,Pig Monkey Pokémon,Fighting,,0.5,28.0,1.0
+57,Primeape,https://bulbapedia.bulbagarden.net/wiki/Primeape_(Pok%C3%A9mon),65,105,60,95,60,70,455,,Pig Monkey Pokémon,Fighting,,1.0,32.0,1.0
+58,Growlithe,https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon),55,70,45,60,70,50,350,,Puppy Pokémon,Fire,,0.7,19.0,1.0
+58,Growlithe,https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon),60,75,45,55,65,50,350,Hisuian Growlithe,Puppy Pokémon,Fire,,0.7,19.0,1.0
+59,Arcanine,https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pok%C3%A9mon),90,110,80,95,100,80,555,,Legendary Pokémon,Fire,,1.9,155.0,1.0
+59,Arcanine,https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pok%C3%A9mon),95,115,80,90,95,80,555,Hisuian Arcanine,Legendary Pokémon,Fire,,1.9,155.0,1.0
+60,Poliwag,https://bulbapedia.bulbagarden.net/wiki/Poliwag_(Pok%C3%A9mon),40,50,40,90,40,40,300,,Tadpole Pokémon,Water,,0.6,12.4,1.0
+61,Poliwhirl,https://bulbapedia.bulbagarden.net/wiki/Poliwhirl_(Pok%C3%A9mon),65,65,65,90,50,50,385,,Tadpole Pokémon,Water,,1.0,20.0,1.0
+62,Poliwrath,https://bulbapedia.bulbagarden.net/wiki/Poliwrath_(Pok%C3%A9mon),90,95,95,70,70,90,510,,Tadpole Pokémon,Water,Fighting,1.3,54.0,1.0
+63,Abra,https://bulbapedia.bulbagarden.net/wiki/Abra_(Pok%C3%A9mon),25,20,15,90,105,55,310,,Psi Pokémon,Psychic,,0.9,19.5,1.0
+64,Kadabra,https://bulbapedia.bulbagarden.net/wiki/Kadabra_(Pok%C3%A9mon),40,35,30,105,120,70,400,,Psi Pokémon,Psychic,,1.3,56.5,1.0
+65,Alakazam,https://bulbapedia.bulbagarden.net/wiki/Alakazam_(Pok%C3%A9mon),55,50,45,120,135,95,500,,Psi Pokémon,Psychic,,1.5,48.0,1.0
+65,Alakazam,https://bulbapedia.bulbagarden.net/wiki/Alakazam_(Pok%C3%A9mon),55,50,65,150,175,105,600,Mega Alakazam,Psi Pokémon,Psychic,,1.5,48.0,1.0
+66,Machop,https://bulbapedia.bulbagarden.net/wiki/Machop_(Pok%C3%A9mon),70,80,50,35,35,35,305,,Superpower Pokémon,Fighting,,0.8,19.5,1.0
+67,Machoke,https://bulbapedia.bulbagarden.net/wiki/Machoke_(Pok%C3%A9mon),80,100,70,45,50,60,405,,Superpower Pokémon,Fighting,,1.5,70.5,1.0
+68,Machamp,https://bulbapedia.bulbagarden.net/wiki/Machamp_(Pok%C3%A9mon),90,130,80,55,65,85,505,,Superpower Pokémon,Fighting,,1.6,130.0,1.0
+69,Bellsprout,https://bulbapedia.bulbagarden.net/wiki/Bellsprout_(Pok%C3%A9mon),50,75,35,40,70,30,300,,Flower Pokémon,Grass,Poison,0.7,4.0,1.0
+70,Weepinbell,https://bulbapedia.bulbagarden.net/wiki/Weepinbell_(Pok%C3%A9mon),65,90,50,55,85,45,390,,Flycatcher Pokémon,Grass,Poison,1.0,6.4,1.0
+71,Victreebel,https://bulbapedia.bulbagarden.net/wiki/Victreebel_(Pok%C3%A9mon),80,105,65,70,100,70,490,,Flycatcher Pokémon,Grass,Poison,1.7,15.5,1.0
+71,Victreebel,https://bulbapedia.bulbagarden.net/wiki/Victreebel_(Pok%C3%A9mon),80,125,85,70,135,95,590,Mega Victreebel,Flycatcher Pokémon,Grass,Poison,1.7,15.5,1.0
+72,Tentacool,https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pok%C3%A9mon),40,40,35,70,50,100,335,,Jellyfish Pokémon,Water,Poison,0.9,45.5,1.0
+73,Tentacruel,https://bulbapedia.bulbagarden.net/wiki/Tentacruel_(Pok%C3%A9mon),80,70,65,100,80,120,515,,Jellyfish Pokémon,Water,Poison,1.6,55.0,1.0
+74,Geodude,https://bulbapedia.bulbagarden.net/wiki/Geodude_(Pok%C3%A9mon),40,80,100,20,30,30,300,,Rock Pokémon,Rock,Ground,0.4,20.0,1.0
+74,Geodude,https://bulbapedia.bulbagarden.net/wiki/Geodude_(Pok%C3%A9mon),40,80,100,20,30,30,300,Alolan Geodude,Rock Pokémon,Rock,Ground,0.4,20.0,1.0
+75,Graveler,https://bulbapedia.bulbagarden.net/wiki/Graveler_(Pok%C3%A9mon),55,95,115,35,45,45,390,,Rock Pokémon,Rock,Ground,1.0,105.0,1.0
+75,Graveler,https://bulbapedia.bulbagarden.net/wiki/Graveler_(Pok%C3%A9mon),55,95,115,35,45,45,390,Alolan Graveler,Rock Pokémon,Rock,Ground,1.0,105.0,1.0
+76,Golem,https://bulbapedia.bulbagarden.net/wiki/Golem_(Pok%C3%A9mon),80,120,130,45,55,65,495,,Megaton Pokémon,Rock,Ground,1.4,300.0,1.0
+76,Golem,https://bulbapedia.bulbagarden.net/wiki/Golem_(Pok%C3%A9mon),80,120,130,45,55,65,495,Alolan Golem,Megaton Pokémon,Rock,Ground,1.4,300.0,1.0
+77,Ponyta,https://bulbapedia.bulbagarden.net/wiki/Ponyta_(Pok%C3%A9mon),50,85,55,90,65,65,410,,Fire Horse Pokémon,Fire,,1.0,30.0,1.0
+77,Ponyta,https://bulbapedia.bulbagarden.net/wiki/Ponyta_(Pok%C3%A9mon),50,85,55,90,65,65,410,Galarian Ponyta,Fire Horse Pokémon,Fire,,1.0,30.0,1.0
+78,Rapidash,https://bulbapedia.bulbagarden.net/wiki/Rapidash_(Pok%C3%A9mon),65,100,70,105,80,80,500,,Fire Horse Pokémon,Fire,,1.7,95.0,1.0
+78,Rapidash,https://bulbapedia.bulbagarden.net/wiki/Rapidash_(Pok%C3%A9mon),65,100,70,105,80,80,500,Galarian Rapidash,Fire Horse Pokémon,Fire,,1.7,95.0,1.0
+79,Slowpoke,https://bulbapedia.bulbagarden.net/wiki/Slowpoke_(Pok%C3%A9mon),90,65,65,15,40,40,315,,Dopey Pokémon,Water,Psychic,1.2,36.0,1.0
+79,Slowpoke,https://bulbapedia.bulbagarden.net/wiki/Slowpoke_(Pok%C3%A9mon),90,65,65,15,40,40,315,Galarian Slowpoke,Dopey Pokémon,Water,Psychic,1.2,36.0,1.0
+80,Slowbro,https://bulbapedia.bulbagarden.net/wiki/Slowbro_(Pok%C3%A9mon),95,75,110,30,100,80,490,,Hermit Crab Pokémon,Water,Psychic,1.6,78.5,1.0
+80,Slowbro,https://bulbapedia.bulbagarden.net/wiki/Slowbro_(Pok%C3%A9mon),95,75,180,30,130,80,590,Mega Slowbro,Hermit Crab Pokémon,Water,Psychic,1.6,78.5,1.0
+80,Slowbro,https://bulbapedia.bulbagarden.net/wiki/Slowbro_(Pok%C3%A9mon),95,100,95,30,100,70,490,Galarian Slowbro,Hermit Crab Pokémon,Water,Psychic,1.6,78.5,1.0
+81,Magnemite,https://bulbapedia.bulbagarden.net/wiki/Magnemite_(Pok%C3%A9mon),25,35,70,45,95,55,325,,Magnet Pokémon,Electric,Steel,0.3,6.0,1.0
+82,Magneton,https://bulbapedia.bulbagarden.net/wiki/Magneton_(Pok%C3%A9mon),50,60,95,70,120,70,465,,Magnet Pokémon,Electric,Steel,1.0,60.0,1.0
+83,Farfetch'd,https://bulbapedia.bulbagarden.net/wiki/Farfetch%27d_(Pok%C3%A9mon),52,90,55,60,58,62,377,,Wild Duck Pokémon,Normal,Flying,0.8,15.0,1.0
+83,Farfetch'd,https://bulbapedia.bulbagarden.net/wiki/Farfetch%27d_(Pok%C3%A9mon),52,95,55,55,58,62,377,Galarian Farfetch'd,Wild Duck Pokémon,Normal,Flying,0.8,15.0,1.0
+84,Doduo,https://bulbapedia.bulbagarden.net/wiki/Doduo_(Pok%C3%A9mon),35,85,45,75,35,35,310,,Twin Bird Pokémon,Normal,Flying,1.4,39.2,1.0
+85,Dodrio,https://bulbapedia.bulbagarden.net/wiki/Dodrio_(Pok%C3%A9mon),60,110,70,110,60,60,470,,Triple Bird Pokémon,Normal,Flying,1.8,85.2,1.0
+86,Seel,https://bulbapedia.bulbagarden.net/wiki/Seel_(Pok%C3%A9mon),65,45,55,45,45,70,325,,Sea Lion Pokémon,Water,,1.1,90.0,1.0
+87,Dewgong,https://bulbapedia.bulbagarden.net/wiki/Dewgong_(Pok%C3%A9mon),90,70,80,70,70,95,475,,Sea Lion Pokémon,Water,Ice,1.7,120.0,1.0
+88,Grimer,https://bulbapedia.bulbagarden.net/wiki/Grimer_(Pok%C3%A9mon),80,80,50,25,40,50,325,,Sludge Pokémon,Poison,,0.9,30.0,1.0
+88,Grimer,https://bulbapedia.bulbagarden.net/wiki/Grimer_(Pok%C3%A9mon),80,80,50,25,40,50,325,Alolan Grimer,Sludge Pokémon,Poison,,0.9,30.0,1.0
+89,Muk,https://bulbapedia.bulbagarden.net/wiki/Muk_(Pok%C3%A9mon),105,105,75,50,65,100,500,,Sludge Pokémon,Poison,,1.2,30.0,1.0
+89,Muk,https://bulbapedia.bulbagarden.net/wiki/Muk_(Pok%C3%A9mon),105,105,75,50,65,100,500,Alolan Muk,Sludge Pokémon,Poison,,1.2,30.0,1.0
+90,Shellder,https://bulbapedia.bulbagarden.net/wiki/Shellder_(Pok%C3%A9mon),30,65,100,40,45,25,305,,Bivalve Pokémon,Water,,0.3,4.0,1.0
+91,Cloyster,https://bulbapedia.bulbagarden.net/wiki/Cloyster_(Pok%C3%A9mon),50,95,180,70,85,45,525,,Bivalve Pokémon,Water,Ice,1.5,132.5,1.0
+92,Gastly,https://bulbapedia.bulbagarden.net/wiki/Gastly_(Pok%C3%A9mon),30,35,30,80,100,35,310,,Gas Pokémon,Ghost,Poison,1.3,0.1,1.0
+93,Haunter,https://bulbapedia.bulbagarden.net/wiki/Haunter_(Pok%C3%A9mon),45,50,45,95,115,55,405,,Gas Pokémon,Ghost,Poison,1.6,0.1,1.0
+94,Gengar,https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pok%C3%A9mon),60,65,60,110,130,75,500,,Shadow Pokémon,Ghost,Poison,1.5,40.5,1.0
+94,Gengar,https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pok%C3%A9mon),60,65,80,130,170,95,600,Mega Gengar,Shadow Pokémon,Ghost,Poison,1.5,40.5,1.0
+95,Onix,https://bulbapedia.bulbagarden.net/wiki/Onix_(Pok%C3%A9mon),35,45,160,70,30,45,385,,Rock Snake Pokémon,Rock,Ground,8.8,210.0,1.0
+96,Drowzee,https://bulbapedia.bulbagarden.net/wiki/Drowzee_(Pok%C3%A9mon),60,48,45,42,43,90,328,,Hypnosis Pokémon,Psychic,,1.0,32.4,1.0
+97,Hypno,https://bulbapedia.bulbagarden.net/wiki/Hypno_(Pok%C3%A9mon),85,73,70,67,73,115,483,,Hypnosis Pokémon,Psychic,,1.6,75.6,1.0
+98,Krabby,https://bulbapedia.bulbagarden.net/wiki/Krabby_(Pok%C3%A9mon),30,105,90,50,25,25,325,,River Crab Pokémon,Water,,0.4,6.5,1.0
+99,Kingler,https://bulbapedia.bulbagarden.net/wiki/Kingler_(Pok%C3%A9mon),55,130,115,75,50,50,475,,Pincer Pokémon,Water,,1.3,60.0,1.0
+100,Voltorb,https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pok%C3%A9mon),40,30,50,100,55,55,330,,Ball Pokémon,Electric,,0.5,10.4,1.0
+100,Voltorb,https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pok%C3%A9mon),40,30,50,100,55,55,330,Hisuian Voltorb,Ball Pokémon,Electric,,0.5,10.4,1.0
+101,Electrode,https://bulbapedia.bulbagarden.net/wiki/Electrode_(Pok%C3%A9mon),60,50,70,150,80,80,490,,Ball Pokémon,Electric,,1.2,66.6,1.0
+101,Electrode,https://bulbapedia.bulbagarden.net/wiki/Electrode_(Pok%C3%A9mon),60,50,70,150,80,80,490,Hisuian Electrode,Ball Pokémon,Electric,,1.2,66.6,1.0
+102,Exeggcute,https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pok%C3%A9mon),60,40,80,40,60,45,325,,Egg Pokémon,Grass,Psychic,0.4,2.5,1.0
+103,Exeggutor,https://bulbapedia.bulbagarden.net/wiki/Exeggutor_(Pok%C3%A9mon),95,95,85,55,125,75,530,,Coconut Pokémon,Grass,Psychic,2.0,120.0,1.0
+103,Exeggutor,https://bulbapedia.bulbagarden.net/wiki/Exeggutor_(Pok%C3%A9mon),95,105,85,45,125,75,530,Alolan Exeggutor,Coconut Pokémon,Grass,Psychic,2.0,120.0,1.0
+104,Cubone,https://bulbapedia.bulbagarden.net/wiki/Cubone_(Pok%C3%A9mon),50,50,95,35,40,50,320,,Lonely Pokémon,Ground,,0.4,6.5,1.0
+105,Marowak,https://bulbapedia.bulbagarden.net/wiki/Marowak_(Pok%C3%A9mon),60,80,110,45,50,80,425,,Bone Keeper Pokémon,Ground,,1.0,45.0,1.0
+105,Marowak,https://bulbapedia.bulbagarden.net/wiki/Marowak_(Pok%C3%A9mon),60,80,110,45,50,80,425,Alolan Marowak,Bone Keeper Pokémon,Ground,,1.0,45.0,1.0
+106,Hitmonlee,https://bulbapedia.bulbagarden.net/wiki/Hitmonlee_(Pok%C3%A9mon),50,120,53,87,35,110,455,,Kicking Pokémon,Fighting,,1.5,49.8,1.0
+107,Hitmonchan,https://bulbapedia.bulbagarden.net/wiki/Hitmonchan_(Pok%C3%A9mon),50,105,79,76,35,110,455,,Punching Pokémon,Fighting,,1.4,50.2,1.0
+108,Lickitung,https://bulbapedia.bulbagarden.net/wiki/Lickitung_(Pok%C3%A9mon),90,55,75,30,60,75,385,,Licking Pokémon,Normal,,1.2,65.5,1.0
+109,Koffing,https://bulbapedia.bulbagarden.net/wiki/Koffing_(Pok%C3%A9mon),40,65,95,35,60,45,340,,Poison Gas Pokémon,Poison,,0.6,1.0,1.0
+110,Weezing,https://bulbapedia.bulbagarden.net/wiki/Weezing_(Pok%C3%A9mon),65,90,120,60,85,70,490,,Poison Gas Pokémon,Poison,,1.2,9.5,1.0
+110,Weezing,https://bulbapedia.bulbagarden.net/wiki/Weezing_(Pok%C3%A9mon),65,90,120,60,85,70,490,Galarian Weezing,Poison Gas Pokémon,Poison,,1.2,9.5,1.0
+111,Rhyhorn,https://bulbapedia.bulbagarden.net/wiki/Rhyhorn_(Pok%C3%A9mon),80,85,95,25,30,30,345,,Spikes Pokémon,Ground,Rock,1.0,115.0,1.0
+112,Rhydon,https://bulbapedia.bulbagarden.net/wiki/Rhydon_(Pok%C3%A9mon),105,130,120,40,45,45,485,,Drill Pokémon,Ground,Rock,1.9,120.0,1.0
+113,Chansey,https://bulbapedia.bulbagarden.net/wiki/Chansey_(Pok%C3%A9mon),250,5,5,50,35,105,450,,Egg Pokémon,Normal,,1.1,34.6,1.0
+114,Tangela,https://bulbapedia.bulbagarden.net/wiki/Tangela_(Pok%C3%A9mon),65,55,115,60,100,40,435,,Vine Pokémon,Grass,,1.0,35.0,1.0
+115,Kangaskhan,https://bulbapedia.bulbagarden.net/wiki/Kangaskhan_(Pok%C3%A9mon),105,95,80,90,40,80,490,,Parent Pokémon,Normal,,2.2,80.0,1.0
+115,Kangaskhan,https://bulbapedia.bulbagarden.net/wiki/Kangaskhan_(Pok%C3%A9mon),105,125,100,100,60,100,590,Mega Kangaskhan,Parent Pokémon,Normal,,2.2,80.0,1.0
+116,Horsea,https://bulbapedia.bulbagarden.net/wiki/Horsea_(Pok%C3%A9mon),30,40,70,60,70,25,295,,Dragon Pokémon,Water,,0.4,8.0,1.0
+117,Seadra,https://bulbapedia.bulbagarden.net/wiki/Seadra_(Pok%C3%A9mon),55,65,95,85,95,45,440,,Dragon Pokémon,Water,,1.2,25.0,1.0
+118,Goldeen,https://bulbapedia.bulbagarden.net/wiki/Goldeen_(Pok%C3%A9mon),45,67,60,63,35,50,320,,Goldfish Pokémon,Water,,0.6,15.0,1.0
+119,Seaking,https://bulbapedia.bulbagarden.net/wiki/Seaking_(Pok%C3%A9mon),80,92,65,68,65,80,450,,Goldfish Pokémon,Water,,1.3,39.0,1.0
+120,Staryu,https://bulbapedia.bulbagarden.net/wiki/Staryu_(Pok%C3%A9mon),30,45,55,85,70,55,340,,Star Shape Pokémon,Water,,0.8,34.5,1.0
+121,Starmie,https://bulbapedia.bulbagarden.net/wiki/Starmie_(Pok%C3%A9mon),60,75,85,115,100,85,520,,Mysterious Pokémon,Water,Psychic,1.1,80.0,1.0
+121,Starmie,https://bulbapedia.bulbagarden.net/wiki/Starmie_(Pok%C3%A9mon),60,140,105,120,130,105,660,Mega StarmieZA,Mysterious Pokémon,Water,Psychic,1.1,80.0,1.0
+122,Mr. Mime,https://bulbapedia.bulbagarden.net/wiki/Mr._Mime_(Pok%C3%A9mon),40,45,65,90,100,120,460,,Barrier Pokémon,Psychic,Fairy,1.3,54.5,1.0
+122,Mr. Mime,https://bulbapedia.bulbagarden.net/wiki/Mr._Mime_(Pok%C3%A9mon),50,65,65,100,90,90,460,Galarian Mr. Mime,Barrier Pokémon,Psychic,Fairy,1.3,54.5,1.0
+123,Scyther,https://bulbapedia.bulbagarden.net/wiki/Scyther_(Pok%C3%A9mon),70,110,80,105,55,80,500,,Mantis Pokémon,Bug,Flying,1.5,56.0,1.0
+124,Jynx,https://bulbapedia.bulbagarden.net/wiki/Jynx_(Pok%C3%A9mon),65,50,35,95,115,95,455,,Human Shape Pokémon,Ice,Psychic,1.4,40.6,1.0
+125,Electabuzz,https://bulbapedia.bulbagarden.net/wiki/Electabuzz_(Pok%C3%A9mon),65,83,57,105,95,85,490,,Electric Pokémon,Electric,,1.1,30.0,1.0
+126,Magmar,https://bulbapedia.bulbagarden.net/wiki/Magmar_(Pok%C3%A9mon),65,95,57,93,100,85,495,,Spitfire Pokémon,Fire,,1.3,44.5,1.0
+127,Pinsir,https://bulbapedia.bulbagarden.net/wiki/Pinsir_(Pok%C3%A9mon),65,125,100,85,55,70,500,,Stag Beetle Pokémon,Bug,,1.5,55.0,1.0
+127,Pinsir,https://bulbapedia.bulbagarden.net/wiki/Pinsir_(Pok%C3%A9mon),65,155,120,105,65,90,600,Mega Pinsir,Stag Beetle Pokémon,Bug,,1.5,55.0,1.0
+128,Tauros,https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pok%C3%A9mon),75,100,95,110,40,70,490,,Wild Bull Pokémon,Normal,,1.4,88.4,1.0
+128,Tauros,https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pok%C3%A9mon),75,110,105,100,30,70,490,Paldean Tauros (Combat Breed),Wild Bull Pokémon,Normal,,1.4,88.4,1.0
+128,Tauros,https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pok%C3%A9mon),75,110,105,100,30,70,490,Paldean Tauros (Blaze Breed),Wild Bull Pokémon,Normal,,1.4,88.4,1.0
+128,Tauros,https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pok%C3%A9mon),75,110,105,100,30,70,490,Paldean Tauros (Aqua Breed),Wild Bull Pokémon,Normal,,1.4,88.4,1.0
+129,Magikarp,https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon),20,10,55,80,15,20,200,,Fish Pokémon,Water,,0.9,10.0,1.0
+130,Gyarados,https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pok%C3%A9mon),95,125,79,81,60,100,540,,Atrocious Pokémon,Water,Flying,6.5,235.0,1.0
+130,Gyarados,https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pok%C3%A9mon),95,155,109,81,70,130,640,Mega Gyarados,Atrocious Pokémon,Water,Flying,6.5,235.0,1.0
+131,Lapras,https://bulbapedia.bulbagarden.net/wiki/Lapras_(Pok%C3%A9mon),130,85,80,60,85,95,535,,Transport Pokémon,Water,Ice,2.5,220.0,1.0
+132,Ditto,https://bulbapedia.bulbagarden.net/wiki/Ditto_(Pok%C3%A9mon),48,48,48,48,48,48,288,,Transform Pokémon,Normal,,0.3,4.0,1.0
+133,Eevee,https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon),55,55,50,55,45,65,325,,Evolution Pokémon,Normal,,0.3,6.5,1.0
+133,Eevee,https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon),65,75,70,75,65,85,435,Partner Eevee,Evolution Pokémon,Normal,,0.3,6.5,1.0
+134,Vaporeon,https://bulbapedia.bulbagarden.net/wiki/Vaporeon_(Pok%C3%A9mon),130,65,60,65,110,95,525,,Bubble Jet Pokémon,Water,,1.0,29.0,1.0
+135,Jolteon,https://bulbapedia.bulbagarden.net/wiki/Jolteon_(Pok%C3%A9mon),65,65,60,130,110,95,525,,Lightning Pokémon,Electric,,0.8,24.5,1.0
+136,Flareon,https://bulbapedia.bulbagarden.net/wiki/Flareon_(Pok%C3%A9mon),65,130,60,65,95,110,525,,Flame Pokémon,Fire,,0.9,25.0,1.0
+137,Porygon,https://bulbapedia.bulbagarden.net/wiki/Porygon_(Pok%C3%A9mon),65,60,70,40,85,75,395,,Virtual Pokémon,Normal,,0.8,36.5,1.0
+138,Omanyte,https://bulbapedia.bulbagarden.net/wiki/Omanyte_(Pok%C3%A9mon),35,40,100,35,90,55,355,,Spiral Pokémon,Rock,Water,0.4,7.5,1.0
+139,Omastar,https://bulbapedia.bulbagarden.net/wiki/Omastar_(Pok%C3%A9mon),70,60,125,55,115,70,495,,Spiral Pokémon,Rock,Water,1.0,35.0,1.0
+140,Kabuto,https://bulbapedia.bulbagarden.net/wiki/Kabuto_(Pok%C3%A9mon),30,80,90,55,55,45,355,,Shellfish Pokémon,Rock,Water,0.5,11.5,1.0
+141,Kabutops,https://bulbapedia.bulbagarden.net/wiki/Kabutops_(Pok%C3%A9mon),60,115,105,80,65,70,495,,Shellfish Pokémon,Rock,Water,1.3,40.5,1.0
+142,Aerodactyl,https://bulbapedia.bulbagarden.net/wiki/Aerodactyl_(Pok%C3%A9mon),80,105,65,130,60,75,515,,Fossil Pokémon,Rock,Flying,1.8,59.0,1.0
+142,Aerodactyl,https://bulbapedia.bulbagarden.net/wiki/Aerodactyl_(Pok%C3%A9mon),80,135,85,150,70,95,615,Mega Aerodactyl,Fossil Pokémon,Rock,Flying,1.8,59.0,1.0
+143,Snorlax,https://bulbapedia.bulbagarden.net/wiki/Snorlax_(Pok%C3%A9mon),160,110,65,30,65,110,540,,Sleeping Pokémon,Normal,,2.1,460.0,1.0
+144,Articuno,https://bulbapedia.bulbagarden.net/wiki/Articuno_(Pok%C3%A9mon),90,85,100,85,95,125,580,,Freeze Pokémon,Ice,Flying,1.7,55.4,1.0
+144,Articuno,https://bulbapedia.bulbagarden.net/wiki/Articuno_(Pok%C3%A9mon),90,85,85,95,125,100,580,Galarian Articuno,Freeze Pokémon,Ice,Flying,1.7,55.4,1.0
+145,Zapdos,https://bulbapedia.bulbagarden.net/wiki/Zapdos_(Pok%C3%A9mon),90,90,85,100,125,90,580,,Electric Pokémon,Electric,Flying,1.6,52.6,1.0
+145,Zapdos,https://bulbapedia.bulbagarden.net/wiki/Zapdos_(Pok%C3%A9mon),90,125,90,100,85,90,580,Galarian Zapdos,Electric Pokémon,Electric,Flying,1.6,52.6,1.0
+146,Moltres,https://bulbapedia.bulbagarden.net/wiki/Moltres_(Pok%C3%A9mon),90,100,90,90,125,85,580,,Flame Pokémon,Fire,Flying,2.0,60.0,1.0
+146,Moltres,https://bulbapedia.bulbagarden.net/wiki/Moltres_(Pok%C3%A9mon),90,85,90,90,100,125,580,Galarian Moltres,Flame Pokémon,Fire,Flying,2.0,60.0,1.0
+147,Dratini,https://bulbapedia.bulbagarden.net/wiki/Dratini_(Pok%C3%A9mon),41,64,45,50,50,50,300,,Dragon Pokémon,Dragon,,1.8,3.3,1.0
+148,Dragonair,https://bulbapedia.bulbagarden.net/wiki/Dragonair_(Pok%C3%A9mon),61,84,65,70,70,70,420,,Dragon Pokémon,Dragon,,4.0,16.5,1.0
+149,Dragonite,https://bulbapedia.bulbagarden.net/wiki/Dragonite_(Pok%C3%A9mon),91,134,95,80,100,100,600,,Dragon Pokémon,Dragon,Flying,2.2,210.0,1.0
+149,Dragonite,https://bulbapedia.bulbagarden.net/wiki/Dragonite_(Pok%C3%A9mon),91,124,115,100,145,125,700,Mega Dragonite,Dragon Pokémon,Dragon,Flying,2.2,210.0,1.0
+150,Mewtwo,https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pok%C3%A9mon),106,110,90,130,154,90,680,,Genetic Pokémon,Psychic,,2.0,122.0,1.0
+150,Mewtwo,https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pok%C3%A9mon),106,190,100,130,154,100,780,Mega Mewtwo X,Genetic Pokémon,Psychic,,2.0,122.0,1.0
+150,Mewtwo,https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pok%C3%A9mon),106,150,70,140,194,120,780,Mega Mewtwo Y,Genetic Pokémon,Psychic,,2.0,122.0,1.0
+151,Mew,https://bulbapedia.bulbagarden.net/wiki/Mew_(Pok%C3%A9mon),100,100,100,100,100,100,600,,New Species Pokémon,Psychic,,0.4,4.0,1.0
+152,Chikorita,https://bulbapedia.bulbagarden.net/wiki/Chikorita_(Pok%C3%A9mon),45,49,65,45,49,65,318,,Leaf Pokémon,Grass,,0.9,6.4,2.0
+153,Bayleef,https://bulbapedia.bulbagarden.net/wiki/Bayleef_(Pok%C3%A9mon),60,62,80,60,63,80,405,,Leaf Pokémon,Grass,,1.2,15.8,2.0
+154,,https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pok%C3%A9mon),80,82,100,80,83,100,525,Meganium,,,,,,2.0
+154,,https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pok%C3%A9mon),80,92,115,80,143,115,625,Meganium Mega Meganium,,,,,,2.0
+155,Cyndaquil,https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_(Pok%C3%A9mon),39,52,43,65,60,50,309,,Fire Mouse Pokémon,Fire,,0.5,7.9,2.0
+156,Quilava,https://bulbapedia.bulbagarden.net/wiki/Quilava_(Pok%C3%A9mon),58,64,58,80,80,65,405,,Volcano Pokémon,Fire,,0.9,19.0,2.0
+157,Typhlosion,https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pok%C3%A9mon),78,84,78,100,109,85,534,,Volcano Pokémon,Fire,,1.7,79.5,2.0
+157,Typhlosion,https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pok%C3%A9mon),73,84,78,95,119,85,534,Hisuian Typhlosion,Volcano Pokémon,Fire,,1.7,79.5,2.0
+158,Totodile,https://bulbapedia.bulbagarden.net/wiki/Totodile_(Pok%C3%A9mon),50,65,64,43,44,48,314,,Big Jaw Pokémon,Water,,0.6,9.5,2.0
+159,Croconaw,https://bulbapedia.bulbagarden.net/wiki/Croconaw_(Pok%C3%A9mon),65,80,80,58,59,63,405,,Big Jaw Pokémon,Water,,1.1,25.0,2.0
+160,Feraligatr,https://bulbapedia.bulbagarden.net/wiki/Feraligatr_(Pok%C3%A9mon),85,105,100,78,79,83,530,,Big Jaw Pokémon,Water,,2.3,88.8,2.0
+160,Feraligatr,https://bulbapedia.bulbagarden.net/wiki/Feraligatr_(Pok%C3%A9mon),85,160,125,78,89,93,630,Mega Feraligatr,Big Jaw Pokémon,Water,,2.3,88.8,2.0
+161,Sentret,https://bulbapedia.bulbagarden.net/wiki/Sentret_(Pok%C3%A9mon),35,46,34,20,35,45,215,,Scout Pokémon,Normal,,0.8,6.0,2.0
+162,Furret,https://bulbapedia.bulbagarden.net/wiki/Furret_(Pok%C3%A9mon),85,76,64,90,45,55,415,,Long Body Pokémon,Normal,,1.8,32.5,2.0
+163,Hoothoot,https://bulbapedia.bulbagarden.net/wiki/Hoothoot_(Pok%C3%A9mon),60,30,30,50,36,56,262,,Owl Pokémon,Normal,Flying,0.7,21.2,2.0
+164,Noctowl,https://bulbapedia.bulbagarden.net/wiki/Noctowl_(Pok%C3%A9mon),100,50,50,70,86,96,452,,Owl Pokémon,Normal,Flying,1.6,40.8,2.0
+165,Ledyba,https://bulbapedia.bulbagarden.net/wiki/Ledyba_(Pok%C3%A9mon),40,20,30,55,40,80,265,,Five Star Pokémon,Bug,Flying,1.0,10.8,2.0
+166,Ledian,https://bulbapedia.bulbagarden.net/wiki/Ledian_(Pok%C3%A9mon),55,35,50,85,55,110,390,,Five Star Pokémon,Bug,Flying,1.4,35.6,2.0
+167,Spinarak,https://bulbapedia.bulbagarden.net/wiki/Spinarak_(Pok%C3%A9mon),40,60,40,30,40,40,250,,String Spit Pokémon,Bug,Poison,0.5,8.5,2.0
+168,Ariados,https://bulbapedia.bulbagarden.net/wiki/Ariados_(Pok%C3%A9mon),70,90,70,40,60,70,400,,Long Leg Pokémon,Bug,Poison,1.1,33.5,2.0
+169,Crobat,https://bulbapedia.bulbagarden.net/wiki/Crobat_(Pok%C3%A9mon),85,90,80,130,70,80,535,,Bat Pokémon,Poison,Flying,1.8,75.0,2.0
+170,Chinchou,https://bulbapedia.bulbagarden.net/wiki/Chinchou_(Pok%C3%A9mon),75,38,38,67,56,56,330,,Angler Pokémon,Water,Electric,0.5,12.0,2.0
+171,Lanturn,https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pok%C3%A9mon),125,58,58,67,76,76,460,,Light Pokémon,Water,Electric,1.2,22.5,2.0
+172,Pichu,https://bulbapedia.bulbagarden.net/wiki/Pichu_(Pok%C3%A9mon),20,40,15,60,35,35,205,,Tiny Mouse Pokémon,Electric,,0.3,2.0,2.0
+173,Cleffa,https://bulbapedia.bulbagarden.net/wiki/Cleffa_(Pok%C3%A9mon),50,25,28,15,45,55,218,,Star Shape Pokémon,Fairy,,0.3,3.0,2.0
+174,Igglybuff,https://bulbapedia.bulbagarden.net/wiki/Igglybuff_(Pok%C3%A9mon),90,30,15,15,40,20,210,,Balloon Pokémon,Normal,Fairy,0.3,1.0,2.0
+175,Togepi,https://bulbapedia.bulbagarden.net/wiki/Togepi_(Pok%C3%A9mon),35,20,65,20,40,65,245,,Spike Ball Pokémon,Fairy,,0.3,1.5,2.0
+176,Togetic,https://bulbapedia.bulbagarden.net/wiki/Togetic_(Pok%C3%A9mon),55,40,85,40,80,105,405,,Happiness Pokémon,Fairy,Flying,0.6,3.2,2.0
+177,Natu,https://bulbapedia.bulbagarden.net/wiki/Natu_(Pok%C3%A9mon),40,50,45,70,70,45,320,,Tiny Bird Pokémon,Psychic,Flying,0.2,2.0,2.0
+178,Xatu,https://bulbapedia.bulbagarden.net/wiki/Xatu_(Pok%C3%A9mon),65,75,70,95,95,70,470,,Mystic Pokémon,Psychic,Flying,1.5,15.0,2.0
+179,Mareep,https://bulbapedia.bulbagarden.net/wiki/Mareep_(Pok%C3%A9mon),55,40,40,35,65,45,280,,Wool Pokémon,Electric,,0.6,7.8,2.0
+180,Flaaffy,https://bulbapedia.bulbagarden.net/wiki/Flaaffy_(Pok%C3%A9mon),70,55,55,45,80,60,365,,Wool Pokémon,Electric,,0.8,13.3,2.0
+181,Ampharos,https://bulbapedia.bulbagarden.net/wiki/Ampharos_(Pok%C3%A9mon),90,75,85,55,115,90,510,,Light Pokémon,Electric,,1.4,61.5,2.0
+181,Ampharos,https://bulbapedia.bulbagarden.net/wiki/Ampharos_(Pok%C3%A9mon),90,95,105,45,165,110,610,Mega Ampharos,Light Pokémon,Electric,,1.4,61.5,2.0
+182,Bellossom,https://bulbapedia.bulbagarden.net/wiki/Bellossom_(Pok%C3%A9mon),75,80,95,50,90,100,490,,Flower Pokémon,Grass,,0.4,5.8,2.0
+183,Marill,https://bulbapedia.bulbagarden.net/wiki/Marill_(Pok%C3%A9mon),70,20,50,40,20,50,250,,Aqua Mouse Pokémon,Water,Fairy,0.4,8.5,2.0
+184,Azumarill,https://bulbapedia.bulbagarden.net/wiki/Azumarill_(Pok%C3%A9mon),100,50,80,50,60,80,420,,Aqua Rabbit Pokémon,Water,Fairy,0.8,28.5,2.0
+185,Sudowoodo,https://bulbapedia.bulbagarden.net/wiki/Sudowoodo_(Pok%C3%A9mon),70,100,115,30,30,65,410,,Imitation Pokémon,Rock,,1.2,38.0,2.0
+186,Politoed,https://bulbapedia.bulbagarden.net/wiki/Politoed_(Pok%C3%A9mon),90,75,75,70,90,100,500,,Frog Pokémon,Water,,1.1,33.9,2.0
+187,Hoppip,https://bulbapedia.bulbagarden.net/wiki/Hoppip_(Pok%C3%A9mon),35,35,40,50,35,55,250,,Cottonweed Pokémon,Grass,Flying,0.4,0.5,2.0
+188,Skiploom,https://bulbapedia.bulbagarden.net/wiki/Skiploom_(Pok%C3%A9mon),55,45,50,80,45,65,340,,Cottonweed Pokémon,Grass,Flying,0.6,1.0,2.0
+189,Jumpluff,https://bulbapedia.bulbagarden.net/wiki/Jumpluff_(Pok%C3%A9mon),75,55,70,110,55,95,460,,Cottonweed Pokémon,Grass,Flying,0.8,3.0,2.0
+190,Aipom,https://bulbapedia.bulbagarden.net/wiki/Aipom_(Pok%C3%A9mon),55,70,55,85,40,55,360,,Long Tail Pokémon,Normal,,0.8,11.5,2.0
+191,Sunkern,https://bulbapedia.bulbagarden.net/wiki/Sunkern_(Pok%C3%A9mon),30,30,30,30,30,30,180,,Seed Pokémon,Grass,,0.3,1.8,2.0
+192,Sunflora,https://bulbapedia.bulbagarden.net/wiki/Sunflora_(Pok%C3%A9mon),75,75,55,30,105,85,425,,Sun Pokémon,Grass,,0.8,8.5,2.0
+193,Yanma,https://bulbapedia.bulbagarden.net/wiki/Yanma_(Pok%C3%A9mon),65,65,45,95,75,45,390,,Clear Wing Pokémon,Bug,Flying,1.2,38.0,2.0
+194,Wooper,https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pok%C3%A9mon),55,45,45,15,25,25,210,,Water Fish Pokémon,Water,Ground,0.4,8.5,2.0
+194,Wooper,https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pok%C3%A9mon),55,45,45,15,25,25,210,Paldean Wooper,Water Fish Pokémon,Water,Ground,0.4,8.5,2.0
+195,Quagsire,https://bulbapedia.bulbagarden.net/wiki/Quagsire_(Pok%C3%A9mon),95,85,85,35,65,65,430,,Water Fish Pokémon,Water,Ground,1.4,75.0,2.0
+196,Espeon,https://bulbapedia.bulbagarden.net/wiki/Espeon_(Pok%C3%A9mon),65,65,60,110,130,95,525,,Sun Pokémon,Psychic,,0.9,26.5,2.0
+197,Umbreon,https://bulbapedia.bulbagarden.net/wiki/Umbreon_(Pok%C3%A9mon),95,65,110,65,60,130,525,,Moonlight Pokémon,Dark,,1.0,27.0,2.0
+198,Murkrow,https://bulbapedia.bulbagarden.net/wiki/Murkrow_(Pok%C3%A9mon),60,85,42,91,85,42,405,,Darkness Pokémon,Dark,Flying,0.5,2.1,2.0
+199,Slowking,https://bulbapedia.bulbagarden.net/wiki/Slowking_(Pok%C3%A9mon),95,75,80,30,100,110,490,,Royal Pokémon,Water,Psychic,2.0,79.5,2.0
+199,Slowking,https://bulbapedia.bulbagarden.net/wiki/Slowking_(Pok%C3%A9mon),95,65,80,30,110,110,490,Galarian Slowking,Royal Pokémon,Water,Psychic,2.0,79.5,2.0
+200,Misdreavus,https://bulbapedia.bulbagarden.net/wiki/Misdreavus_(Pok%C3%A9mon),60,60,60,85,85,85,435,,Screech Pokémon,Ghost,,0.7,1.0,2.0
+201,Unown,https://bulbapedia.bulbagarden.net/wiki/Unown_(Pok%C3%A9mon),48,72,48,48,72,48,336,,Symbol Pokémon,Psychic,,0.5,5.0,2.0
+202,Wobbuffet,https://bulbapedia.bulbagarden.net/wiki/Wobbuffet_(Pok%C3%A9mon),190,33,58,33,33,58,405,,Patient Pokémon,Psychic,,1.3,28.5,2.0
+203,Girafarig,https://bulbapedia.bulbagarden.net/wiki/Girafarig_(Pok%C3%A9mon),70,80,65,85,90,65,455,,Long Neck Pokémon,Normal,Psychic,1.5,41.5,2.0
+204,Pineco,https://bulbapedia.bulbagarden.net/wiki/Pineco_(Pok%C3%A9mon),50,65,90,15,35,35,290,,Bagworm Pokémon,Bug,,0.6,7.2,2.0
+205,Forretress,https://bulbapedia.bulbagarden.net/wiki/Forretress_(Pok%C3%A9mon),75,90,140,40,60,60,465,,Bagworm Pokémon,Bug,Steel,1.2,125.8,2.0
+206,Dunsparce,https://bulbapedia.bulbagarden.net/wiki/Dunsparce_(Pok%C3%A9mon),100,70,70,45,65,65,415,,Land Snake Pokémon,Normal,,1.5,14.0,2.0
+207,Gligar,https://bulbapedia.bulbagarden.net/wiki/Gligar_(Pok%C3%A9mon),65,75,105,85,35,65,430,,Fly Scorpion Pokémon,Ground,Flying,1.1,64.8,2.0
+208,Steelix,https://bulbapedia.bulbagarden.net/wiki/Steelix_(Pok%C3%A9mon),75,85,200,30,55,65,510,,Iron Snake Pokémon,Steel,Ground,9.2,400.0,2.0
+208,Steelix,https://bulbapedia.bulbagarden.net/wiki/Steelix_(Pok%C3%A9mon),75,125,230,30,55,95,610,Mega Steelix,Iron Snake Pokémon,Steel,Ground,9.2,400.0,2.0
+209,Snubbull,https://bulbapedia.bulbagarden.net/wiki/Snubbull_(Pok%C3%A9mon),60,80,50,30,40,40,300,,Fairy Pokémon,Fairy,,0.6,7.8,2.0
+210,Granbull,https://bulbapedia.bulbagarden.net/wiki/Granbull_(Pok%C3%A9mon),90,120,75,45,60,60,450,,Fairy Pokémon,Fairy,,1.4,48.7,2.0
+211,Qwilfish,https://bulbapedia.bulbagarden.net/wiki/Qwilfish_(Pok%C3%A9mon),65,95,85,85,55,55,440,,Balloon Pokémon,Water,Poison,0.5,3.9,2.0
+211,Qwilfish,https://bulbapedia.bulbagarden.net/wiki/Qwilfish_(Pok%C3%A9mon),65,95,85,85,55,55,440,Hisuian Qwilfish,Balloon Pokémon,Water,Poison,0.5,3.9,2.0
+212,Scizor,https://bulbapedia.bulbagarden.net/wiki/Scizor_(Pok%C3%A9mon),70,130,100,65,55,80,500,,Pincer Pokémon,Bug,Steel,1.8,118.0,2.0
+212,Scizor,https://bulbapedia.bulbagarden.net/wiki/Scizor_(Pok%C3%A9mon),70,150,140,75,65,100,600,Mega Scizor,Pincer Pokémon,Bug,Steel,1.8,118.0,2.0
+213,Shuckle,https://bulbapedia.bulbagarden.net/wiki/Shuckle_(Pok%C3%A9mon),20,10,230,5,10,230,505,,Mold Pokémon,Bug,Rock,0.6,20.5,2.0
+214,Heracross,https://bulbapedia.bulbagarden.net/wiki/Heracross_(Pok%C3%A9mon),80,125,75,85,40,95,500,,Single Horn Pokémon,Bug,Fighting,1.5,54.0,2.0
+214,Heracross,https://bulbapedia.bulbagarden.net/wiki/Heracross_(Pok%C3%A9mon),80,185,115,75,40,105,600,Mega Heracross,Single Horn Pokémon,Bug,Fighting,1.5,54.0,2.0
+215,Sneasel,https://bulbapedia.bulbagarden.net/wiki/Sneasel_(Pok%C3%A9mon),55,95,55,115,35,75,430,,Sharp Claw Pokémon,Dark,Ice,0.9,28.0,2.0
+215,Sneasel,https://bulbapedia.bulbagarden.net/wiki/Sneasel_(Pok%C3%A9mon),55,95,55,115,35,75,430,Hisuian Sneasel,Sharp Claw Pokémon,Dark,Ice,0.9,28.0,2.0
+216,Teddiursa,https://bulbapedia.bulbagarden.net/wiki/Teddiursa_(Pok%C3%A9mon),60,80,50,40,50,50,330,,Little Bear Pokémon,Normal,,0.6,8.8,2.0
+217,Ursaring,https://bulbapedia.bulbagarden.net/wiki/Ursaring_(Pok%C3%A9mon),90,130,75,55,75,75,500,,Hibernator Pokémon,Normal,,1.8,125.8,2.0
+218,Slugma,https://bulbapedia.bulbagarden.net/wiki/Slugma_(Pok%C3%A9mon),40,40,40,20,70,40,250,,Lava Pokémon,Fire,,0.7,35.0,2.0
+219,Magcargo,https://bulbapedia.bulbagarden.net/wiki/Magcargo_(Pok%C3%A9mon),60,50,120,30,90,80,430,,Lava Pokémon,Fire,Rock,0.8,55.0,2.0
+220,Swinub,https://bulbapedia.bulbagarden.net/wiki/Swinub_(Pok%C3%A9mon),50,50,40,50,30,30,250,,Pig Pokémon,Ice,Ground,0.4,6.5,2.0
+221,Piloswine,https://bulbapedia.bulbagarden.net/wiki/Piloswine_(Pok%C3%A9mon),100,100,80,50,60,60,450,,Swine Pokémon,Ice,Ground,1.1,55.8,2.0
+222,Corsola,https://bulbapedia.bulbagarden.net/wiki/Corsola_(Pok%C3%A9mon),65,55,95,35,65,95,410,,Coral Pokémon,Water,Rock,0.6,5.0,2.0
+222,Corsola,https://bulbapedia.bulbagarden.net/wiki/Corsola_(Pok%C3%A9mon),60,55,100,30,65,100,410,Galarian Corsola,Coral Pokémon,Water,Rock,0.6,5.0,2.0
+223,Remoraid,https://bulbapedia.bulbagarden.net/wiki/Remoraid_(Pok%C3%A9mon),35,65,35,65,65,35,300,,Jet Pokémon,Water,,0.6,12.0,2.0
+224,Octillery,https://bulbapedia.bulbagarden.net/wiki/Octillery_(Pok%C3%A9mon),75,105,75,45,105,75,480,,Jet Pokémon,Water,,0.9,28.5,2.0
+225,Delibird,https://bulbapedia.bulbagarden.net/wiki/Delibird_(Pok%C3%A9mon),45,55,45,75,65,45,330,,Delivery Pokémon,Ice,Flying,0.9,16.0,2.0
+226,Mantine,https://bulbapedia.bulbagarden.net/wiki/Mantine_(Pok%C3%A9mon),85,40,70,70,80,140,485,,Kite Pokémon,Water,Flying,2.1,220.0,2.0
+227,Skarmory,https://bulbapedia.bulbagarden.net/wiki/Skarmory_(Pok%C3%A9mon),65,80,140,70,40,70,465,,Armor Bird Pokémon,Steel,Flying,1.7,50.5,2.0
+227,Skarmory,https://bulbapedia.bulbagarden.net/wiki/Skarmory_(Pok%C3%A9mon),65,140,110,110,40,100,565,Mega Skarmory,Armor Bird Pokémon,Steel,Flying,1.7,50.5,2.0
+228,Houndour,https://bulbapedia.bulbagarden.net/wiki/Houndour_(Pok%C3%A9mon),45,60,30,65,80,50,330,,Dark Pokémon,Dark,Fire,0.6,10.8,2.0
+229,Houndoom,https://bulbapedia.bulbagarden.net/wiki/Houndoom_(Pok%C3%A9mon),75,90,50,95,110,80,500,,Dark Pokémon,Dark,Fire,1.4,35.0,2.0
+229,Houndoom,https://bulbapedia.bulbagarden.net/wiki/Houndoom_(Pok%C3%A9mon),75,90,90,115,140,90,600,Mega Houndoom,Dark Pokémon,Dark,Fire,1.4,35.0,2.0
+230,Kingdra,https://bulbapedia.bulbagarden.net/wiki/Kingdra_(Pok%C3%A9mon),75,95,95,85,95,95,540,,Dragon Pokémon,Water,Dragon,1.8,152.0,2.0
+231,Phanpy,https://bulbapedia.bulbagarden.net/wiki/Phanpy_(Pok%C3%A9mon),90,60,60,40,40,40,330,,Long Nose Pokémon,Ground,,0.5,33.5,2.0
+232,Donphan,https://bulbapedia.bulbagarden.net/wiki/Donphan_(Pok%C3%A9mon),90,120,120,50,60,60,500,,Armor Pokémon,Ground,,1.1,120.0,2.0
+233,Porygon2,https://bulbapedia.bulbagarden.net/wiki/Porygon2_(Pok%C3%A9mon),85,80,90,60,105,95,515,,Virtual Pokémon,Normal,,0.6,32.5,2.0
+234,Stantler,https://bulbapedia.bulbagarden.net/wiki/Stantler_(Pok%C3%A9mon),73,95,62,85,85,65,465,,Big Horn Pokémon,Normal,,1.4,71.2,2.0
+235,Smeargle,https://bulbapedia.bulbagarden.net/wiki/Smeargle_(Pok%C3%A9mon),55,20,35,75,20,45,250,,Painter Pokémon,Normal,,1.2,58.0,2.0
+236,Tyrogue,https://bulbapedia.bulbagarden.net/wiki/Tyrogue_(Pok%C3%A9mon),35,35,35,35,35,35,210,,Scuffle Pokémon,Fighting,,0.7,21.0,2.0
+237,Hitmontop,https://bulbapedia.bulbagarden.net/wiki/Hitmontop_(Pok%C3%A9mon),50,95,95,70,35,110,455,,Handstand Pokémon,Fighting,,1.4,48.0,2.0
+238,Smoochum,https://bulbapedia.bulbagarden.net/wiki/Smoochum_(Pok%C3%A9mon),45,30,15,65,85,65,305,,Kiss Pokémon,Ice,Psychic,0.4,6.0,2.0
+239,Elekid,https://bulbapedia.bulbagarden.net/wiki/Elekid_(Pok%C3%A9mon),45,63,37,95,65,55,360,,Electric Pokémon,Electric,,0.6,23.5,2.0
+240,Magby,https://bulbapedia.bulbagarden.net/wiki/Magby_(Pok%C3%A9mon),45,75,37,83,70,55,365,,Live Coal Pokémon,Fire,,0.7,21.4,2.0
+241,Miltank,https://bulbapedia.bulbagarden.net/wiki/Miltank_(Pok%C3%A9mon),95,80,105,100,40,70,490,,Milk Cow Pokémon,Normal,,1.2,75.5,2.0
+242,Blissey,https://bulbapedia.bulbagarden.net/wiki/Blissey_(Pok%C3%A9mon),255,10,10,55,75,135,540,,Happiness Pokémon,Normal,,1.5,46.8,2.0
+243,Raikou,https://bulbapedia.bulbagarden.net/wiki/Raikou_(Pok%C3%A9mon),90,85,75,115,115,100,580,,Thunder Pokémon,Electric,,1.9,178.0,2.0
+244,Entei,https://bulbapedia.bulbagarden.net/wiki/Entei_(Pok%C3%A9mon),115,115,85,100,90,75,580,,Volcano Pokémon,Fire,,2.1,198.0,2.0
+245,Suicune,https://bulbapedia.bulbagarden.net/wiki/Suicune_(Pok%C3%A9mon),100,75,115,85,90,115,580,,Aurora Pokémon,Water,,2.0,187.0,2.0
+246,Larvitar,https://bulbapedia.bulbagarden.net/wiki/Larvitar_(Pok%C3%A9mon),50,64,50,41,45,50,300,,Rock Skin Pokémon,Rock,Ground,0.6,72.0,2.0
+247,Pupitar,https://bulbapedia.bulbagarden.net/wiki/Pupitar_(Pok%C3%A9mon),70,84,70,51,65,70,410,,Hard Shell Pokémon,Rock,Ground,1.2,152.0,2.0
+248,Tyranitar,https://bulbapedia.bulbagarden.net/wiki/Tyranitar_(Pok%C3%A9mon),100,134,110,61,95,100,600,,Armor Pokémon,Rock,Dark,2.0,202.0,2.0
+248,Tyranitar,https://bulbapedia.bulbagarden.net/wiki/Tyranitar_(Pok%C3%A9mon),100,164,150,71,95,120,700,Mega Tyranitar,Armor Pokémon,Rock,Dark,2.0,202.0,2.0
+249,Lugia,https://bulbapedia.bulbagarden.net/wiki/Lugia_(Pok%C3%A9mon),106,90,130,110,90,154,680,,Diving Pokémon,Psychic,Flying,5.2,216.0,2.0
+250,Ho-Oh,https://bulbapedia.bulbagarden.net/wiki/Ho-Oh_(Pok%C3%A9mon),106,130,90,90,110,154,680,,Rainbow Pokémon,Fire,Flying,3.8,199.0,2.0
+251,Celebi,https://bulbapedia.bulbagarden.net/wiki/Celebi_(Pok%C3%A9mon),100,100,100,100,100,100,600,,Time Travel Pokémon,Psychic,Grass,0.6,5.0,2.0
+252,Treecko,https://bulbapedia.bulbagarden.net/wiki/Treecko_(Pok%C3%A9mon),40,45,35,70,65,55,310,,Wood Gecko Pokémon,Grass,,0.5,5.0,3.0
+253,Grovyle,https://bulbapedia.bulbagarden.net/wiki/Grovyle_(Pok%C3%A9mon),50,65,45,95,85,65,405,,Wood Gecko Pokémon,Grass,,0.9,21.6,3.0
+254,Sceptile,https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pok%C3%A9mon),70,85,65,120,105,85,530,,Forest Pokémon,Grass,,1.7,52.2,3.0
+254,Sceptile,https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pok%C3%A9mon),70,110,75,145,145,85,630,Mega Sceptile,Forest Pokémon,Grass,,1.7,52.2,3.0
+255,Torchic,https://bulbapedia.bulbagarden.net/wiki/Torchic_(Pok%C3%A9mon),45,60,40,45,70,50,310,,Chick Pokémon,Fire,,0.4,2.5,3.0
+256,Combusken,https://bulbapedia.bulbagarden.net/wiki/Combusken_(Pok%C3%A9mon),60,85,60,55,85,60,405,,Young Fowl Pokémon,Fire,Fighting,0.9,19.5,3.0
+257,Blaziken,https://bulbapedia.bulbagarden.net/wiki/Blaziken_(Pok%C3%A9mon),80,120,70,80,110,70,530,,Blaze Pokémon,Fire,Fighting,1.9,52.0,3.0
+257,Blaziken,https://bulbapedia.bulbagarden.net/wiki/Blaziken_(Pok%C3%A9mon),80,160,80,100,130,80,630,Mega Blaziken,Blaze Pokémon,Fire,Fighting,1.9,52.0,3.0
+258,Mudkip,https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon),50,70,50,40,50,50,310,,Mud Fish Pokémon,Water,,0.4,7.6,3.0
+259,Marshtomp,https://bulbapedia.bulbagarden.net/wiki/Marshtomp_(Pok%C3%A9mon),70,85,70,50,60,70,405,,Mud Fish Pokémon,Water,Ground,0.7,28.0,3.0
+260,Swampert,https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pok%C3%A9mon),100,110,90,60,85,90,535,,Mud Fish Pokémon,Water,Ground,1.5,81.9,3.0
+260,Swampert,https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pok%C3%A9mon),100,150,110,70,95,110,635,Mega Swampert,Mud Fish Pokémon,Water,Ground,1.5,81.9,3.0
+261,Poochyena,https://bulbapedia.bulbagarden.net/wiki/Poochyena_(Pok%C3%A9mon),35,55,35,35,30,30,220,,Bite Pokémon,Dark,,0.5,13.6,3.0
+262,Mightyena,https://bulbapedia.bulbagarden.net/wiki/Mightyena_(Pok%C3%A9mon),70,90,70,70,60,60,420,,Bite Pokémon,Dark,,1.0,37.0,3.0
+263,Zigzagoon,https://bulbapedia.bulbagarden.net/wiki/Zigzagoon_(Pok%C3%A9mon),38,30,41,60,30,41,240,,Tiny Raccoon Pokémon,Normal,,0.4,17.5,3.0
+263,Zigzagoon,https://bulbapedia.bulbagarden.net/wiki/Zigzagoon_(Pok%C3%A9mon),38,30,41,60,30,41,240,Galarian Zigzagoon,Tiny Raccoon Pokémon,Normal,,0.4,17.5,3.0
+264,Linoone,https://bulbapedia.bulbagarden.net/wiki/Linoone_(Pok%C3%A9mon),78,70,61,100,50,61,420,,Rushing Pokémon,Normal,,0.5,32.5,3.0
+264,Linoone,https://bulbapedia.bulbagarden.net/wiki/Linoone_(Pok%C3%A9mon),78,70,61,100,50,61,420,Galarian Linoone,Rushing Pokémon,Normal,,0.5,32.5,3.0
+265,Wurmple,https://bulbapedia.bulbagarden.net/wiki/Wurmple_(Pok%C3%A9mon),45,45,35,20,20,30,195,,Worm Pokémon,Bug,,0.3,3.6,3.0
+266,Silcoon,https://bulbapedia.bulbagarden.net/wiki/Silcoon_(Pok%C3%A9mon),50,35,55,15,25,25,205,,Cocoon Pokémon,Bug,,0.6,10.0,3.0
+267,Beautifly,https://bulbapedia.bulbagarden.net/wiki/Beautifly_(Pok%C3%A9mon),60,70,50,65,100,50,395,,Butterfly Pokémon,Bug,Flying,1.0,28.4,3.0
+268,Cascoon,https://bulbapedia.bulbagarden.net/wiki/Cascoon_(Pok%C3%A9mon),50,35,55,15,25,25,205,,Cocoon Pokémon,Bug,,0.7,11.5,3.0
+269,Dustox,https://bulbapedia.bulbagarden.net/wiki/Dustox_(Pok%C3%A9mon),60,50,70,65,50,90,385,,Poison Moth Pokémon,Bug,Poison,1.2,31.6,3.0
+270,Lotad,https://bulbapedia.bulbagarden.net/wiki/Lotad_(Pok%C3%A9mon),40,30,30,30,40,50,220,,Water Weed Pokémon,Water,Grass,0.5,2.6,3.0
+271,Lombre,https://bulbapedia.bulbagarden.net/wiki/Lombre_(Pok%C3%A9mon),60,50,50,50,60,70,340,,Jolly Pokémon,Water,Grass,1.2,32.5,3.0
+272,Ludicolo,https://bulbapedia.bulbagarden.net/wiki/Ludicolo_(Pok%C3%A9mon),80,70,70,70,90,100,480,,Carefree Pokémon,Water,Grass,1.5,55.0,3.0
+273,Seedot,https://bulbapedia.bulbagarden.net/wiki/Seedot_(Pok%C3%A9mon),40,40,50,30,30,30,220,,Acorn Pokémon,Grass,,0.5,4.0,3.0
+274,Nuzleaf,https://bulbapedia.bulbagarden.net/wiki/Nuzleaf_(Pok%C3%A9mon),70,70,40,60,60,40,340,,Wily Pokémon,Grass,Dark,1.0,28.0,3.0
+275,Shiftry,https://bulbapedia.bulbagarden.net/wiki/Shiftry_(Pok%C3%A9mon),90,100,60,80,90,60,480,,Wicked Pokémon,Grass,Dark,1.3,59.6,3.0
+276,Taillow,https://bulbapedia.bulbagarden.net/wiki/Taillow_(Pok%C3%A9mon),40,55,30,85,30,30,270,,Tiny Swallow Pokémon,Normal,Flying,0.3,2.3,3.0
+277,Swellow,https://bulbapedia.bulbagarden.net/wiki/Swellow_(Pok%C3%A9mon),60,85,60,125,75,50,455,,Swallow Pokémon,Normal,Flying,0.7,19.8,3.0
+278,Wingull,https://bulbapedia.bulbagarden.net/wiki/Wingull_(Pok%C3%A9mon),40,30,30,85,55,30,270,,Seagull Pokémon,Water,Flying,0.6,9.5,3.0
+279,Pelipper,https://bulbapedia.bulbagarden.net/wiki/Pelipper_(Pok%C3%A9mon),60,50,100,65,95,70,440,,Water Bird Pokémon,Water,Flying,1.2,28.0,3.0
+280,Ralts,https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pok%C3%A9mon),28,25,25,40,45,35,198,,Feeling Pokémon,Psychic,Fairy,0.4,6.6,3.0
+281,Kirlia,https://bulbapedia.bulbagarden.net/wiki/Kirlia_(Pok%C3%A9mon),38,35,35,50,65,55,278,,Emotion Pokémon,Psychic,Fairy,0.8,20.2,3.0
+282,Gardevoir,https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pok%C3%A9mon),68,65,65,80,125,115,518,,Embrace Pokémon,Psychic,Fairy,1.6,48.4,3.0
+282,Gardevoir,https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pok%C3%A9mon),68,85,65,100,165,135,618,Mega Gardevoir,Embrace Pokémon,Psychic,Fairy,1.6,48.4,3.0
+283,Surskit,https://bulbapedia.bulbagarden.net/wiki/Surskit_(Pok%C3%A9mon),40,30,32,65,50,52,269,,Pond Skater Pokémon,Bug,Water,0.5,1.7,3.0
+284,Masquerain,https://bulbapedia.bulbagarden.net/wiki/Masquerain_(Pok%C3%A9mon),70,60,62,80,100,82,454,,Eyeball Pokémon,Bug,Flying,0.8,3.6,3.0
+285,Shroomish,https://bulbapedia.bulbagarden.net/wiki/Shroomish_(Pok%C3%A9mon),60,40,60,35,40,60,295,,Mushroom Pokémon,Grass,,0.4,4.5,3.0
+286,Breloom,https://bulbapedia.bulbagarden.net/wiki/Breloom_(Pok%C3%A9mon),60,130,80,70,60,60,460,,Mushroom Pokémon,Grass,Fighting,1.2,39.2,3.0
+287,Slakoth,https://bulbapedia.bulbagarden.net/wiki/Slakoth_(Pok%C3%A9mon),60,60,60,30,35,35,280,,Slacker Pokémon,Normal,,0.8,24.0,3.0
+288,Vigoroth,https://bulbapedia.bulbagarden.net/wiki/Vigoroth_(Pok%C3%A9mon),80,80,80,90,55,55,440,,Wild Monkey Pokémon,Normal,,1.4,46.5,3.0
+289,Slaking,https://bulbapedia.bulbagarden.net/wiki/Slaking_(Pok%C3%A9mon),150,160,100,100,95,65,670,,Lazy Pokémon,Normal,,2.0,130.5,3.0
+290,Nincada,https://bulbapedia.bulbagarden.net/wiki/Nincada_(Pok%C3%A9mon),31,45,90,40,30,30,266,,Trainee Pokémon,Bug,Ground,0.5,5.5,3.0
+291,Ninjask,https://bulbapedia.bulbagarden.net/wiki/Ninjask_(Pok%C3%A9mon),61,90,45,160,50,50,456,,Ninja Pokémon,Bug,Flying,0.8,12.0,3.0
+292,Shedinja,https://bulbapedia.bulbagarden.net/wiki/Shedinja_(Pok%C3%A9mon),1,90,45,40,30,30,236,,Shed Pokémon,Bug,Ghost,0.8,1.2,3.0
+293,Whismur,https://bulbapedia.bulbagarden.net/wiki/Whismur_(Pok%C3%A9mon),64,51,23,28,51,23,240,,Whisper Pokémon,Normal,,0.6,16.3,3.0
+294,Loudred,https://bulbapedia.bulbagarden.net/wiki/Loudred_(Pok%C3%A9mon),84,71,43,48,71,43,360,,Big Voice Pokémon,Normal,,1.0,40.5,3.0
+295,Exploud,https://bulbapedia.bulbagarden.net/wiki/Exploud_(Pok%C3%A9mon),104,91,63,68,91,73,490,,Loud Noise Pokémon,Normal,,1.5,84.0,3.0
+296,Makuhita,https://bulbapedia.bulbagarden.net/wiki/Makuhita_(Pok%C3%A9mon),72,60,30,25,20,30,237,,Guts Pokémon,Fighting,,1.0,86.4,3.0
+297,Hariyama,https://bulbapedia.bulbagarden.net/wiki/Hariyama_(Pok%C3%A9mon),144,120,60,50,40,60,474,,Arm Thrust Pokémon,Fighting,,2.3,253.8,3.0
+298,Azurill,https://bulbapedia.bulbagarden.net/wiki/Azurill_(Pok%C3%A9mon),50,20,40,20,20,40,190,,Polka Dot Pokémon,Normal,Fairy,0.2,2.0,3.0
+299,Nosepass,https://bulbapedia.bulbagarden.net/wiki/Nosepass_(Pok%C3%A9mon),30,45,135,30,45,90,375,,Compass Pokémon,Rock,,1.0,97.0,3.0
+300,Skitty,https://bulbapedia.bulbagarden.net/wiki/Skitty_(Pok%C3%A9mon),50,45,45,50,35,35,260,,Kitten Pokémon,Normal,,0.6,11.0,3.0
+301,Delcatty,https://bulbapedia.bulbagarden.net/wiki/Delcatty_(Pok%C3%A9mon),70,65,65,90,55,55,400,,Prim Pokémon,Normal,,1.1,32.6,3.0
+302,Sableye,https://bulbapedia.bulbagarden.net/wiki/Sableye_(Pok%C3%A9mon),50,75,75,50,65,65,380,,Darkness Pokémon,Dark,Ghost,0.5,11.0,3.0
+302,Sableye,https://bulbapedia.bulbagarden.net/wiki/Sableye_(Pok%C3%A9mon),50,85,125,20,85,115,480,Mega Sableye,Darkness Pokémon,Dark,Ghost,0.5,11.0,3.0
+303,Mawile,https://bulbapedia.bulbagarden.net/wiki/Mawile_(Pok%C3%A9mon),50,85,85,50,55,55,380,,Deceiver Pokémon,Steel,Fairy,0.6,11.5,3.0
+303,Mawile,https://bulbapedia.bulbagarden.net/wiki/Mawile_(Pok%C3%A9mon),50,105,125,50,55,95,480,Mega Mawile,Deceiver Pokémon,Steel,Fairy,0.6,11.5,3.0
+303,Mawile,https://bulbapedia.bulbagarden.net/wiki/Mawile_(Pok%C3%A9mon),50,147,125,50,55,95,522,Mega MawileZA,Deceiver Pokémon,Steel,Fairy,0.6,11.5,3.0
+304,Aron,https://bulbapedia.bulbagarden.net/wiki/Aron_(Pok%C3%A9mon),50,70,100,30,40,40,330,,Iron Armor Pokémon,Steel,Rock,0.4,60.0,3.0
+305,Lairon,https://bulbapedia.bulbagarden.net/wiki/Lairon_(Pok%C3%A9mon),60,90,140,40,50,50,430,,Iron Armor Pokémon,Steel,Rock,0.9,120.0,3.0
+306,Aggron,https://bulbapedia.bulbagarden.net/wiki/Aggron_(Pok%C3%A9mon),70,110,180,50,60,60,530,,Iron Armor Pokémon,Steel,Rock,2.1,360.0,3.0
+306,Aggron,https://bulbapedia.bulbagarden.net/wiki/Aggron_(Pok%C3%A9mon),70,140,230,50,60,80,630,Mega Aggron,Iron Armor Pokémon,Steel,Rock,2.1,360.0,3.0
+307,Meditite,https://bulbapedia.bulbagarden.net/wiki/Meditite_(Pok%C3%A9mon),30,40,55,60,40,55,280,,Meditate Pokémon,Fighting,Psychic,0.6,11.2,3.0
+307,Meditite,https://bulbapedia.bulbagarden.net/wiki/Meditite_(Pok%C3%A9mon),30,56,55,60,40,55,296,in Legends: Z-A,Meditate Pokémon,Fighting,Psychic,0.6,11.2,3.0
+308,Medicham,https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pok%C3%A9mon),60,60,75,80,60,75,410,,Meditate Pokémon,Fighting,Psychic,1.3,31.5,3.0
+308,Medicham,https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pok%C3%A9mon),60,84,75,80,60,75,434,in Legends: Z-A,Meditate Pokémon,Fighting,Psychic,1.3,31.5,3.0
+308,Medicham,https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pok%C3%A9mon),60,100,85,100,80,85,510,Mega Medicham,Meditate Pokémon,Fighting,Psychic,1.3,31.5,3.0
+308,Medicham,https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pok%C3%A9mon),60,140,85,100,80,85,550,Mega MedichamZA,Meditate Pokémon,Fighting,Psychic,1.3,31.5,3.0
+309,Electrike,https://bulbapedia.bulbagarden.net/wiki/Electrike_(Pok%C3%A9mon),40,45,40,65,65,40,295,,Lightning Pokémon,Electric,,0.6,15.2,3.0
+310,Manectric,https://bulbapedia.bulbagarden.net/wiki/Manectric_(Pok%C3%A9mon),70,75,60,105,105,60,475,,Discharge Pokémon,Electric,,1.5,40.2,3.0
+310,Manectric,https://bulbapedia.bulbagarden.net/wiki/Manectric_(Pok%C3%A9mon),70,75,80,135,135,80,575,Mega Manectric,Discharge Pokémon,Electric,,1.5,40.2,3.0
+311,Plusle,https://bulbapedia.bulbagarden.net/wiki/Plusle_(Pok%C3%A9mon),60,50,40,95,85,75,405,,Cheering Pokémon,Electric,,0.4,4.2,3.0
+312,Minun,https://bulbapedia.bulbagarden.net/wiki/Minun_(Pok%C3%A9mon),60,40,50,95,75,85,405,,Cheering Pokémon,Electric,,0.4,4.2,3.0
+313,Volbeat,https://bulbapedia.bulbagarden.net/wiki/Volbeat_(Pok%C3%A9mon),65,73,75,85,47,85,430,,Firefly Pokémon,Bug,,0.7,17.7,3.0
+314,Illumise,https://bulbapedia.bulbagarden.net/wiki/Illumise_(Pok%C3%A9mon),65,47,75,85,73,85,430,,Firefly Pokémon,Bug,,0.6,17.7,3.0
+315,Roselia,https://bulbapedia.bulbagarden.net/wiki/Roselia_(Pok%C3%A9mon),50,60,45,65,100,80,400,,Thorn Pokémon,Grass,Poison,0.3,2.0,3.0
+316,Gulpin,https://bulbapedia.bulbagarden.net/wiki/Gulpin_(Pok%C3%A9mon),70,43,53,40,43,53,302,,Stomach Pokémon,Poison,,0.4,10.3,3.0
+317,Swalot,https://bulbapedia.bulbagarden.net/wiki/Swalot_(Pok%C3%A9mon),100,73,83,55,73,83,467,,Poison Bag Pokémon,Poison,,1.7,80.0,3.0
+318,Carvanha,https://bulbapedia.bulbagarden.net/wiki/Carvanha_(Pok%C3%A9mon),45,90,20,65,65,20,305,,Savage Pokémon,Water,Dark,0.8,20.8,3.0
+319,Sharpedo,https://bulbapedia.bulbagarden.net/wiki/Sharpedo_(Pok%C3%A9mon),70,120,40,95,95,40,460,,Brutal Pokémon,Water,Dark,1.8,88.8,3.0
+319,Sharpedo,https://bulbapedia.bulbagarden.net/wiki/Sharpedo_(Pok%C3%A9mon),70,140,70,105,110,65,560,Mega Sharpedo,Brutal Pokémon,Water,Dark,1.8,88.8,3.0
+320,Wailmer,https://bulbapedia.bulbagarden.net/wiki/Wailmer_(Pok%C3%A9mon),130,70,35,60,70,35,400,,Ball Whale Pokémon,Water,,2.0,130.0,3.0
+321,Wailord,https://bulbapedia.bulbagarden.net/wiki/Wailord_(Pok%C3%A9mon),170,90,45,60,90,45,500,,Float Whale Pokémon,Water,,14.5,398.0,3.0
+322,Numel,https://bulbapedia.bulbagarden.net/wiki/Numel_(Pok%C3%A9mon),60,60,40,35,65,45,305,,Numb Pokémon,Fire,Ground,0.7,24.0,3.0
+323,Camerupt,https://bulbapedia.bulbagarden.net/wiki/Camerupt_(Pok%C3%A9mon),70,100,70,40,105,75,460,,Eruption Pokémon,Fire,Ground,1.9,220.0,3.0
+323,Camerupt,https://bulbapedia.bulbagarden.net/wiki/Camerupt_(Pok%C3%A9mon),70,120,100,20,145,105,560,Mega Camerupt,Eruption Pokémon,Fire,Ground,1.9,220.0,3.0
+324,Torkoal,https://bulbapedia.bulbagarden.net/wiki/Torkoal_(Pok%C3%A9mon),70,85,140,20,85,70,470,,Coal Pokémon,Fire,,0.5,80.4,3.0
+325,Spoink,https://bulbapedia.bulbagarden.net/wiki/Spoink_(Pok%C3%A9mon),60,25,35,60,70,80,330,,Bounce Pokémon,Psychic,,0.7,30.6,3.0
+326,Grumpig,https://bulbapedia.bulbagarden.net/wiki/Grumpig_(Pok%C3%A9mon),80,45,65,80,90,110,470,,Manipulate Pokémon,Psychic,,0.9,71.5,3.0
+327,Spinda,https://bulbapedia.bulbagarden.net/wiki/Spinda_(Pok%C3%A9mon),60,60,60,60,60,60,360,,Spot Panda Pokémon,Normal,,1.1,5.0,3.0
+328,Trapinch,https://bulbapedia.bulbagarden.net/wiki/Trapinch_(Pok%C3%A9mon),45,100,45,10,45,45,290,,Ant Pit Pokémon,Ground,,0.7,15.0,3.0
+329,Vibrava,https://bulbapedia.bulbagarden.net/wiki/Vibrava_(Pok%C3%A9mon),50,70,50,70,50,50,340,,Vibration Pokémon,Ground,Dragon,1.1,15.3,3.0
+330,Flygon,https://bulbapedia.bulbagarden.net/wiki/Flygon_(Pok%C3%A9mon),80,100,80,100,80,80,520,,Mystic Pokémon,Ground,Dragon,2.0,82.0,3.0
+331,Cacnea,https://bulbapedia.bulbagarden.net/wiki/Cacnea_(Pok%C3%A9mon),50,85,40,35,85,40,335,,Cactus Pokémon,Grass,,0.4,51.3,3.0
+332,Cacturne,https://bulbapedia.bulbagarden.net/wiki/Cacturne_(Pok%C3%A9mon),70,115,60,55,115,60,475,,Scarecrow Pokémon,Grass,Dark,1.3,77.4,3.0
+333,Swablu,https://bulbapedia.bulbagarden.net/wiki/Swablu_(Pok%C3%A9mon),45,40,60,50,40,75,310,,Cotton Bird Pokémon,Normal,Flying,0.4,1.2,3.0
+334,Altaria,https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pok%C3%A9mon),75,70,90,80,70,105,490,,Humming Pokémon,Dragon,Flying,1.1,20.6,3.0
+334,Altaria,https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pok%C3%A9mon),75,110,110,80,110,105,590,Mega Altaria,Humming Pokémon,Dragon,Flying,1.1,20.6,3.0
+335,Zangoose,https://bulbapedia.bulbagarden.net/wiki/Zangoose_(Pok%C3%A9mon),73,115,60,90,60,60,458,,Cat Ferret Pokémon,Normal,,1.3,40.3,3.0
+336,Seviper,https://bulbapedia.bulbagarden.net/wiki/Seviper_(Pok%C3%A9mon),73,100,60,65,100,60,458,,Fang Snake Pokémon,Poison,,2.7,52.5,3.0
+337,Lunatone,https://bulbapedia.bulbagarden.net/wiki/Lunatone_(Pok%C3%A9mon),90,55,65,70,95,85,460,,Meteorite Pokémon,Rock,Psychic,1.0,168.0,3.0
+338,Solrock,https://bulbapedia.bulbagarden.net/wiki/Solrock_(Pok%C3%A9mon),90,95,85,70,55,65,460,,Meteorite Pokémon,Rock,Psychic,1.2,154.0,3.0
+339,Barboach,https://bulbapedia.bulbagarden.net/wiki/Barboach_(Pok%C3%A9mon),50,48,43,60,46,41,288,,Whiskers Pokémon,Water,Ground,0.4,1.9,3.0
+340,Whiscash,https://bulbapedia.bulbagarden.net/wiki/Whiscash_(Pok%C3%A9mon),110,78,73,60,76,71,468,,Whiskers Pokémon,Water,Ground,0.9,23.6,3.0
+341,Corphish,https://bulbapedia.bulbagarden.net/wiki/Corphish_(Pok%C3%A9mon),43,80,65,35,50,35,308,,Ruffian Pokémon,Water,,0.6,11.5,3.0
+342,Crawdaunt,https://bulbapedia.bulbagarden.net/wiki/Crawdaunt_(Pok%C3%A9mon),63,120,85,55,90,55,468,,Rogue Pokémon,Water,Dark,1.1,32.8,3.0
+343,Baltoy,https://bulbapedia.bulbagarden.net/wiki/Baltoy_(Pok%C3%A9mon),40,40,55,55,40,70,300,,Clay Doll Pokémon,Ground,Psychic,0.5,21.5,3.0
+344,Claydol,https://bulbapedia.bulbagarden.net/wiki/Claydol_(Pok%C3%A9mon),60,70,105,75,70,120,500,,Clay Doll Pokémon,Ground,Psychic,1.5,108.0,3.0
+345,Lileep,https://bulbapedia.bulbagarden.net/wiki/Lileep_(Pok%C3%A9mon),66,41,77,23,61,87,355,,Sea Lily Pokémon,Rock,Grass,1.0,23.8,3.0
+346,Cradily,https://bulbapedia.bulbagarden.net/wiki/Cradily_(Pok%C3%A9mon),86,81,97,43,81,107,495,,Barnacle Pokémon,Rock,Grass,1.5,60.4,3.0
+347,Anorith,https://bulbapedia.bulbagarden.net/wiki/Anorith_(Pok%C3%A9mon),45,95,50,75,40,50,355,,Old Shrimp Pokémon,Rock,Bug,0.7,12.5,3.0
+348,Armaldo,https://bulbapedia.bulbagarden.net/wiki/Armaldo_(Pok%C3%A9mon),75,125,100,45,70,80,495,,Plate Pokémon,Rock,Bug,1.5,68.2,3.0
+349,Feebas,https://bulbapedia.bulbagarden.net/wiki/Feebas_(Pok%C3%A9mon),20,15,20,80,10,55,200,,Fish Pokémon,Water,,0.6,7.4,3.0
+350,Milotic,https://bulbapedia.bulbagarden.net/wiki/Milotic_(Pok%C3%A9mon),95,60,79,81,100,125,540,,Tender Pokémon,Water,,6.2,162.0,3.0
+351,Castform,https://bulbapedia.bulbagarden.net/wiki/Castform_(Pok%C3%A9mon),70,70,70,70,70,70,420,,Weather Pokémon,Normal,,0.3,0.8,3.0
+352,Kecleon,https://bulbapedia.bulbagarden.net/wiki/Kecleon_(Pok%C3%A9mon),60,90,70,40,60,120,440,,Color Swap Pokémon,Normal,,1.0,22.0,3.0
+353,Shuppet,https://bulbapedia.bulbagarden.net/wiki/Shuppet_(Pok%C3%A9mon),44,75,35,45,63,33,295,,Puppet Pokémon,Ghost,,0.6,2.3,3.0
+354,Banette,https://bulbapedia.bulbagarden.net/wiki/Banette_(Pok%C3%A9mon),64,115,65,65,83,63,455,,Marionette Pokémon,Ghost,,1.1,12.5,3.0
+354,Banette,https://bulbapedia.bulbagarden.net/wiki/Banette_(Pok%C3%A9mon),64,165,75,75,93,83,555,Mega Banette,Marionette Pokémon,Ghost,,1.1,12.5,3.0
+355,Duskull,https://bulbapedia.bulbagarden.net/wiki/Duskull_(Pok%C3%A9mon),20,40,90,25,30,90,295,,Requiem Pokémon,Ghost,,0.8,15.0,3.0
+356,Dusclops,https://bulbapedia.bulbagarden.net/wiki/Dusclops_(Pok%C3%A9mon),40,70,130,25,60,130,455,,Beckon Pokémon,Ghost,,1.6,30.6,3.0
+357,Tropius,https://bulbapedia.bulbagarden.net/wiki/Tropius_(Pok%C3%A9mon),99,68,83,51,72,87,460,,Fruit Pokémon,Grass,Flying,2.0,100.0,3.0
+358,Chimecho,https://bulbapedia.bulbagarden.net/wiki/Chimecho_(Pok%C3%A9mon),75,50,80,65,95,90,455,,Wind Chime Pokémon,Psychic,,0.6,1.0,3.0
+359,Absol,https://bulbapedia.bulbagarden.net/wiki/Absol_(Pok%C3%A9mon),65,130,60,75,75,60,465,,Disaster Pokémon,Dark,,1.2,47.0,3.0
+359,Absol,https://bulbapedia.bulbagarden.net/wiki/Absol_(Pok%C3%A9mon),65,150,60,115,115,60,565,Mega Absol,Disaster Pokémon,Dark,,1.2,47.0,3.0
+360,Wynaut,https://bulbapedia.bulbagarden.net/wiki/Wynaut_(Pok%C3%A9mon),95,23,48,23,23,48,260,,Bright Pokémon,Psychic,,0.6,14.0,3.0
+361,Snorunt,https://bulbapedia.bulbagarden.net/wiki/Snorunt_(Pok%C3%A9mon),50,50,50,50,50,50,300,,Snow Hat Pokémon,Ice,,0.7,16.8,3.0
+362,Glalie,https://bulbapedia.bulbagarden.net/wiki/Glalie_(Pok%C3%A9mon),80,80,80,80,80,80,480,,Face Pokémon,Ice,,1.5,256.5,3.0
+362,Glalie,https://bulbapedia.bulbagarden.net/wiki/Glalie_(Pok%C3%A9mon),80,120,80,100,120,80,580,Mega Glalie,Face Pokémon,Ice,,1.5,256.5,3.0
+363,Spheal,https://bulbapedia.bulbagarden.net/wiki/Spheal_(Pok%C3%A9mon),70,40,50,25,55,50,290,,Clap Pokémon,Ice,Water,0.8,39.5,3.0
+364,Sealeo,https://bulbapedia.bulbagarden.net/wiki/Sealeo_(Pok%C3%A9mon),90,60,70,45,75,70,410,,Ball Roll Pokémon,Ice,Water,1.1,87.6,3.0
+365,Walrein,https://bulbapedia.bulbagarden.net/wiki/Walrein_(Pok%C3%A9mon),110,80,90,65,95,90,530,,Ice Break Pokémon,Ice,Water,1.4,150.6,3.0
+366,Clamperl,https://bulbapedia.bulbagarden.net/wiki/Clamperl_(Pok%C3%A9mon),35,64,85,32,74,55,345,,Bivalve Pokémon,Water,,0.4,52.5,3.0
+367,Huntail,https://bulbapedia.bulbagarden.net/wiki/Huntail_(Pok%C3%A9mon),55,104,105,52,94,75,485,,Deep Sea Pokémon,Water,,1.7,27.0,3.0
+368,Gorebyss,https://bulbapedia.bulbagarden.net/wiki/Gorebyss_(Pok%C3%A9mon),55,84,105,52,114,75,485,,South Sea Pokémon,Water,,1.8,22.6,3.0
+369,Relicanth,https://bulbapedia.bulbagarden.net/wiki/Relicanth_(Pok%C3%A9mon),100,90,130,55,45,65,485,,Longevity Pokémon,Water,Rock,1.0,23.4,3.0
+370,Luvdisc,https://bulbapedia.bulbagarden.net/wiki/Luvdisc_(Pok%C3%A9mon),43,30,55,97,40,65,330,,Rendezvous Pokémon,Water,,0.6,8.7,3.0
+371,Bagon,https://bulbapedia.bulbagarden.net/wiki/Bagon_(Pok%C3%A9mon),45,75,60,50,40,30,300,,Rock Head Pokémon,Dragon,,0.6,42.1,3.0
+372,Shelgon,https://bulbapedia.bulbagarden.net/wiki/Shelgon_(Pok%C3%A9mon),65,95,100,50,60,50,420,,Endurance Pokémon,Dragon,,1.1,110.5,3.0
+373,Salamence,https://bulbapedia.bulbagarden.net/wiki/Salamence_(Pok%C3%A9mon),95,135,80,100,110,80,600,,Dragon Pokémon,Dragon,Flying,1.5,102.6,3.0
+373,Salamence,https://bulbapedia.bulbagarden.net/wiki/Salamence_(Pok%C3%A9mon),95,145,130,120,120,90,700,Mega Salamence,Dragon Pokémon,Dragon,Flying,1.5,102.6,3.0
+374,Beldum,https://bulbapedia.bulbagarden.net/wiki/Beldum_(Pok%C3%A9mon),40,55,80,30,35,60,300,,Iron Ball Pokémon,Steel,Psychic,0.6,95.2,3.0
+375,Metang,https://bulbapedia.bulbagarden.net/wiki/Metang_(Pok%C3%A9mon),60,75,100,50,55,80,420,,Iron Claw Pokémon,Steel,Psychic,1.2,202.5,3.0
+376,Metagross,https://bulbapedia.bulbagarden.net/wiki/Metagross_(Pok%C3%A9mon),80,135,130,70,95,90,600,,Iron Leg Pokémon,Steel,Psychic,1.6,550.0,3.0
+376,Metagross,https://bulbapedia.bulbagarden.net/wiki/Metagross_(Pok%C3%A9mon),80,145,150,110,105,110,700,Mega Metagross,Iron Leg Pokémon,Steel,Psychic,1.6,550.0,3.0
+377,Regirock,https://bulbapedia.bulbagarden.net/wiki/Regirock_(Pok%C3%A9mon),80,100,200,50,50,100,580,,Rock Peak Pokémon,Rock,,1.7,230.0,3.0
+378,Regice,https://bulbapedia.bulbagarden.net/wiki/Regice_(Pok%C3%A9mon),80,50,100,50,100,200,580,,Iceberg Pokémon,Ice,,1.8,175.0,3.0
+379,Registeel,https://bulbapedia.bulbagarden.net/wiki/Registeel_(Pok%C3%A9mon),80,75,150,50,75,150,580,,Iron Pokémon,Steel,,1.9,205.0,3.0
+380,Latias,https://bulbapedia.bulbagarden.net/wiki/Latias_(Pok%C3%A9mon),80,80,90,110,110,130,600,,Eon Pokémon,Dragon,Psychic,1.4,40.0,3.0
+380,Latias,https://bulbapedia.bulbagarden.net/wiki/Latias_(Pok%C3%A9mon),80,100,120,110,140,150,700,Mega Latias,Eon Pokémon,Dragon,Psychic,1.4,40.0,3.0
+381,Latios,https://bulbapedia.bulbagarden.net/wiki/Latios_(Pok%C3%A9mon),80,90,80,110,130,110,600,,Eon Pokémon,Dragon,Psychic,2.0,60.0,3.0
+381,Latios,https://bulbapedia.bulbagarden.net/wiki/Latios_(Pok%C3%A9mon),80,130,100,110,160,120,700,Mega Latios,Eon Pokémon,Dragon,Psychic,2.0,60.0,3.0
+382,Kyogre,https://bulbapedia.bulbagarden.net/wiki/Kyogre_(Pok%C3%A9mon),100,100,90,90,150,140,670,,Sea Basin Pokémon,Water,,4.5,352.0,3.0
+382,Kyogre,https://bulbapedia.bulbagarden.net/wiki/Kyogre_(Pok%C3%A9mon),100,150,90,90,180,160,770,Primal Kyogre,Sea Basin Pokémon,Water,,4.5,352.0,3.0
+383,Groudon,https://bulbapedia.bulbagarden.net/wiki/Groudon_(Pok%C3%A9mon),100,150,140,90,100,90,670,,Continent Pokémon,Ground,,3.5,950.0,3.0
+383,Groudon,https://bulbapedia.bulbagarden.net/wiki/Groudon_(Pok%C3%A9mon),100,180,160,90,150,90,770,Primal Groudon,Continent Pokémon,Ground,,3.5,950.0,3.0
+384,Rayquaza,https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon),105,150,90,95,150,90,680,,Sky High Pokémon,Dragon,Flying,7.0,206.5,3.0
+384,Rayquaza,https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon),105,180,100,115,180,100,780,Mega Rayquaza,Sky High Pokémon,Dragon,Flying,7.0,206.5,3.0
+385,Jirachi,https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pok%C3%A9mon),100,100,100,100,100,100,600,,Wish Pokémon,Steel,Psychic,0.3,1.1,3.0
+386,Deoxys,https://bulbapedia.bulbagarden.net/wiki/Deoxys_(Pok%C3%A9mon),50,150,50,150,150,50,600,Normal Forme,DNA Pokémon,Psychic,,1.7,60.8,3.0
+386,Deoxys,https://bulbapedia.bulbagarden.net/wiki/Deoxys_(Pok%C3%A9mon),50,180,20,150,180,20,600,Attack Forme,DNA Pokémon,Psychic,,1.7,60.8,3.0
+386,Deoxys,https://bulbapedia.bulbagarden.net/wiki/Deoxys_(Pok%C3%A9mon),50,70,160,90,70,160,600,Defense Forme,DNA Pokémon,Psychic,,1.7,60.8,3.0
+386,Deoxys,https://bulbapedia.bulbagarden.net/wiki/Deoxys_(Pok%C3%A9mon),50,95,90,180,95,90,600,Speed Forme,DNA Pokémon,Psychic,,1.7,60.8,3.0
+387,Turtwig,https://bulbapedia.bulbagarden.net/wiki/Turtwig_(Pok%C3%A9mon),55,68,64,31,45,55,318,,Tiny Leaf Pokémon,Grass,,0.4,10.2,4.0
+388,Grotle,https://bulbapedia.bulbagarden.net/wiki/Grotle_(Pok%C3%A9mon),75,89,85,36,55,65,405,,Grove Pokémon,Grass,,1.1,97.0,4.0
+389,Torterra,https://bulbapedia.bulbagarden.net/wiki/Torterra_(Pok%C3%A9mon),95,109,105,56,75,85,525,,Continent Pokémon,Grass,Ground,2.2,310.0,4.0
+390,Chimchar,https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Pok%C3%A9mon),44,58,44,61,58,44,309,,Chimp Pokémon,Fire,,0.5,6.2,4.0
+391,Monferno,https://bulbapedia.bulbagarden.net/wiki/Monferno_(Pok%C3%A9mon),64,78,52,81,78,52,405,,Playful Pokémon,Fire,Fighting,0.9,22.0,4.0
+392,Infernape,https://bulbapedia.bulbagarden.net/wiki/Infernape_(Pok%C3%A9mon),76,104,71,108,104,71,534,,Flame Pokémon,Fire,Fighting,1.2,55.0,4.0
+393,Piplup,https://bulbapedia.bulbagarden.net/wiki/Piplup_(Pok%C3%A9mon),53,51,53,40,61,56,314,,Penguin Pokémon,Water,,0.4,5.2,4.0
+394,Prinplup,https://bulbapedia.bulbagarden.net/wiki/Prinplup_(Pok%C3%A9mon),64,66,68,50,81,76,405,,Penguin Pokémon,Water,,0.8,23.0,4.0
+395,Empoleon,https://bulbapedia.bulbagarden.net/wiki/Empoleon_(Pok%C3%A9mon),84,86,88,60,111,101,530,,Emperor Pokémon,Water,Steel,1.7,84.5,4.0
+396,Starly,https://bulbapedia.bulbagarden.net/wiki/Starly_(Pok%C3%A9mon),40,55,30,60,30,30,245,,Starling Pokémon,Normal,Flying,0.3,2.0,4.0
+397,Staravia,https://bulbapedia.bulbagarden.net/wiki/Staravia_(Pok%C3%A9mon),55,75,50,80,40,40,340,,Starling Pokémon,Normal,Flying,0.6,15.5,4.0
+398,Staraptor,https://bulbapedia.bulbagarden.net/wiki/Staraptor_(Pok%C3%A9mon),85,120,70,100,50,60,485,,Predator Pokémon,Normal,Flying,1.2,24.9,4.0
+399,Bidoof,https://bulbapedia.bulbagarden.net/wiki/Bidoof_(Pok%C3%A9mon),59,45,40,31,35,40,250,,Plump Mouse Pokémon,Normal,,0.5,20.0,4.0
+400,Bibarel,https://bulbapedia.bulbagarden.net/wiki/Bibarel_(Pok%C3%A9mon),79,85,60,71,55,60,410,,Beaver Pokémon,Normal,Water,1.0,31.5,4.0
+401,Kricketot,https://bulbapedia.bulbagarden.net/wiki/Kricketot_(Pok%C3%A9mon),37,25,41,25,25,41,194,,Cricket Pokémon,Bug,,0.3,2.2,4.0
+402,Kricketune,https://bulbapedia.bulbagarden.net/wiki/Kricketune_(Pok%C3%A9mon),77,85,51,65,55,51,384,,Cricket Pokémon,Bug,,1.0,25.5,4.0
+403,Shinx,https://bulbapedia.bulbagarden.net/wiki/Shinx_(Pok%C3%A9mon),45,65,34,45,40,34,263,,Flash Pokémon,Electric,,0.5,9.5,4.0
+404,Luxio,https://bulbapedia.bulbagarden.net/wiki/Luxio_(Pok%C3%A9mon),60,85,49,60,60,49,363,,Spark Pokémon,Electric,,0.9,30.5,4.0
+405,Luxray,https://bulbapedia.bulbagarden.net/wiki/Luxray_(Pok%C3%A9mon),80,120,79,70,95,79,523,,Gleam Eyes Pokémon,Electric,,1.4,42.0,4.0
+406,Budew,https://bulbapedia.bulbagarden.net/wiki/Budew_(Pok%C3%A9mon),40,30,35,55,50,70,280,,Bud Pokémon,Grass,Poison,0.2,1.2,4.0
+407,Roserade,https://bulbapedia.bulbagarden.net/wiki/Roserade_(Pok%C3%A9mon),60,70,65,90,125,105,515,,Bouquet Pokémon,Grass,Poison,0.9,14.5,4.0
+408,Cranidos,https://bulbapedia.bulbagarden.net/wiki/Cranidos_(Pok%C3%A9mon),67,125,40,58,30,30,350,,Head Butt Pokémon,Rock,,0.9,31.5,4.0
+409,Rampardos,https://bulbapedia.bulbagarden.net/wiki/Rampardos_(Pok%C3%A9mon),97,165,60,58,65,50,495,,Head Butt Pokémon,Rock,,1.6,102.5,4.0
+410,Shieldon,https://bulbapedia.bulbagarden.net/wiki/Shieldon_(Pok%C3%A9mon),30,42,118,30,42,88,350,,Shield Pokémon,Rock,Steel,0.5,57.0,4.0
+411,Bastiodon,https://bulbapedia.bulbagarden.net/wiki/Bastiodon_(Pok%C3%A9mon),60,52,168,30,47,138,495,,Shield Pokémon,Rock,Steel,1.3,149.5,4.0
+412,Burmy,https://bulbapedia.bulbagarden.net/wiki/Burmy_(Pok%C3%A9mon),40,29,45,36,29,45,224,,Bagworm Pokémon,Bug,,0.2,3.4,4.0
+413,Wormadam,https://bulbapedia.bulbagarden.net/wiki/Wormadam_(Pok%C3%A9mon),60,59,85,36,79,105,424,Plant Cloak,Bagworm Pokémon,Bug,Grass,0.5,6.5,4.0
+413,Wormadam,https://bulbapedia.bulbagarden.net/wiki/Wormadam_(Pok%C3%A9mon),60,79,105,36,59,85,424,Sandy Cloak,Bagworm Pokémon,Bug,Grass,0.5,6.5,4.0
+413,Wormadam,https://bulbapedia.bulbagarden.net/wiki/Wormadam_(Pok%C3%A9mon),60,69,95,36,69,95,424,Trash Cloak,Bagworm Pokémon,Bug,Grass,0.5,6.5,4.0
+414,Mothim,https://bulbapedia.bulbagarden.net/wiki/Mothim_(Pok%C3%A9mon),70,94,50,66,94,50,424,,Moth Pokémon,Bug,Flying,0.9,23.3,4.0
+415,Combee,https://bulbapedia.bulbagarden.net/wiki/Combee_(Pok%C3%A9mon),30,30,42,70,30,42,244,,Tiny Bee Pokémon,Bug,Flying,0.3,5.5,4.0
+416,Vespiquen,https://bulbapedia.bulbagarden.net/wiki/Vespiquen_(Pok%C3%A9mon),70,80,102,40,80,102,474,,Beehive Pokémon,Bug,Flying,1.2,38.5,4.0
+417,Pachirisu,https://bulbapedia.bulbagarden.net/wiki/Pachirisu_(Pok%C3%A9mon),60,45,70,95,45,90,405,,EleSquirrel Pokémon,Electric,,0.4,3.9,4.0
+418,Buizel,https://bulbapedia.bulbagarden.net/wiki/Buizel_(Pok%C3%A9mon),55,65,35,85,60,30,330,,Sea Weasel Pokémon,Water,,0.7,29.5,4.0
+419,Floatzel,https://bulbapedia.bulbagarden.net/wiki/Floatzel_(Pok%C3%A9mon),85,105,55,115,85,50,495,,Sea Weasel Pokémon,Water,,1.1,33.5,4.0
+420,Cherubi,https://bulbapedia.bulbagarden.net/wiki/Cherubi_(Pok%C3%A9mon),45,35,45,35,62,53,275,,Cherry Pokémon,Grass,,0.4,3.3,4.0
+421,Cherrim,https://bulbapedia.bulbagarden.net/wiki/Cherrim_(Pok%C3%A9mon),70,60,70,85,87,78,450,,Blossom Pokémon,Grass,,0.5,9.3,4.0
+422,Shellos,https://bulbapedia.bulbagarden.net/wiki/Shellos_(Pok%C3%A9mon),76,48,48,34,57,62,325,,Sea Slug Pokémon,Water,,0.3,6.3,4.0
+423,Gastrodon,https://bulbapedia.bulbagarden.net/wiki/Gastrodon_(Pok%C3%A9mon),111,83,68,39,92,82,475,,Sea Slug Pokémon,Water,Ground,0.9,29.9,4.0
+424,Ambipom,https://bulbapedia.bulbagarden.net/wiki/Ambipom_(Pok%C3%A9mon),75,100,66,115,60,66,482,,Long Tail Pokémon,Normal,,1.2,20.3,4.0
+425,Drifloon,https://bulbapedia.bulbagarden.net/wiki/Drifloon_(Pok%C3%A9mon),90,50,34,70,60,44,348,,Balloon Pokémon,Ghost,Flying,0.4,1.2,4.0
+426,Drifblim,https://bulbapedia.bulbagarden.net/wiki/Drifblim_(Pok%C3%A9mon),150,80,44,80,90,54,498,,Blimp Pokémon,Ghost,Flying,1.2,15.0,4.0
+427,Buneary,https://bulbapedia.bulbagarden.net/wiki/Buneary_(Pok%C3%A9mon),55,66,44,85,44,56,350,,Rabbit Pokémon,Normal,,0.4,5.5,4.0
+428,Lopunny,https://bulbapedia.bulbagarden.net/wiki/Lopunny_(Pok%C3%A9mon),65,76,84,105,54,96,480,,Rabbit Pokémon,Normal,,1.2,33.3,4.0
+428,Lopunny,https://bulbapedia.bulbagarden.net/wiki/Lopunny_(Pok%C3%A9mon),65,136,94,135,54,96,580,Mega Lopunny,Rabbit Pokémon,Normal,,1.2,33.3,4.0
+429,Mismagius,https://bulbapedia.bulbagarden.net/wiki/Mismagius_(Pok%C3%A9mon),60,60,60,105,105,105,495,,Magical Pokémon,Ghost,,0.9,4.4,4.0
+430,Honchkrow,https://bulbapedia.bulbagarden.net/wiki/Honchkrow_(Pok%C3%A9mon),100,125,52,71,105,52,505,,,,,,,4.0
+431,Glameow,https://bulbapedia.bulbagarden.net/wiki/Glameow_(Pok%C3%A9mon),49,55,42,85,42,37,310,,,,,,,4.0
+432,Purugly,https://bulbapedia.bulbagarden.net/wiki/Purugly_(Pok%C3%A9mon),71,82,64,112,64,59,452,,Tiger Cat Pokémon,Normal,,1.0,43.8,4.0
+433,Chingling,https://bulbapedia.bulbagarden.net/wiki/Chingling_(Pok%C3%A9mon),45,30,50,45,65,50,285,,Bell Pokémon,Psychic,,0.2,0.6,4.0
+434,Stunky,https://bulbapedia.bulbagarden.net/wiki/Stunky_(Pok%C3%A9mon),63,63,47,74,41,41,329,,Skunk Pokémon,Poison,Dark,0.4,19.2,4.0
+435,Skuntank,https://bulbapedia.bulbagarden.net/wiki/Skuntank_(Pok%C3%A9mon),103,93,67,84,71,61,479,,Skunk Pokémon,Poison,Dark,1.0,38.0,4.0
+436,Bronzor,https://bulbapedia.bulbagarden.net/wiki/Bronzor_(Pok%C3%A9mon),57,24,86,23,24,86,300,,Bronze Pokémon,Steel,Psychic,0.5,60.5,4.0
+437,Bronzong,https://bulbapedia.bulbagarden.net/wiki/Bronzong_(Pok%C3%A9mon),67,89,116,33,79,116,500,,Bronze Bell Pokémon,Steel,Psychic,1.3,187.0,4.0
+438,Bonsly,https://bulbapedia.bulbagarden.net/wiki/Bonsly_(Pok%C3%A9mon),50,80,95,10,10,45,290,,Bonsai Pokémon,Rock,,0.5,15.0,4.0
+439,Mime Jr.,https://bulbapedia.bulbagarden.net/wiki/Mime_Jr._(Pok%C3%A9mon),20,25,45,60,70,90,310,,Mime Pokémon,Psychic,Fairy,0.6,13.0,4.0
+440,Happiny,https://bulbapedia.bulbagarden.net/wiki/Happiny_(Pok%C3%A9mon),100,5,5,30,15,65,220,,Playhouse Pokémon,Normal,,0.6,24.4,4.0
+441,Chatot,https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pok%C3%A9mon),76,65,45,91,92,42,411,,Music Note Pokémon,Normal,Flying,0.5,1.9,4.0
+442,Spiritomb,https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pok%C3%A9mon),50,92,108,35,92,108,485,,Forbidden Pokémon,Ghost,Dark,1.0,108.0,4.0
+443,Gible,https://bulbapedia.bulbagarden.net/wiki/Gible_(Pok%C3%A9mon),58,70,45,42,40,45,300,,Land Shark Pokémon,Dragon,Ground,0.7,20.5,4.0
+444,Gabite,https://bulbapedia.bulbagarden.net/wiki/Gabite_(Pok%C3%A9mon),68,90,65,82,50,55,410,,Cave Pokémon,Dragon,Ground,1.4,56.0,4.0
+445,Garchomp,https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pok%C3%A9mon),108,130,95,102,80,85,600,,Mach Pokémon,Dragon,Ground,1.9,95.0,4.0
+445,Garchomp,https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pok%C3%A9mon),108,170,115,92,120,95,700,Mega Garchomp,Mach Pokémon,Dragon,Ground,1.9,95.0,4.0
+446,Munchlax,https://bulbapedia.bulbagarden.net/wiki/Munchlax_(Pok%C3%A9mon),135,85,40,5,40,85,390,,Big Eater Pokémon,Normal,,0.6,105.0,4.0
+447,Riolu,https://bulbapedia.bulbagarden.net/wiki/Riolu_(Pok%C3%A9mon),40,70,40,60,35,40,285,,Emanation Pokémon,Fighting,,0.7,20.2,4.0
+448,Lucario,https://bulbapedia.bulbagarden.net/wiki/Lucario_(Pok%C3%A9mon),70,110,70,90,115,70,525,,Aura Pokémon,Fighting,Steel,1.2,54.0,4.0
+448,Lucario,https://bulbapedia.bulbagarden.net/wiki/Lucario_(Pok%C3%A9mon),70,145,88,112,140,70,625,Mega Lucario,Aura Pokémon,Fighting,Steel,1.2,54.0,4.0
+449,Hippopotas,https://bulbapedia.bulbagarden.net/wiki/Hippopotas_(Pok%C3%A9mon),68,72,78,32,38,42,330,,Hippo Pokémon,Ground,,0.8,49.5,4.0
+450,Hippowdon,https://bulbapedia.bulbagarden.net/wiki/Hippowdon_(Pok%C3%A9mon),108,112,118,47,68,72,525,,Heavyweight Pokémon,Ground,,2.0,300.0,4.0
+451,Skorupi,https://bulbapedia.bulbagarden.net/wiki/Skorupi_(Pok%C3%A9mon),40,50,90,65,30,55,330,,Scorpion Pokémon,Poison,Bug,0.8,12.0,4.0
+452,Drapion,https://bulbapedia.bulbagarden.net/wiki/Drapion_(Pok%C3%A9mon),70,90,110,95,60,75,500,,Ogre Scorpion Pokémon,Poison,Dark,1.3,61.5,4.0
+453,Croagunk,https://bulbapedia.bulbagarden.net/wiki/Croagunk_(Pok%C3%A9mon),48,61,40,50,61,40,300,,Toxic Mouth Pokémon,Poison,Fighting,0.7,23.0,4.0
+454,Toxicroak,https://bulbapedia.bulbagarden.net/wiki/Toxicroak_(Pok%C3%A9mon),83,106,65,85,86,65,490,,Toxic Mouth Pokémon,Poison,Fighting,1.3,44.4,4.0
+455,Carnivine,https://bulbapedia.bulbagarden.net/wiki/Carnivine_(Pok%C3%A9mon),74,100,72,46,90,72,454,,Bug Catcher Pokémon,Grass,,1.4,27.0,4.0
+456,Finneon,https://bulbapedia.bulbagarden.net/wiki/Finneon_(Pok%C3%A9mon),49,49,56,66,49,61,330,,Wing Fish Pokémon,Water,,0.4,7.0,4.0
+457,Lumineon,https://bulbapedia.bulbagarden.net/wiki/Lumineon_(Pok%C3%A9mon),69,69,76,91,69,86,460,,Neon Pokémon,Water,,1.2,24.0,4.0
+458,Mantyke,https://bulbapedia.bulbagarden.net/wiki/Mantyke_(Pok%C3%A9mon),45,20,50,50,60,120,345,,Kite Pokémon,Water,Flying,1.0,65.0,4.0
+459,Snover,https://bulbapedia.bulbagarden.net/wiki/Snover_(Pok%C3%A9mon),60,62,50,40,62,60,334,,Frost Tree Pokémon,Grass,Ice,1.0,50.5,4.0
+460,Abomasnow,https://bulbapedia.bulbagarden.net/wiki/Abomasnow_(Pok%C3%A9mon),90,92,75,60,92,85,494,,Frost Tree Pokémon,Grass,Ice,2.2,135.5,4.0
+460,Abomasnow,https://bulbapedia.bulbagarden.net/wiki/Abomasnow_(Pok%C3%A9mon),90,132,105,30,132,105,594,Mega Abomasnow,Frost Tree Pokémon,Grass,Ice,2.2,135.5,4.0
+461,Weavile,https://bulbapedia.bulbagarden.net/wiki/Weavile_(Pok%C3%A9mon),70,120,65,125,45,85,510,,Sharp Claw Pokémon,Dark,Ice,1.1,34.0,4.0
+462,Magnezone,https://bulbapedia.bulbagarden.net/wiki/Magnezone_(Pok%C3%A9mon),70,70,115,60,130,90,535,,Magnet Area Pokémon,Electric,Steel,1.2,180.0,4.0
+463,Lickilicky,https://bulbapedia.bulbagarden.net/wiki/Lickilicky_(Pok%C3%A9mon),110,85,95,50,80,95,515,,Licking Pokémon,Normal,,1.7,140.0,4.0
+464,Rhyperior,https://bulbapedia.bulbagarden.net/wiki/Rhyperior_(Pok%C3%A9mon),115,140,130,40,55,55,535,,Drill Pokémon,Ground,Rock,2.4,282.8,4.0
+465,Tangrowth,https://bulbapedia.bulbagarden.net/wiki/Tangrowth_(Pok%C3%A9mon),100,100,125,50,110,50,535,,Vine Pokémon,Grass,,2.0,128.6,4.0
+466,Electivire,https://bulbapedia.bulbagarden.net/wiki/Electivire_(Pok%C3%A9mon),75,123,67,95,95,85,540,,Thunderbolt Pokémon,Electric,,1.8,138.6,4.0
+467,Magmortar,https://bulbapedia.bulbagarden.net/wiki/Magmortar_(Pok%C3%A9mon),75,95,67,83,125,95,540,,Blast Pokémon,Fire,,1.6,68.0,4.0
+468,Togekiss,https://bulbapedia.bulbagarden.net/wiki/Togekiss_(Pok%C3%A9mon),85,50,95,80,120,115,545,,Jubilee Pokémon,Fairy,Flying,1.5,38.0,4.0
+469,Yanmega,https://bulbapedia.bulbagarden.net/wiki/Yanmega_(Pok%C3%A9mon),86,76,86,95,116,56,515,,Ogre Darner Pokémon,Bug,Flying,1.9,51.5,4.0
+470,Leafeon,https://bulbapedia.bulbagarden.net/wiki/Leafeon_(Pok%C3%A9mon),65,110,130,95,60,65,525,,Verdant Pokémon,Grass,,1.0,25.5,4.0
+471,Glaceon,https://bulbapedia.bulbagarden.net/wiki/Glaceon_(Pok%C3%A9mon),65,60,110,65,130,95,525,,Fresh Snow Pokémon,Ice,,0.8,25.9,4.0
+472,Gliscor,https://bulbapedia.bulbagarden.net/wiki/Gliscor_(Pok%C3%A9mon),75,95,125,95,45,75,510,,Fang Scorpion Pokémon,Ground,Flying,2.0,42.5,4.0
+473,Mamoswine,https://bulbapedia.bulbagarden.net/wiki/Mamoswine_(Pok%C3%A9mon),110,130,80,80,70,60,530,,Twin Tusk Pokémon,Ice,Ground,2.5,291.0,4.0
+474,Porygon-Z,https://bulbapedia.bulbagarden.net/wiki/Porygon-Z_(Pok%C3%A9mon),85,80,70,90,135,75,535,,Virtual Pokémon,Normal,,0.9,34.0,4.0
+475,Gallade,https://bulbapedia.bulbagarden.net/wiki/Gallade_(Pok%C3%A9mon),68,125,65,80,65,115,518,,Blade Pokémon,Psychic,Fighting,1.6,52.0,4.0
+475,Gallade,https://bulbapedia.bulbagarden.net/wiki/Gallade_(Pok%C3%A9mon),68,165,95,110,65,115,618,Mega Gallade,Blade Pokémon,Psychic,Fighting,1.6,52.0,4.0
+476,Probopass,https://bulbapedia.bulbagarden.net/wiki/Probopass_(Pok%C3%A9mon),60,55,145,40,75,150,525,,Compass Pokémon,Rock,Steel,1.4,340.0,4.0
+477,Dusknoir,https://bulbapedia.bulbagarden.net/wiki/Dusknoir_(Pok%C3%A9mon),45,100,135,45,65,135,525,,Gripper Pokémon,Ghost,,2.2,106.6,4.0
+478,Froslass,https://bulbapedia.bulbagarden.net/wiki/Froslass_(Pok%C3%A9mon),70,80,70,110,80,70,480,,Snow Land Pokémon,Ice,Ghost,1.3,26.6,4.0
+478,Froslass,https://bulbapedia.bulbagarden.net/wiki/Froslass_(Pok%C3%A9mon),70,80,70,120,140,100,580,Mega Froslass,Snow Land Pokémon,Ice,Ghost,1.3,26.6,4.0
+479,Rotom,https://bulbapedia.bulbagarden.net/wiki/Rotom_(Pok%C3%A9mon),50,50,77,91,95,77,440,,Plasma Pokémon,Electric,Ghost,0.3,0.3,4.0
+479,Rotom,https://bulbapedia.bulbagarden.net/wiki/Rotom_(Pok%C3%A9mon),50,65,107,86,105,107,520,Heat Rotom,Plasma Pokémon,Electric,Ghost,0.3,0.3,4.0
+479,Rotom,https://bulbapedia.bulbagarden.net/wiki/Rotom_(Pok%C3%A9mon),50,65,107,86,105,107,520,Wash Rotom,Plasma Pokémon,Electric,Ghost,0.3,0.3,4.0
+479,Rotom,https://bulbapedia.bulbagarden.net/wiki/Rotom_(Pok%C3%A9mon),50,65,107,86,105,107,520,Frost Rotom,Plasma Pokémon,Electric,Ghost,0.3,0.3,4.0
+479,Rotom,https://bulbapedia.bulbagarden.net/wiki/Rotom_(Pok%C3%A9mon),50,65,107,86,105,107,520,Fan Rotom,Plasma Pokémon,Electric,Ghost,0.3,0.3,4.0
+479,Rotom,https://bulbapedia.bulbagarden.net/wiki/Rotom_(Pok%C3%A9mon),50,65,107,86,105,107,520,Mow Rotom,Plasma Pokémon,Electric,Ghost,0.3,0.3,4.0
+480,Uxie,https://bulbapedia.bulbagarden.net/wiki/Uxie_(Pok%C3%A9mon),75,75,130,95,75,130,580,,Knowledge Pokémon,Psychic,,0.3,0.3,4.0
+481,Mesprit,https://bulbapedia.bulbagarden.net/wiki/Mesprit_(Pok%C3%A9mon),80,105,105,80,105,105,580,,Emotion Pokémon,Psychic,,0.3,0.3,4.0
+482,Azelf,https://bulbapedia.bulbagarden.net/wiki/Azelf_(Pok%C3%A9mon),75,125,70,115,125,70,580,,Willpower Pokémon,Psychic,,0.3,0.3,4.0
+483,Dialga,https://bulbapedia.bulbagarden.net/wiki/Dialga_(Pok%C3%A9mon),100,120,120,90,150,100,680,,Temporal Pokémon,Steel,Dragon,5.4,683.0,4.0
+483,Dialga,https://bulbapedia.bulbagarden.net/wiki/Dialga_(Pok%C3%A9mon),100,100,120,90,150,120,680,Origin Forme,Temporal Pokémon,Steel,Dragon,5.4,683.0,4.0
+484,Palkia,https://bulbapedia.bulbagarden.net/wiki/Palkia_(Pok%C3%A9mon),90,120,100,100,150,120,680,,Spatial Pokémon,Water,Dragon,4.2,336.0,4.0
+484,Palkia,https://bulbapedia.bulbagarden.net/wiki/Palkia_(Pok%C3%A9mon),90,100,100,120,150,120,680,Origin Forme,Spatial Pokémon,Water,Dragon,4.2,336.0,4.0
+485,Heatran,https://bulbapedia.bulbagarden.net/wiki/Heatran_(Pok%C3%A9mon),91,90,106,77,130,106,600,,Lava Dome Pokémon,Fire,Steel,1.7,430.0,4.0
+486,Regigigas,https://bulbapedia.bulbagarden.net/wiki/Regigigas_(Pok%C3%A9mon),110,160,110,100,80,110,670,,Colossal Pokémon,Normal,,3.7,420.0,4.0
+487,Giratina,https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pok%C3%A9mon),150,100,120,90,100,120,680,Altered Forme,Renegade Pokémon,Ghost,Dragon,4.5,750.0,4.0
+487,Giratina,https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pok%C3%A9mon),150,120,100,90,120,100,680,Origin Forme,Renegade Pokémon,Ghost,Dragon,4.5,750.0,4.0
+488,Cresselia,https://bulbapedia.bulbagarden.net/wiki/Cresselia_(Pok%C3%A9mon),120,70,110,85,75,120,580,,Lunar Pokémon,Psychic,,1.5,85.6,4.0
+489,Phione,https://bulbapedia.bulbagarden.net/wiki/Phione_(Pok%C3%A9mon),80,80,80,80,80,80,480,,Sea Drifter Pokémon,Water,,0.4,3.1,4.0
+490,Manaphy,https://bulbapedia.bulbagarden.net/wiki/Manaphy_(Pok%C3%A9mon),100,100,100,100,100,100,600,,Seafaring Pokémon,Water,,0.3,1.4,4.0
+491,Darkrai,https://bulbapedia.bulbagarden.net/wiki/Darkrai_(Pok%C3%A9mon),70,90,90,125,135,90,600,,Pitch-Black Pokémon,Dark,,1.5,50.5,4.0
+492,Shaym,https://bulbapedia.bulbagarden.net/wiki/Shaymin_(Pok%C3%A9mon),100,100,100,100,100,100,600,in Land Forme,,,,,,4.0
+492,Shaymin,https://bulbapedia.bulbagarden.net/wiki/Shaymin_(Pok%C3%A9mon),100,103,75,127,120,75,600,Sky Forme,Gratitude Pokémon,Grass,,0.2,2.1,4.0
+493,Arceus,https://bulbapedia.bulbagarden.net/wiki/Arceus_(Pok%C3%A9mon),120,120,120,120,120,120,720,,Alpha Pokémon,Normal,,3.2,320.0,4.0
+494,Victini,https://bulbapedia.bulbagarden.net/wiki/Victini_(Pok%C3%A9mon),100,100,100,100,100,100,600,,Victory Pokémon,Psychic,Fire,0.4,4.0,5.0
+495,Snivy,https://bulbapedia.bulbagarden.net/wiki/Snivy_(Pok%C3%A9mon),45,45,55,63,45,55,308,,Grass Snake Pokémon,Grass,,0.6,8.1,5.0
+496,Servine,https://bulbapedia.bulbagarden.net/wiki/Servine_(Pok%C3%A9mon),60,60,75,83,60,75,413,,Grass Snake Pokémon,Grass,,0.8,16.0,5.0
+497,Serperior,https://bulbapedia.bulbagarden.net/wiki/Serperior_(Pok%C3%A9mon),75,75,95,113,75,95,528,,Regal Pokémon,Grass,,3.3,63.0,5.0
+498,Tepig,https://bulbapedia.bulbagarden.net/wiki/Tepig_(Pok%C3%A9mon),65,63,45,45,45,45,308,,Fire Pig Pokémon,Fire,,0.5,9.9,5.0
+499,Pignite,https://bulbapedia.bulbagarden.net/wiki/Pignite_(Pok%C3%A9mon),90,93,55,55,70,55,418,,Fire Pig Pokémon,Fire,Fighting,1.0,55.5,5.0
+500,Emboar,https://bulbapedia.bulbagarden.net/wiki/Emboar_(Pok%C3%A9mon),110,123,65,65,100,65,528,,Mega Fire Pig Pokémon,Fire,Fighting,1.6,150.0,5.0
+500,Emboar,https://bulbapedia.bulbagarden.net/wiki/Emboar_(Pok%C3%A9mon),110,148,75,75,110,110,628,Mega Emboar,Mega Fire Pig Pokémon,Fire,Fighting,1.6,150.0,5.0
+501,Oshawott,https://bulbapedia.bulbagarden.net/wiki/Oshawott_(Pok%C3%A9mon),55,55,45,45,63,45,308,,Sea Otter Pokémon,Water,,0.5,5.9,5.0
+502,Dewott,https://bulbapedia.bulbagarden.net/wiki/Dewott_(Pok%C3%A9mon),75,75,60,60,83,60,413,,Discipline Pokémon,Water,,0.8,24.5,5.0
+503,Samurott,https://bulbapedia.bulbagarden.net/wiki/Samurott_(Pok%C3%A9mon),95,100,85,70,108,70,528,,Formidable Pokémon,Water,,1.5,94.6,5.0
+503,Samurott,https://bulbapedia.bulbagarden.net/wiki/Samurott_(Pok%C3%A9mon),90,108,80,85,100,65,528,Hisuian Samurott,Formidable Pokémon,Water,,1.5,94.6,5.0
+504,Patrat,https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pok%C3%A9mon),45,55,39,42,35,39,255,,Scout Pokémon,Normal,,0.5,11.6,5.0
+505,Watchog,https://bulbapedia.bulbagarden.net/wiki/Watchog_(Pok%C3%A9mon),60,85,69,77,60,69,420,,Lookout Pokémon,Normal,,1.1,27.0,5.0
+506,Lillipup,https://bulbapedia.bulbagarden.net/wiki/Lillipup_(Pok%C3%A9mon),45,60,45,55,25,45,275,,Puppy Pokémon,Normal,,0.4,4.1,5.0
+507,Herdier,https://bulbapedia.bulbagarden.net/wiki/Herdier_(Pok%C3%A9mon),65,80,65,60,35,65,370,,Loyal Dog Pokémon,Normal,,0.9,14.7,5.0
+508,Stoutland,https://bulbapedia.bulbagarden.net/wiki/Stoutland_(Pok%C3%A9mon),85,110,90,80,45,90,500,,Big-Hearted Pokémon,Normal,,1.2,61.0,5.0
+509,Purrloin,https://bulbapedia.bulbagarden.net/wiki/Purrloin_(Pok%C3%A9mon),41,50,37,66,50,37,281,,Devious Pokémon,Dark,,0.4,10.1,5.0
+510,Liepard,https://bulbapedia.bulbagarden.net/wiki/Liepard_(Pok%C3%A9mon),64,88,50,106,88,50,446,,Cruel Pokémon,Dark,,1.1,37.5,5.0
+511,Pansage,https://bulbapedia.bulbagarden.net/wiki/Pansage_(Pok%C3%A9mon),50,53,48,64,53,48,316,,Grass Monkey Pokémon,Grass,,0.6,10.5,5.0
+512,Simisage,https://bulbapedia.bulbagarden.net/wiki/Simisage_(Pok%C3%A9mon),75,98,63,101,98,63,498,,Thorn Monkey Pokémon,Grass,,1.1,30.5,5.0
+513,Pansear,https://bulbapedia.bulbagarden.net/wiki/Pansear_(Pok%C3%A9mon),50,53,48,64,53,48,316,,High Temp Pokémon,Fire,,0.6,11.0,5.0
+514,Simisear,https://bulbapedia.bulbagarden.net/wiki/Simisear_(Pok%C3%A9mon),75,98,63,101,98,63,498,,Ember Pokémon,Fire,,1.0,28.0,5.0
+515,Panpour,https://bulbapedia.bulbagarden.net/wiki/Panpour_(Pok%C3%A9mon),50,53,48,64,53,48,316,,Spray Pokémon,Water,,0.6,13.5,5.0
+516,Simipour,https://bulbapedia.bulbagarden.net/wiki/Simipour_(Pok%C3%A9mon),75,98,63,101,98,63,498,,Geyser Pokémon,Water,,1.0,29.0,5.0
+517,Munna,https://bulbapedia.bulbagarden.net/wiki/Munna_(Pok%C3%A9mon),76,25,45,24,67,55,292,,Dream Eater Pokémon,Psychic,,0.6,23.3,5.0
+518,Musharna,https://bulbapedia.bulbagarden.net/wiki/Musharna_(Pok%C3%A9mon),116,55,85,29,107,95,487,,Drowsing Pokémon,Psychic,,1.1,60.5,5.0
+519,Pidove,https://bulbapedia.bulbagarden.net/wiki/Pidove_(Pok%C3%A9mon),50,55,50,43,36,30,264,,Tiny Pigeon Pokémon,Normal,Flying,0.3,2.1,5.0
+520,Tranquill,https://bulbapedia.bulbagarden.net/wiki/Tranquill_(Pok%C3%A9mon),62,77,62,65,50,42,358,,Wild Pigeon Pokémon,Normal,Flying,0.6,15.0,5.0
+521,Unfezant,https://bulbapedia.bulbagarden.net/wiki/Unfezant_(Pok%C3%A9mon),80,115,80,93,65,55,488,,Proud Pokémon,Normal,Flying,1.2,29.0,5.0
+522,Blitzle,https://bulbapedia.bulbagarden.net/wiki/Blitzle_(Pok%C3%A9mon),45,60,32,76,50,32,295,,Electrified Pokémon,Electric,,0.8,29.8,5.0
+523,Zebstrika,https://bulbapedia.bulbagarden.net/wiki/Zebstrika_(Pok%C3%A9mon),75,100,63,116,80,63,497,,Thunderbolt Pokémon,Electric,,1.6,79.5,5.0
+524,Roggenrola,https://bulbapedia.bulbagarden.net/wiki/Roggenrola_(Pok%C3%A9mon),55,75,85,15,25,25,280,,Mantle Pokémon,Rock,,0.4,18.0,5.0
+525,Boldore,https://bulbapedia.bulbagarden.net/wiki/Boldore_(Pok%C3%A9mon),70,105,105,20,50,40,390,,Ore Pokémon,Rock,,0.9,102.0,5.0
+526,Gigalith,https://bulbapedia.bulbagarden.net/wiki/Gigalith_(Pok%C3%A9mon),85,135,130,25,60,80,515,,Compressed Pokémon,Rock,,1.7,260.0,5.0
+527,Woobat,https://bulbapedia.bulbagarden.net/wiki/Woobat_(Pok%C3%A9mon),65,45,43,72,55,43,323,,Bat Pokémon,Psychic,Flying,0.4,2.1,5.0
+528,Swoobat,https://bulbapedia.bulbagarden.net/wiki/Swoobat_(Pok%C3%A9mon),67,57,55,114,77,55,425,,Courting Pokémon,Psychic,Flying,0.9,10.5,5.0
+529,Drilbur,https://bulbapedia.bulbagarden.net/wiki/Drilbur_(Pok%C3%A9mon),60,85,40,68,30,45,328,,Mole Pokémon,Ground,,0.3,8.5,5.0
+530,Excadrill,https://bulbapedia.bulbagarden.net/wiki/Excadrill_(Pok%C3%A9mon),110,135,60,88,50,65,508,,Subterrene Pokémon,Ground,Steel,0.7,40.4,5.0
+530,Excadrill,https://bulbapedia.bulbagarden.net/wiki/Excadrill_(Pok%C3%A9mon),110,165,100,103,65,65,608,Mega Excadrill,Subterrene Pokémon,Ground,Steel,0.7,40.4,5.0
+531,Audino,https://bulbapedia.bulbagarden.net/wiki/Audino_(Pok%C3%A9mon),103,60,86,50,60,86,445,,Hearing Pokémon,Normal,,1.1,31.0,5.0
+531,Audino,https://bulbapedia.bulbagarden.net/wiki/Audino_(Pok%C3%A9mon),103,60,126,50,80,126,545,Mega Audino,Hearing Pokémon,Normal,,1.1,31.0,5.0
+532,Timburr,https://bulbapedia.bulbagarden.net/wiki/Timburr_(Pok%C3%A9mon),75,80,55,35,25,35,305,,Muscular Pokémon,Fighting,,0.6,12.5,5.0
+533,Gurdurr,https://bulbapedia.bulbagarden.net/wiki/Gurdurr_(Pok%C3%A9mon),85,105,85,40,40,50,405,,Muscular Pokémon,Fighting,,1.2,40.0,5.0
+534,Conkeldurr,https://bulbapedia.bulbagarden.net/wiki/Conkeldurr_(Pok%C3%A9mon),105,140,95,45,55,65,505,,Muscular Pokémon,Fighting,,1.4,87.0,5.0
+535,Tympole,https://bulbapedia.bulbagarden.net/wiki/Tympole_(Pok%C3%A9mon),50,50,40,64,50,40,294,,Tadpole Pokémon,Water,,0.5,4.5,5.0
+536,Palpitoad,https://bulbapedia.bulbagarden.net/wiki/Palpitoad_(Pok%C3%A9mon),75,65,55,69,65,55,384,,Vibration Pokémon,Water,Ground,0.8,17.0,5.0
+537,Seismitoad,https://bulbapedia.bulbagarden.net/wiki/Seismitoad_(Pok%C3%A9mon),105,95,75,74,85,75,509,,Vibration Pokémon,Water,Ground,1.5,62.0,5.0
+538,Throh,https://bulbapedia.bulbagarden.net/wiki/Throh_(Pok%C3%A9mon),120,100,85,45,30,85,465,,Judo Pokémon,Fighting,,1.3,55.5,5.0
+539,Sawk,https://bulbapedia.bulbagarden.net/wiki/Sawk_(Pok%C3%A9mon),75,125,75,85,30,75,465,,Karate Pokémon,Fighting,,1.4,51.0,5.0
+540,Sewaddle,https://bulbapedia.bulbagarden.net/wiki/Sewaddle_(Pok%C3%A9mon),45,53,70,42,40,60,310,,Sewing Pokémon,Bug,Grass,0.3,2.5,5.0
+541,Swadloon,https://bulbapedia.bulbagarden.net/wiki/Swadloon_(Pok%C3%A9mon),55,63,90,42,50,80,380,,Leaf-Wrapped Pokémon,Bug,Grass,0.5,7.3,5.0
+542,Leavanny,https://bulbapedia.bulbagarden.net/wiki/Leavanny_(Pok%C3%A9mon),75,103,80,92,70,80,500,,Nurturing Pokémon,Bug,Grass,1.2,20.5,5.0
+543,Venipede,https://bulbapedia.bulbagarden.net/wiki/Venipede_(Pok%C3%A9mon),30,45,59,57,30,39,260,,Centipede Pokémon,Bug,Poison,0.4,5.3,5.0
+544,Whirlipede,https://bulbapedia.bulbagarden.net/wiki/Whirlipede_(Pok%C3%A9mon),40,55,99,47,40,79,360,,Curlipede Pokémon,Bug,Poison,1.2,58.5,5.0
+545,Scolipede,https://bulbapedia.bulbagarden.net/wiki/Scolipede_(Pok%C3%A9mon),60,100,89,112,55,69,485,,Megapede Pokémon,Bug,Poison,2.5,200.5,5.0
+545,Scolipede,https://bulbapedia.bulbagarden.net/wiki/Scolipede_(Pok%C3%A9mon),60,140,149,62,75,99,585,Mega Scolipede,Megapede Pokémon,Bug,Poison,2.5,200.5,5.0
+546,Cottonee,https://bulbapedia.bulbagarden.net/wiki/Cottonee_(Pok%C3%A9mon),40,27,60,66,37,50,280,,Cotton Puff Pokémon,Grass,Fairy,0.3,0.6,5.0
+547,Whimsicott,https://bulbapedia.bulbagarden.net/wiki/Whimsicott_(Pok%C3%A9mon),60,67,85,116,77,75,480,,Windveiled Pokémon,Grass,Fairy,0.7,6.6,5.0
+548,Petilil,https://bulbapedia.bulbagarden.net/wiki/Petilil_(Pok%C3%A9mon),45,35,50,30,70,50,280,,Bulb Pokémon,Grass,,0.5,6.6,5.0
+549,Lilligant,https://bulbapedia.bulbagarden.net/wiki/Lilligant_(Pok%C3%A9mon),70,60,75,90,110,75,480,,Flowering Pokémon,Grass,,1.1,16.3,5.0
+549,Lilligant,https://bulbapedia.bulbagarden.net/wiki/Lilligant_(Pok%C3%A9mon),70,105,75,105,50,75,480,Hisuian Lilligant,Flowering Pokémon,Grass,,1.1,16.3,5.0
+550,Basculin,https://bulbapedia.bulbagarden.net/wiki/Basculin_(Pok%C3%A9mon),70,92,65,98,80,55,460,,Hostile Pokémon,Water,,1.0,18.0,5.0
+551,Sandile,https://bulbapedia.bulbagarden.net/wiki/Sandile_(Pok%C3%A9mon),50,72,35,65,35,35,292,,Desert Croc Pokémon,Ground,Dark,0.7,15.2,5.0
+552,Krokorok,https://bulbapedia.bulbagarden.net/wiki/Krokorok_(Pok%C3%A9mon),60,82,45,74,45,45,351,,Desert Croc Pokémon,Ground,Dark,1.0,33.4,5.0
+553,Krookodile,https://bulbapedia.bulbagarden.net/wiki/Krookodile_(Pok%C3%A9mon),95,117,80,92,65,70,519,,Intimidation Pokémon,Ground,Dark,1.5,96.3,5.0
+554,Darumaka,https://bulbapedia.bulbagarden.net/wiki/Darumaka_(Pok%C3%A9mon),70,90,45,50,15,45,315,,Zen Charm Pokémon,Fire,,0.6,37.5,5.0
+554,Darumaka,https://bulbapedia.bulbagarden.net/wiki/Darumaka_(Pok%C3%A9mon),70,90,45,50,15,45,315,Galarian Darumaka,Zen Charm Pokémon,Fire,,0.6,37.5,5.0
+555,Darmanitan,https://bulbapedia.bulbagarden.net/wiki/Darmanitan_(Pok%C3%A9mon),105,140,55,95,30,55,480,Standard Mode,Blazing Pokémon,Fire,,1.3,92.9,5.0
+555,Darmanitan,https://bulbapedia.bulbagarden.net/wiki/Darmanitan_(Pok%C3%A9mon),105,30,105,55,140,105,540,Zen Mode,Blazing Pokémon,Fire,,1.3,92.9,5.0
+555,Darmanitan,https://bulbapedia.bulbagarden.net/wiki/Darmanitan_(Pok%C3%A9mon),105,140,55,95,30,55,480,Galarian Standard Mode,Blazing Pokémon,Fire,,1.3,92.9,5.0
+555,Darmanitan,https://bulbapedia.bulbagarden.net/wiki/Darmanitan_(Pok%C3%A9mon),105,160,55,135,30,55,540,Galarian Zen Mode,Blazing Pokémon,Fire,,1.3,92.9,5.0
+556,Maractus,https://bulbapedia.bulbagarden.net/wiki/Maractus_(Pok%C3%A9mon),75,86,67,60,106,67,461,,Cactus Pokémon,Grass,,1.0,28.0,5.0
+557,Dwebble,https://bulbapedia.bulbagarden.net/wiki/Dwebble_(Pok%C3%A9mon),50,65,85,55,35,35,325,,Rock Inn Pokémon,Bug,Rock,0.3,14.5,5.0
+558,Crustle,https://bulbapedia.bulbagarden.net/wiki/Crustle_(Pok%C3%A9mon),70,105,125,45,65,75,485,,Stone Home Pokémon,Bug,Rock,1.4,200.0,5.0
+559,Scraggy,https://bulbapedia.bulbagarden.net/wiki/Scraggy_(Pok%C3%A9mon),50,75,70,48,35,70,348,,Shedding Pokémon,Dark,Fighting,0.6,11.8,5.0
+560,Scrafty,https://bulbapedia.bulbagarden.net/wiki/Scrafty_(Pok%C3%A9mon),65,90,115,58,45,115,488,,Hoodlum Pokémon,Dark,Fighting,1.1,30.0,5.0
+560,Scrafty,https://bulbapedia.bulbagarden.net/wiki/Scrafty_(Pok%C3%A9mon),65,130,135,68,55,135,588,Mega Scrafty,Hoodlum Pokémon,Dark,Fighting,1.1,30.0,5.0
+561,Sigilyph,https://bulbapedia.bulbagarden.net/wiki/Sigilyph_(Pok%C3%A9mon),72,58,80,97,103,80,490,,Avianoid Pokémon,Psychic,Flying,1.4,14.0,5.0
+562,Yamask,https://bulbapedia.bulbagarden.net/wiki/Yamask_(Pok%C3%A9mon),38,30,85,30,55,65,303,,Spirit Pokémon,Ghost,,0.5,1.5,5.0
+562,Yamask,https://bulbapedia.bulbagarden.net/wiki/Yamask_(Pok%C3%A9mon),38,55,85,30,30,65,303,Galarian Yamask,Spirit Pokémon,Ghost,,0.5,1.5,5.0
+563,Cofagrigus,https://bulbapedia.bulbagarden.net/wiki/Cofagrigus_(Pok%C3%A9mon),58,50,145,30,95,105,483,,Coffin Pokémon,Ghost,,1.7,76.5,5.0
+564,Tirtouga,https://bulbapedia.bulbagarden.net/wiki/Tirtouga_(Pok%C3%A9mon),54,78,103,22,53,45,355,,Prototurtle Pokémon,Water,Rock,0.7,16.5,5.0
+565,Carracosta,https://bulbapedia.bulbagarden.net/wiki/Carracosta_(Pok%C3%A9mon),74,108,133,32,83,65,495,,Prototurtle Pokémon,Water,Rock,1.2,81.0,5.0
+566,Archen,https://bulbapedia.bulbagarden.net/wiki/Archen_(Pok%C3%A9mon),55,112,45,70,74,45,401,,First Bird Pokémon,Rock,Flying,0.5,9.5,5.0
+567,Archeops,https://bulbapedia.bulbagarden.net/wiki/Archeops_(Pok%C3%A9mon),75,140,65,110,112,65,567,,First Bird Pokémon,Rock,Flying,1.4,32.0,5.0
+568,Trubbish,https://bulbapedia.bulbagarden.net/wiki/Trubbish_(Pok%C3%A9mon),50,50,62,65,40,62,329,,Trash Bag Pokémon,Poison,,0.6,31.0,5.0
+569,Garbodor,https://bulbapedia.bulbagarden.net/wiki/Garbodor_(Pok%C3%A9mon),80,95,82,75,60,82,474,,Trash Heap Pokémon,Poison,,1.9,107.3,5.0
+570,Zorua,https://bulbapedia.bulbagarden.net/wiki/Zorua_(Pok%C3%A9mon),40,65,40,65,80,40,330,,Tricky Fox Pokémon,Dark,,0.7,12.5,5.0
+570,Zorua,https://bulbapedia.bulbagarden.net/wiki/Zorua_(Pok%C3%A9mon),35,60,40,70,85,40,330,Hisuian Zorua,Tricky Fox Pokémon,Dark,,0.7,12.5,5.0
+571,Zoroark,https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Pok%C3%A9mon),60,105,60,105,120,60,510,,Illusion Fox Pokémon,Dark,,1.6,81.1,5.0
+571,Zoroark,https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Pok%C3%A9mon),55,100,60,110,125,60,510,Hisuian Zoroark,Illusion Fox Pokémon,Dark,,1.6,81.1,5.0
+572,Minccino,https://bulbapedia.bulbagarden.net/wiki/Minccino_(Pok%C3%A9mon),55,50,40,75,40,40,300,,Chinchilla Pokémon,Normal,,0.4,5.8,5.0
+573,Cinccino,https://bulbapedia.bulbagarden.net/wiki/Cinccino_(Pok%C3%A9mon),75,95,60,115,65,60,470,,Scarf Pokémon,Normal,,0.5,7.5,5.0
+574,Gothita,https://bulbapedia.bulbagarden.net/wiki/Gothita_(Pok%C3%A9mon),45,30,50,45,55,65,290,,Fixation Pokémon,Psychic,,0.4,5.8,5.0
+575,Gothorita,https://bulbapedia.bulbagarden.net/wiki/Gothorita_(Pok%C3%A9mon),60,45,70,55,75,85,390,,Manipulate Pokémon,Psychic,,0.7,18.0,5.0
+576,Gothitelle,https://bulbapedia.bulbagarden.net/wiki/Gothitelle_(Pok%C3%A9mon),70,55,95,65,95,110,490,,Astral Body Pokémon,Psychic,,1.5,44.0,5.0
+577,Solosis,https://bulbapedia.bulbagarden.net/wiki/Solosis_(Pok%C3%A9mon),45,30,40,20,105,50,290,,Cell Pokémon,Psychic,,0.3,1.0,5.0
+578,Duosion,https://bulbapedia.bulbagarden.net/wiki/Duosion_(Pok%C3%A9mon),65,40,50,30,125,60,370,,Mitosis Pokémon,Psychic,,0.6,8.0,5.0
+579,Reuniclus,https://bulbapedia.bulbagarden.net/wiki/Reuniclus_(Pok%C3%A9mon),110,65,75,30,125,85,490,,Multiplying Pokémon,Psychic,,1.0,20.1,5.0
+580,Ducklett,https://bulbapedia.bulbagarden.net/wiki/Ducklett_(Pok%C3%A9mon),62,44,50,55,44,50,305,,Water Bird Pokémon,Water,Flying,0.50,5.5,5.0
+581,Swanna,https://bulbapedia.bulbagarden.net/wiki/Swanna_(Pok%C3%A9mon),75,87,63,98,87,63,473,,White Bird Pokémon,Water,Flying,1.3,24.2,5.0
+582,Vanillite,https://bulbapedia.bulbagarden.net/wiki/Vanillite_(Pok%C3%A9mon),36,50,50,44,65,60,305,,Fresh Snow Pokémon,Ice,,0.4,5.7,5.0
+583,Vanillish,https://bulbapedia.bulbagarden.net/wiki/Vanillish_(Pok%C3%A9mon),51,65,65,59,80,75,395,,Icy Snow Pokémon,Ice,,1.1,41.0,5.0
+584,Vanilluxe,https://bulbapedia.bulbagarden.net/wiki/Vanilluxe_(Pok%C3%A9mon),71,95,85,79,110,95,535,,Snowstorm Pokémon,Ice,,1.3,57.5,5.0
+585,Deerling,https://bulbapedia.bulbagarden.net/wiki/Deerling_(Pok%C3%A9mon),60,60,50,75,40,50,335,,Season Pokémon,Normal,Grass,0.6,19.5,5.0
+586,Sawsbuck,https://bulbapedia.bulbagarden.net/wiki/Sawsbuck_(Pok%C3%A9mon),80,100,70,95,60,70,475,,Season Pokémon,Normal,Grass,1.9,92.5,5.0
+587,Emolga,https://bulbapedia.bulbagarden.net/wiki/Emolga_(Pok%C3%A9mon),55,75,60,103,75,60,428,,Sky Squirrel Pokémon,Electric,Flying,0.4,5.0,5.0
+588,Karrablast,https://bulbapedia.bulbagarden.net/wiki/Karrablast_(Pok%C3%A9mon),50,75,45,60,40,45,315,,Clamping Pokémon,Bug,,0.5,5.9,5.0
+589,Escavalier,https://bulbapedia.bulbagarden.net/wiki/Escavalier_(Pok%C3%A9mon),70,135,105,20,60,105,495,,Cavalry Pokémon,Bug,Steel,1.0,33.0,5.0
+590,Foongus,https://bulbapedia.bulbagarden.net/wiki/Foongus_(Pok%C3%A9mon),69,55,45,15,55,55,294,,Mushroom Pokémon,Grass,Poison,0.2,1.0,5.0
+591,Amoonguss,https://bulbapedia.bulbagarden.net/wiki/Amoonguss_(Pok%C3%A9mon),114,85,70,30,85,80,464,,Mushroom Pokémon,Grass,Poison,0.6,10.5,5.0
+592,Frillish,https://bulbapedia.bulbagarden.net/wiki/Frillish_(Pok%C3%A9mon),55,40,50,40,65,85,335,,Floating Pokémon,Water,Ghost,1.2,33.0,5.0
+593,Jellicent,https://bulbapedia.bulbagarden.net/wiki/Jellicent_(Pok%C3%A9mon),100,60,70,60,85,105,480,,Floating Pokémon,Water,Ghost,2.2,135.0,5.0
+594,Alomomola,https://bulbapedia.bulbagarden.net/wiki/Alomomola_(Pok%C3%A9mon),165,75,80,65,40,45,470,,Caring Pokémon,Water,,1.2,31.6,5.0
+595,Joltik,https://bulbapedia.bulbagarden.net/wiki/Joltik_(Pok%C3%A9mon),50,47,50,65,57,50,319,,Attaching Pokémon,Bug,Electric,0.1,0.6,5.0
+596,Galvantula,https://bulbapedia.bulbagarden.net/wiki/Galvantula_(Pok%C3%A9mon),70,77,60,108,97,60,472,,EleSpider Pokémon,Bug,Electric,0.8,14.3,5.0
+597,Ferroseed,https://bulbapedia.bulbagarden.net/wiki/Ferroseed_(Pok%C3%A9mon),44,50,91,10,24,86,305,,Thorn Seed Pokémon,Grass,Steel,0.6,18.8,5.0
+598,Ferrothorn,https://bulbapedia.bulbagarden.net/wiki/Ferrothorn_(Pok%C3%A9mon),74,94,131,20,54,116,489,,Thorn Pod Pokémon,Grass,Steel,1.0,110.0,5.0
+599,Klink,https://bulbapedia.bulbagarden.net/wiki/Klink_(Pok%C3%A9mon),40,55,70,30,45,60,300,,Gear Pokémon,Steel,,0.3,21.0,5.0
+600,Klang,https://bulbapedia.bulbagarden.net/wiki/Klang_(Pok%C3%A9mon),60,80,95,50,70,85,440,,Gear Pokémon,Steel,,0.6,51.0,5.0
+601,Klinklang,https://bulbapedia.bulbagarden.net/wiki/Klinklang_(Pok%C3%A9mon),60,100,115,90,70,85,520,,Gear Pokémon,Steel,,0.6,81.0,5.0
+602,Tynamo,https://bulbapedia.bulbagarden.net/wiki/Tynamo_(Pok%C3%A9mon),35,55,40,60,45,40,275,,EleFish Pokémon,Electric,,0.2,0.3,5.0
+603,Eelektrik,https://bulbapedia.bulbagarden.net/wiki/Eelektrik_(Pok%C3%A9mon),65,85,70,40,75,70,405,,EleFish Pokémon,Electric,,1.2,22.0,5.0
+604,Eelektross,https://bulbapedia.bulbagarden.net/wiki/Eelektross_(Pok%C3%A9mon),85,115,80,50,105,80,515,,EleFish Pokémon,Electric,,2.1,80.5,5.0
+604,Eelektross,https://bulbapedia.bulbagarden.net/wiki/Eelektross_(Pok%C3%A9mon),85,145,80,80,135,90,615,Mega Eelektross,EleFish Pokémon,Electric,,2.1,80.5,5.0
+605,Elgyem,https://bulbapedia.bulbagarden.net/wiki/Elgyem_(Pok%C3%A9mon),55,55,55,30,85,55,335,,Cerebral Pokémon,Psychic,,0.5,9.0,5.0
+606,Beheeyem,https://bulbapedia.bulbagarden.net/wiki/Beheeyem_(Pok%C3%A9mon),75,75,75,40,125,95,485,,Cerebral Pokémon,Psychic,,1.0,34.5,5.0
+607,Litwick,https://bulbapedia.bulbagarden.net/wiki/Litwick_(Pok%C3%A9mon),50,30,55,20,65,55,275,,Candle Pokémon,Ghost,Fire,0.3,3.1,5.0
+608,Lampent,https://bulbapedia.bulbagarden.net/wiki/Lampent_(Pok%C3%A9mon),60,40,60,55,95,60,370,,Lamp Pokémon,Ghost,Fire,0.6,13.0,5.0
+609,Chandelure,https://bulbapedia.bulbagarden.net/wiki/Chandelure_(Pok%C3%A9mon),60,55,90,80,145,90,520,,Luring Pokémon,Ghost,Fire,1.0,34.3,5.0
+609,Chandelure,https://bulbapedia.bulbagarden.net/wiki/Chandelure_(Pok%C3%A9mon),60,75,110,90,175,110,620,Mega Chandelure,Luring Pokémon,Ghost,Fire,1.0,34.3,5.0
+610,Axew,https://bulbapedia.bulbagarden.net/wiki/Axew_(Pok%C3%A9mon),46,87,60,57,30,40,320,,Tusk Pokémon,Dragon,,0.6,18.0,5.0
+611,Fraxure,https://bulbapedia.bulbagarden.net/wiki/Fraxure_(Pok%C3%A9mon),66,117,70,67,40,50,410,,Axe Jaw Pokémon,Dragon,,1.0,36.0,5.0
+612,Haxorus,https://bulbapedia.bulbagarden.net/wiki/Haxorus_(Pok%C3%A9mon),76,147,90,97,60,70,540,,Axe Jaw Pokémon,Dragon,,1.8,105.5,5.0
+613,Cubchoo,https://bulbapedia.bulbagarden.net/wiki/Cubchoo_(Pok%C3%A9mon),55,70,40,40,60,40,305,,Chill Pokémon,Ice,,0.5,8.5,5.0
+614,Beartic,https://bulbapedia.bulbagarden.net/wiki/Beartic_(Pok%C3%A9mon),95,130,80,50,70,80,505,,Freezing Pokémon,Ice,,2.6,260.0,5.0
+615,Cryogonal,https://bulbapedia.bulbagarden.net/wiki/Cryogonal_(Pok%C3%A9mon),80,50,50,105,95,135,515,,Crystallizing Pokémon,Ice,,1.1,148.0,5.0
+616,Shelmet,https://bulbapedia.bulbagarden.net/wiki/Shelmet_(Pok%C3%A9mon),50,40,85,25,40,65,305,,Snail Pokémon,Bug,,0.4,7.7,5.0
+617,Accelgor,https://bulbapedia.bulbagarden.net/wiki/Accelgor_(Pok%C3%A9mon),80,70,40,145,100,60,495,,Shell Out Pokémon,Bug,,0.8,25.3,5.0
+618,Stunfisk,https://bulbapedia.bulbagarden.net/wiki/Stunfisk_(Pok%C3%A9mon),109,66,84,32,81,99,471,,Trap Pokémon,Ground,Electric,0.7,11.0,5.0
+618,Stunfisk,https://bulbapedia.bulbagarden.net/wiki/Stunfisk_(Pok%C3%A9mon),109,81,99,32,66,84,471,Galarian Stunfisk,Trap Pokémon,Ground,Electric,0.7,11.0,5.0
+619,Mienfoo,https://bulbapedia.bulbagarden.net/wiki/Mienfoo_(Pok%C3%A9mon),45,85,50,65,55,50,350,,Martial Arts Pokémon,Fighting,,0.9,20.0,5.0
+620,Mienshao,https://bulbapedia.bulbagarden.net/wiki/Mienshao_(Pok%C3%A9mon),65,125,60,105,95,60,510,,Martial Arts Pokémon,Fighting,,1.4,35.5,5.0
+621,Druddigon,https://bulbapedia.bulbagarden.net/wiki/Druddigon_(Pok%C3%A9mon),77,120,90,48,60,90,485,,Cave Pokémon,Dragon,,1.6,139.0,5.0
+622,Golett,https://bulbapedia.bulbagarden.net/wiki/Golett_(Pok%C3%A9mon),59,74,50,35,35,50,303,,Automaton Pokémon,Ground,Ghost,1.0,92.0,5.0
+623,Golurk,https://bulbapedia.bulbagarden.net/wiki/Golurk_(Pok%C3%A9mon),89,124,80,55,55,80,483,,Automaton Pokémon,Ground,Ghost,2.8,330.0,5.0
+624,Pawniard,https://bulbapedia.bulbagarden.net/wiki/Pawniard_(Pok%C3%A9mon),45,85,70,60,40,40,340,,Sharp Blade Pokémon,Dark,Steel,0.5,10.2,5.0
+625,Bisharp,https://bulbapedia.bulbagarden.net/wiki/Bisharp_(Pok%C3%A9mon),65,125,100,70,60,70,490,,Sword Blade Pokémon,Dark,Steel,1.6,70.0,5.0
+626,Bouffalant,https://bulbapedia.bulbagarden.net/wiki/Bouffalant_(Pok%C3%A9mon),95,110,95,55,40,95,490,,Bash Buffalo Pokémon,Normal,,1.6,94.6,5.0
+627,Rufflet,https://bulbapedia.bulbagarden.net/wiki/Rufflet_(Pok%C3%A9mon),70,83,50,60,37,50,350,,Eaglet Pokémon,Normal,Flying,0.5,10.5,5.0
+628,Braviary,https://bulbapedia.bulbagarden.net/wiki/Braviary_(Pok%C3%A9mon),100,123,75,80,57,75,510,,Valiant Pokémon,Normal,Flying,1.5,41.0,5.0
+628,Braviary,https://bulbapedia.bulbagarden.net/wiki/Braviary_(Pok%C3%A9mon),110,83,70,65,112,70,510,Hisuian Braviary,Valiant Pokémon,Normal,Flying,1.5,41.0,5.0
+629,Vullaby,https://bulbapedia.bulbagarden.net/wiki/Vullaby_(Pok%C3%A9mon),70,55,75,60,45,65,370,,Diapered Pokémon,Dark,Flying,0.5,9.0,5.0
+630,Mandibuzz,https://bulbapedia.bulbagarden.net/wiki/Mandibuzz_(Pok%C3%A9mon),110,65,105,80,55,95,510,,Bone Vulture Pokémon,Dark,Flying,1.2,39.5,5.0
+631,Heatmor,https://bulbapedia.bulbagarden.net/wiki/Heatmor_(Pok%C3%A9mon),85,97,66,65,105,66,484,,Anteater Pokémon,Fire,,1.4,58.0,5.0
+632,Durant,https://bulbapedia.bulbagarden.net/wiki/Durant_(Pok%C3%A9mon),58,109,112,109,48,48,484,,Iron Ant Pokémon,Bug,Steel,0.3,33.0,5.0
+633,Deino,https://bulbapedia.bulbagarden.net/wiki/Deino_(Pok%C3%A9mon),52,65,50,38,45,50,300,,Irate Pokémon,Dark,Dragon,0.8,17.3,5.0
+634,Zweilous,https://bulbapedia.bulbagarden.net/wiki/Zweilous_(Pok%C3%A9mon),72,85,70,58,65,70,420,,Hostile Pokémon,Dark,Dragon,1.4,50.0,5.0
+635,Hydreigon,https://bulbapedia.bulbagarden.net/wiki/Hydreigon_(Pok%C3%A9mon),92,105,90,98,125,90,600,,Brutal Pokémon,Dark,Dragon,1.8,160.0,5.0
+636,Larvesta,https://bulbapedia.bulbagarden.net/wiki/Larvesta_(Pok%C3%A9mon),55,85,55,60,50,55,360,,Torch Pokémon,Bug,Fire,1.1,28.8,5.0
+637,Volcarona,https://bulbapedia.bulbagarden.net/wiki/Volcarona_(Pok%C3%A9mon),85,60,65,100,135,105,550,,Sun Pokémon,Bug,Fire,1.6,46.0,5.0
+638,Cobalion,https://bulbapedia.bulbagarden.net/wiki/Cobalion_(Pok%C3%A9mon),91,90,129,108,90,72,580,,Iron Will Pokémon,Steel,Fighting,2.1,250.0,5.0
+639,Terrakion,https://bulbapedia.bulbagarden.net/wiki/Terrakion_(Pok%C3%A9mon),91,129,90,108,72,90,580,,Cavern Pokémon,Rock,Fighting,1.9,260.0,5.0
+640,Virizion,https://bulbapedia.bulbagarden.net/wiki/Virizion_(Pok%C3%A9mon),91,90,72,108,90,129,580,,Grassland Pokémon,Grass,Fighting,2.0,200.0,5.0
+641,Tornadus,https://bulbapedia.bulbagarden.net/wiki/Tornadus_(Pok%C3%A9mon),79,115,70,111,125,80,580,Incarnate Forme,Cyclone Pokémon,Flying,,1.5,63.0,5.0
+641,Tornadus,https://bulbapedia.bulbagarden.net/wiki/Tornadus_(Pok%C3%A9mon),79,100,80,121,110,90,580,Therian Forme,Cyclone Pokémon,Flying,,1.5,63.0,5.0
+642,Thundurus,https://bulbapedia.bulbagarden.net/wiki/Thundurus_(Pok%C3%A9mon),79,115,70,111,125,80,580,Incarnate Forme,Bolt Strike Pokémon,Electric,Flying,1.5,61.0,5.0
+642,Thundurus,https://bulbapedia.bulbagarden.net/wiki/Thundurus_(Pok%C3%A9mon),79,105,70,101,145,80,580,Therian Forme,Bolt Strike Pokémon,Electric,Flying,1.5,61.0,5.0
+643,Reshiram,https://bulbapedia.bulbagarden.net/wiki/Reshiram_(Pok%C3%A9mon),100,120,100,90,150,120,680,,Vast White Pokémon,Dragon,Fire,3.2,330.0,5.0
+644,Zekrom,https://bulbapedia.bulbagarden.net/wiki/Zekrom_(Pok%C3%A9mon),100,150,120,90,120,100,680,,Deep Black Pokémon,Dragon,Electric,2.9,345.0,5.0
+645,Landorus,https://bulbapedia.bulbagarden.net/wiki/Landorus_(Pok%C3%A9mon),89,125,90,101,115,80,600,Incarnate Forme,Abundance Pokémon,Ground,Flying,1.5,68.0,5.0
+645,Landorus,https://bulbapedia.bulbagarden.net/wiki/Landorus_(Pok%C3%A9mon),89,145,90,91,105,80,600,Therian Forme,Abundance Pokémon,Ground,Flying,1.5,68.0,5.0
+646,Kyurem,https://bulbapedia.bulbagarden.net/wiki/Kyurem_(Pok%C3%A9mon),125,130,90,95,130,90,660,,Boundary Pokémon,Dragon,Ice,3.0,325.0,5.0
+646,Kyurem,https://bulbapedia.bulbagarden.net/wiki/Kyurem_(Pok%C3%A9mon),125,120,90,95,170,100,700,White Kyurem,Boundary Pokémon,Dragon,Ice,3.0,325.0,5.0
+646,Kyurem,https://bulbapedia.bulbagarden.net/wiki/Kyurem_(Pok%C3%A9mon),125,170,100,95,120,90,700,Black Kyurem,Boundary Pokémon,Dragon,Ice,3.0,325.0,5.0
+647,Keldeo,https://bulbapedia.bulbagarden.net/wiki/Keldeo_(Pok%C3%A9mon),91,72,90,108,129,90,580,,Colt Pokémon,Water,Fighting,1.4,48.5,5.0
+648,Meloetta,https://bulbapedia.bulbagarden.net/wiki/Meloetta_(Pok%C3%A9mon),100,77,77,90,128,128,600,Aria Forme,Melody Pokémon,Normal,Psychic,0.6,6.5,5.0
+648,Meloetta,https://bulbapedia.bulbagarden.net/wiki/Meloetta_(Pok%C3%A9mon),100,128,90,128,77,77,600,Pirouette Forme,Melody Pokémon,Normal,Psychic,0.6,6.5,5.0
+649,Genesect,https://bulbapedia.bulbagarden.net/wiki/Genesect_(Pok%C3%A9mon),71,120,95,99,120,95,600,,Paleozoic Pokémon,Bug,Steel,1.5,82.5,5.0
+650,Chespin,https://bulbapedia.bulbagarden.net/wiki/Chespin_(Pok%C3%A9mon),56,61,65,38,48,45,313,,Spiny Nut Pokémon,Grass,,0.4,9.0,6.0
+651,Quilladin,https://bulbapedia.bulbagarden.net/wiki/Quilladin_(Pok%C3%A9mon),61,78,95,57,56,58,405,,Spiny Armor Pokémon,Grass,,0.7,29.0,6.0
+652,Chesnaught,https://bulbapedia.bulbagarden.net/wiki/Chesnaught_(Pok%C3%A9mon),88,107,122,64,74,75,530,,Spiny Armor Pokémon,Grass,Fighting,1.6,90.0,6.0
+652,Chesnaught,https://bulbapedia.bulbagarden.net/wiki/Chesnaught_(Pok%C3%A9mon),88,137,172,44,74,115,630,Mega Chesnaught,Spiny Armor Pokémon,Grass,Fighting,1.6,90.0,6.0
+653,Fennekin,https://bulbapedia.bulbagarden.net/wiki/Fennekin_(Pok%C3%A9mon),40,45,40,60,62,60,307,,Fox Pokémon,Fire,,0.4,9.4,6.0
+654,Braixen,https://bulbapedia.bulbagarden.net/wiki/Braixen_(Pok%C3%A9mon),59,59,58,73,90,70,409,,Fox Pokémon,Fire,,1.0,14.5,6.0
+655,Delphox,https://bulbapedia.bulbagarden.net/wiki/Delphox_(Pok%C3%A9mon),75,69,72,104,114,100,534,,Fox Pokémon,Fire,Psychic,1.5,39.0,6.0
+655,Delphox,https://bulbapedia.bulbagarden.net/wiki/Delphox_(Pok%C3%A9mon),75,69,72,134,159,125,634,Mega Delphox,Fox Pokémon,Fire,Psychic,1.5,39.0,6.0
+656,Froakie,https://bulbapedia.bulbagarden.net/wiki/Froakie_(Pok%C3%A9mon),41,56,40,71,62,44,314,,Bubble Frog Pokémon,Water,,0.3,7.0,6.0
+657,Frogadier,https://bulbapedia.bulbagarden.net/wiki/Frogadier_(Pok%C3%A9mon),54,63,52,97,83,56,405,,Bubble Frog Pokémon,Water,,0.6,10.9,6.0
+658,Greninja,https://bulbapedia.bulbagarden.net/wiki/Greninja_(Pok%C3%A9mon),72,95,67,122,103,71,530,,Ninja Pokémon,Water,Dark,1.5,40.0,6.0
+658,Greninja,https://bulbapedia.bulbagarden.net/wiki/Greninja_(Pok%C3%A9mon),72,145,67,132,153,71,640,Ash-Greninja,Ninja Pokémon,Water,Dark,1.5,40.0,6.0
+658,Greninja,https://bulbapedia.bulbagarden.net/wiki/Greninja_(Pok%C3%A9mon),72,125,77,142,133,81,630,Mega Greninja,Ninja Pokémon,Water,Dark,1.5,40.0,6.0
+659,Bunnelby,https://bulbapedia.bulbagarden.net/wiki/Bunnelby_(Pok%C3%A9mon),38,36,38,57,32,36,237,,Digging Pokémon,Normal,,0.4,5.0,6.0
+660,Diggersby,https://bulbapedia.bulbagarden.net/wiki/Diggersby_(Pok%C3%A9mon),85,56,77,78,50,77,423,,Digging Pokémon,Normal,Ground,1.0,42.4,6.0
+661,Fletchling,https://bulbapedia.bulbagarden.net/wiki/Fletchling_(Pok%C3%A9mon),45,50,43,62,40,38,278,,Tiny Robin Pokémon,Normal,Flying,0.3,1.7,6.0
+662,Fletchinder,https://bulbapedia.bulbagarden.net/wiki/Fletchinder_(Pok%C3%A9mon),62,73,55,84,56,52,382,,Ember Pokémon,Fire,Flying,0.7,16.0,6.0
+663,Talonflame,https://bulbapedia.bulbagarden.net/wiki/Talonflame_(Pok%C3%A9mon),78,81,71,126,74,69,499,,Scorching Pokémon,Fire,Flying,1.2,24.5,6.0
+664,Scatterbug,https://bulbapedia.bulbagarden.net/wiki/Scatterbug_(Pok%C3%A9mon),38,35,40,35,27,25,200,,Scatterdust Pokémon,Bug,,0.3,2.5,6.0
+665,Spewpa,https://bulbapedia.bulbagarden.net/wiki/Spewpa_(Pok%C3%A9mon),45,22,60,29,27,30,213,,Scatterdust Pokémon,Bug,,0.3,8.4,6.0
+666,Vivillon,https://bulbapedia.bulbagarden.net/wiki/Vivillon_(Pok%C3%A9mon),80,52,50,89,90,50,411,,Scale Pokémon,Bug,Flying,1.2,17.0,6.0
+667,Litleo,https://bulbapedia.bulbagarden.net/wiki/Litleo_(Pok%C3%A9mon),62,50,58,72,73,54,369,,Lion Cub Pokémon,Fire,Normal,0.6,13.5,6.0
+668,Pyroar,https://bulbapedia.bulbagarden.net/wiki/Pyroar_(Pok%C3%A9mon),86,68,72,106,109,66,507,,Royal Pokémon,Fire,Normal,1.5,81.5,6.0
+668,Pyroar,https://bulbapedia.bulbagarden.net/wiki/Pyroar_(Pok%C3%A9mon),86,88,92,126,129,86,607,Mega Pyroar,Royal Pokémon,Fire,Normal,1.5,81.5,6.0
+669,Flabébé,https://bulbapedia.bulbagarden.net/wiki/Flab%C3%A9b%C3%A9_(Pok%C3%A9mon),44,38,39,42,61,79,303,,Single Bloom Pokémon,Fairy,,0.1,0.1,6.0
+670,Floette,https://bulbapedia.bulbagarden.net/wiki/Floette_(Pok%C3%A9mon),54,45,47,52,75,98,371,,Single Bloom Pokémon,Fairy,,0.2,0.9,6.0
+670,Floette,https://bulbapedia.bulbagarden.net/wiki/Floette_(Pok%C3%A9mon),74,65,67,92,125,128,551,Eternal Flower,Single Bloom Pokémon,Fairy,,0.2,0.9,6.0
+670,Floette,https://bulbapedia.bulbagarden.net/wiki/Floette_(Pok%C3%A9mon),74,85,87,102,155,148,651,Mega Floette,Single Bloom Pokémon,Fairy,,0.2,0.9,6.0
+671,Florges,https://bulbapedia.bulbagarden.net/wiki/Florges_(Pok%C3%A9mon),78,65,68,75,112,154,552,,Garden Pokémon,Fairy,,1.1,10.0,6.0
+672,Skiddo,https://bulbapedia.bulbagarden.net/wiki/Skiddo_(Pok%C3%A9mon),66,65,48,52,62,57,350,,Mount Pokémon,Grass,,0.9,31.0,6.0
+673,Gogoat,https://bulbapedia.bulbagarden.net/wiki/Gogoat_(Pok%C3%A9mon),123,100,62,68,97,81,531,,Mount Pokémon,Grass,,1.7,91.0,6.0
+674,Pancham,https://bulbapedia.bulbagarden.net/wiki/Pancham_(Pok%C3%A9mon),67,82,62,43,46,48,348,,Playful Pokémon,Fighting,,0.6,8.0,6.0
+675,Pangoro,https://bulbapedia.bulbagarden.net/wiki/Pangoro_(Pok%C3%A9mon),95,124,78,58,69,71,495,,Daunting Pokémon,Fighting,Dark,2.1,136.0,6.0
+676,Furfrou,https://bulbapedia.bulbagarden.net/wiki/Furfrou_(Pok%C3%A9mon),75,80,60,102,65,90,472,,Poodle Pokémon,Normal,,1.2,28.0,6.0
+677,Espurr,https://bulbapedia.bulbagarden.net/wiki/Espurr_(Pok%C3%A9mon),62,48,54,68,63,60,355,,Restraint Pokémon,Psychic,,0.3,3.5,6.0
+678,Meowstic,https://bulbapedia.bulbagarden.net/wiki/Meowstic_(Pok%C3%A9mon),74,48,76,104,83,81,466,,Constraint Pokémon,Psychic,,0.6,8.5,6.0
+679,Honedge,https://bulbapedia.bulbagarden.net/wiki/Honedge_(Pok%C3%A9mon),45,80,100,28,35,37,325,,Sword Pokémon,Steel,Ghost,0.8,2.0,6.0
+680,Doublade,https://bulbapedia.bulbagarden.net/wiki/Doublade_(Pok%C3%A9mon),59,110,150,35,45,49,448,,Sword Pokémon,Steel,Ghost,0.8,4.5,6.0
+681,Aegislash,https://bulbapedia.bulbagarden.net/wiki/Aegislash_(Pok%C3%A9mon),60,50,140,60,50,140,500,Shield Forme,Royal Sword Pokémon,Steel,Ghost,1.7,53.0,6.0
+681,Aegislash,https://bulbapedia.bulbagarden.net/wiki/Aegislash_(Pok%C3%A9mon),60,140,50,60,140,50,500,Blade Forme,Royal Sword Pokémon,Steel,Ghost,1.7,53.0,6.0
+682,Spritzee,https://bulbapedia.bulbagarden.net/wiki/Spritzee_(Pok%C3%A9mon),78,52,60,23,63,65,341,,Perfume Pokémon,Fairy,,0.2,0.5,6.0
+683,Aromatisse,https://bulbapedia.bulbagarden.net/wiki/Aromatisse_(Pok%C3%A9mon),101,72,72,29,99,89,462,,Fragrance Pokémon,Fairy,,0.8,15.5,6.0
+684,Swirlix,https://bulbapedia.bulbagarden.net/wiki/Swirlix_(Pok%C3%A9mon),62,48,66,49,59,57,341,,Cotton Candy Pokémon,Fairy,,0.4,3.5,6.0
+685,Slurpuff,https://bulbapedia.bulbagarden.net/wiki/Slurpuff_(Pok%C3%A9mon),82,80,86,72,85,75,480,,Meringue Pokémon,Fairy,,0.8,5.0,6.0
+686,Inkay,https://bulbapedia.bulbagarden.net/wiki/Inkay_(Pok%C3%A9mon),53,54,53,45,37,46,288,,Revolving Pokémon,Dark,Psychic,0.4,3.5,6.0
+687,Malamar,https://bulbapedia.bulbagarden.net/wiki/Malamar_(Pok%C3%A9mon),86,92,88,73,68,75,482,,Overturning Pokémon,Dark,Psychic,1.5,47.0,6.0
+687,Malamar,https://bulbapedia.bulbagarden.net/wiki/Malamar_(Pok%C3%A9mon),86,102,88,88,98,120,582,Mega Malamar,Overturning Pokémon,Dark,Psychic,1.5,47.0,6.0
+688,Binacle,https://bulbapedia.bulbagarden.net/wiki/Binacle_(Pok%C3%A9mon),42,52,67,50,39,56,306,,Two-Handed Pokémon,Rock,Water,0.5,31.0,6.0
+689,Barbaracle,https://bulbapedia.bulbagarden.net/wiki/Barbaracle_(Pok%C3%A9mon),72,105,115,68,54,86,500,,Collective Pokémon,Rock,Water,1.3,96.0,6.0
+689,Barbaracle,https://bulbapedia.bulbagarden.net/wiki/Barbaracle_(Pok%C3%A9mon),72,140,130,88,64,106,600,Mega Barbaracle,Collective Pokémon,Rock,Water,1.3,96.0,6.0
+690,Skrelp,https://bulbapedia.bulbagarden.net/wiki/Skrelp_(Pok%C3%A9mon),50,60,60,30,60,60,320,,Mock Kelp Pokémon,Poison,Water,0.5,7.3,6.0
+691,Dragalge,https://bulbapedia.bulbagarden.net/wiki/Dragalge_(Pok%C3%A9mon),65,75,90,44,97,123,494,,Mock Kelp Pokémon,Poison,Dragon,1.8,81.5,6.0
+691,Dragalge,https://bulbapedia.bulbagarden.net/wiki/Dragalge_(Pok%C3%A9mon),65,85,105,44,132,163,594,Mega Dragalge,Mock Kelp Pokémon,Poison,Dragon,1.8,81.5,6.0
+692,Clauncher,https://bulbapedia.bulbagarden.net/wiki/Clauncher_(Pok%C3%A9mon),50,53,62,44,58,63,330,,Water Gun Pokémon,Water,,0.5,8.3,6.0
+693,Clawitzer,https://bulbapedia.bulbagarden.net/wiki/Clawitzer_(Pok%C3%A9mon),71,73,88,59,120,89,500,,Howitzer Pokémon,Water,,1.3,35.3,6.0
+694,Helioptile,https://bulbapedia.bulbagarden.net/wiki/Helioptile_(Pok%C3%A9mon),44,38,33,70,61,43,289,,Generator Pokémon,Electric,Normal,0.5,6.0,6.0
+695,Heliolisk,https://bulbapedia.bulbagarden.net/wiki/Heliolisk_(Pok%C3%A9mon),62,55,52,109,109,94,481,,Generator Pokémon,Electric,Normal,1.0,21.0,6.0
+696,Tyrunt,https://bulbapedia.bulbagarden.net/wiki/Tyrunt_(Pok%C3%A9mon),58,89,77,48,45,45,362,,Royal Heir Pokémon,Rock,Dragon,0.8,26.0,6.0
+697,Tyrantrum,https://bulbapedia.bulbagarden.net/wiki/Tyrantrum_(Pok%C3%A9mon),82,121,119,71,69,59,521,,Despot Pokémon,Rock,Dragon,2.5,270.0,6.0
+698,Amaura,https://bulbapedia.bulbagarden.net/wiki/Amaura_(Pok%C3%A9mon),77,59,50,46,67,63,362,,Tundra Pokémon,Rock,Ice,1.3,25.2,6.0
+699,Aurorus,https://bulbapedia.bulbagarden.net/wiki/Aurorus_(Pok%C3%A9mon),123,77,72,58,99,92,521,,Tundra Pokémon,Rock,Ice,2.7,225.0,6.0
+700,Sylveon,https://bulbapedia.bulbagarden.net/wiki/Sylveon_(Pok%C3%A9mon),95,65,65,60,110,130,525,,Intertwining Pokémon,Fairy,,1.0,23.5,6.0
+701,Hawlucha,https://bulbapedia.bulbagarden.net/wiki/Hawlucha_(Pok%C3%A9mon),78,92,75,118,74,63,500,,Wrestling Pokémon,Fighting,Flying,0.8,21.5,6.0
+701,Hawlucha,https://bulbapedia.bulbagarden.net/wiki/Hawlucha_(Pok%C3%A9mon),78,137,100,118,74,93,600,Mega Hawlucha,Wrestling Pokémon,Fighting,Flying,0.8,21.5,6.0
+702,Dedenne,https://bulbapedia.bulbagarden.net/wiki/Dedenne_(Pok%C3%A9mon),67,58,57,101,81,67,431,,Antenna Pokémon,Electric,Fairy,0.2,2.2,6.0
+703,Carbink,https://bulbapedia.bulbagarden.net/wiki/Carbink_(Pok%C3%A9mon),50,50,150,50,50,150,500,,Jewel Pokémon,Rock,Fairy,0.3,5.7,6.0
+704,Goomy,https://bulbapedia.bulbagarden.net/wiki/Goomy_(Pok%C3%A9mon),45,50,35,40,55,75,300,,Soft Tissue Pokémon,Dragon,,0.3,2.8,6.0
+705,Sliggoo,https://bulbapedia.bulbagarden.net/wiki/Sliggoo_(Pok%C3%A9mon),68,75,53,60,83,113,452,,Soft Tissue Pokémon,Dragon,,0.8,17.5,6.0
+705,Sliggoo,https://bulbapedia.bulbagarden.net/wiki/Sliggoo_(Pok%C3%A9mon),58,75,83,40,83,113,452,Hisuian Sliggoo,Soft Tissue Pokémon,Dragon,,0.8,17.5,6.0
+706,Goodra,https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pok%C3%A9mon),90,100,70,80,110,150,600,,Dragon Pokémon,Dragon,,2.0,150.5,6.0
+706,Goodra,https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pok%C3%A9mon),80,100,100,60,110,150,600,Hisuian Goodra,Dragon Pokémon,Dragon,,2.0,150.5,6.0
+707,Klefki,https://bulbapedia.bulbagarden.net/wiki/Klefki_(Pok%C3%A9mon),57,80,91,75,80,87,470,,Key Ring Pokémon,Steel,Fairy,0.2,3.0,6.0
+708,Phantump,https://bulbapedia.bulbagarden.net/wiki/Phantump_(Pok%C3%A9mon),43,70,48,38,50,60,309,,Stump Pokémon,Ghost,Grass,0.4,7.0,6.0
+709,Trevenant,https://bulbapedia.bulbagarden.net/wiki/Trevenant_(Pok%C3%A9mon),85,110,76,56,65,82,474,,Elder Tree Pokémon,Ghost,Grass,1.5,71.0,6.0
+710,Pumpkaboo,https://bulbapedia.bulbagarden.net/wiki/Pumpkaboo_(Pok%C3%A9mon),44,66,70,56,44,55,335,Small Size,Pumpkin Pokémon,Ghost,Grass,0.3,3.5,6.0
+710,Pumpkaboo,https://bulbapedia.bulbagarden.net/wiki/Pumpkaboo_(Pok%C3%A9mon),49,66,70,51,44,55,335,Average Size,Pumpkin Pokémon,Ghost,Grass,0.3,3.5,6.0
+710,Pumpkaboo,https://bulbapedia.bulbagarden.net/wiki/Pumpkaboo_(Pok%C3%A9mon),54,66,70,46,44,55,335,Large Size,Pumpkin Pokémon,Ghost,Grass,0.3,3.5,6.0
+710,Pumpkaboo,https://bulbapedia.bulbagarden.net/wiki/Pumpkaboo_(Pok%C3%A9mon),59,66,70,41,44,55,335,Super Size,Pumpkin Pokémon,Ghost,Grass,0.3,3.5,6.0
+711,Gourgeist,https://bulbapedia.bulbagarden.net/wiki/Gourgeist_(Pok%C3%A9mon),55,85,122,99,58,75,494,Small Size,Pumpkin Pokémon,Ghost,Grass,0.7,9.5,6.0
+711,Gourgeist,https://bulbapedia.bulbagarden.net/wiki/Gourgeist_(Pok%C3%A9mon),65,90,122,84,58,75,494,Average Size,Pumpkin Pokémon,Ghost,Grass,0.7,9.5,6.0
+711,Gourgeist,https://bulbapedia.bulbagarden.net/wiki/Gourgeist_(Pok%C3%A9mon),75,95,122,69,58,75,494,Large Size,Pumpkin Pokémon,Ghost,Grass,0.7,9.5,6.0
+711,Gourgeist,https://bulbapedia.bulbagarden.net/wiki/Gourgeist_(Pok%C3%A9mon),85,100,122,54,58,75,494,Super Size,Pumpkin Pokémon,Ghost,Grass,0.7,9.5,6.0
+712,Bergmite,https://bulbapedia.bulbagarden.net/wiki/Bergmite_(Pok%C3%A9mon),55,69,85,28,32,35,304,,Ice Chunk Pokémon,Ice,,1.0,99.5,6.0
+713,Avalugg,https://bulbapedia.bulbagarden.net/wiki/Avalugg_(Pok%C3%A9mon),95,117,184,28,44,46,514,,Iceberg Pokémon,Ice,,2.0,505.0,6.0
+713,Avalugg,https://bulbapedia.bulbagarden.net/wiki/Avalugg_(Pok%C3%A9mon),95,127,184,38,34,36,514,Hisuian Avalugg,Iceberg Pokémon,Ice,,2.0,505.0,6.0
+714,Noibat,https://bulbapedia.bulbagarden.net/wiki/Noibat_(Pok%C3%A9mon),40,30,35,55,45,40,245,,Sound Wave Pokémon,Flying,Dragon,0.5,8.0,6.0
+715,Noivern,https://bulbapedia.bulbagarden.net/wiki/Noivern_(Pok%C3%A9mon),85,70,80,123,97,80,535,,Sound Wave Pokémon,Flying,Dragon,1.5,85.0,6.0
+716,Xerneas,https://bulbapedia.bulbagarden.net/wiki/Xerneas_(Pok%C3%A9mon),126,131,95,99,131,98,680,,Life Pokémon,Fairy,,3.0,215.0,6.0
+717,Yveltal,https://bulbapedia.bulbagarden.net/wiki/Yveltal_(Pok%C3%A9mon),126,131,95,99,131,98,680,,Destruction Pokémon,Dark,Flying,5.8,203.0,6.0
+718,Zygarde,https://bulbapedia.bulbagarden.net/wiki/Zygarde_(Pok%C3%A9mon),108,100,121,95,81,95,600,50% Forme,Order Pokémon,Dragon,Ground,5.0,305.0,6.0
+718,Zygarde,https://bulbapedia.bulbagarden.net/wiki/Zygarde_(Pok%C3%A9mon),54,100,71,115,61,85,486,10% Forme,Order Pokémon,Dragon,Ground,5.0,305.0,6.0
+718,Zygarde,https://bulbapedia.bulbagarden.net/wiki/Zygarde_(Pok%C3%A9mon),216,100,121,85,91,95,708,Complete Forme,Order Pokémon,Dragon,Ground,5.0,305.0,6.0
+718,Zygarde,https://bulbapedia.bulbagarden.net/wiki/Zygarde_(Pok%C3%A9mon),216,70,91,100,216,85,778,Mega Zygarde,Order Pokémon,Dragon,Ground,5.0,305.0,6.0
+719,Diancie,https://bulbapedia.bulbagarden.net/wiki/Diancie_(Pok%C3%A9mon),50,100,150,50,100,150,600,,Jewel Pokémon,Rock,Fairy,0.7,8.8,6.0
+719,Diancie,https://bulbapedia.bulbagarden.net/wiki/Diancie_(Pok%C3%A9mon),50,160,110,110,160,110,700,Mega Diancie,Jewel Pokémon,Rock,Fairy,0.7,8.8,6.0
+720,Hoopa,https://bulbapedia.bulbagarden.net/wiki/Hoopa_(Pok%C3%A9mon),80,110,60,70,150,130,600,Hoopa Confined,Mischief Pokémon,Psychic,Ghost,0.5,9.0,6.0
+720,Hoopa,https://bulbapedia.bulbagarden.net/wiki/Hoopa_(Pok%C3%A9mon),80,160,60,80,170,130,680,Hoopa Unbound,Mischief Pokémon,Psychic,Ghost,0.5,9.0,6.0
+721,Volcanion,https://bulbapedia.bulbagarden.net/wiki/Volcanion_(Pok%C3%A9mon),80,110,120,70,130,90,600,,Steam Pokémon,Fire,Water,1.7,195.0,6.0
+722,Rowlet,https://bulbapedia.bulbagarden.net/wiki/Rowlet_(Pok%C3%A9mon),68,55,55,42,50,50,320,,Grass Quill Pokémon,Grass,Flying,0.3,1.5,7.0
+723,Dartrix,https://bulbapedia.bulbagarden.net/wiki/Dartrix_(Pok%C3%A9mon),78,75,75,52,70,70,420,,Blade Quill Pokémon,Grass,Flying,0.7,16.0,7.0
+724,Decidueye,https://bulbapedia.bulbagarden.net/wiki/Decidueye_(Pok%C3%A9mon),78,107,75,70,100,100,530,,Arrow Quill Pokémon,Grass,Ghost,1.6,36.6,7.0
+724,Decidueye,https://bulbapedia.bulbagarden.net/wiki/Decidueye_(Pok%C3%A9mon),88,112,80,60,95,95,530,Hisuian Decidueye,Arrow Quill Pokémon,Grass,Ghost,1.6,36.6,7.0
+725,Litten,https://bulbapedia.bulbagarden.net/wiki/Litten_(Pok%C3%A9mon),45,65,40,70,60,40,320,,Fire Cat Pokémon,Fire,,0.4,4.3,7.0
+726,Torracat,https://bulbapedia.bulbagarden.net/wiki/Torracat_(Pok%C3%A9mon),65,85,50,90,80,50,420,,Fire Cat Pokémon,Fire,,0.7,25.0,7.0
+727,Incineroar,https://bulbapedia.bulbagarden.net/wiki/Incineroar_(Pok%C3%A9mon),95,115,90,60,80,90,530,,Heel Pokémon,Fire,Dark,1.8,83.0,7.0
+728,Popplio,https://bulbapedia.bulbagarden.net/wiki/Popplio_(Pok%C3%A9mon),50,54,54,40,66,56,320,,Sea Lion Pokémon,Water,,0.4,7.5,7.0
+729,Brionne,https://bulbapedia.bulbagarden.net/wiki/Brionne_(Pok%C3%A9mon),60,69,69,50,91,81,420,,Pop Star Pokémon,Water,,0.6,17.5,7.0
+730,Primarina,https://bulbapedia.bulbagarden.net/wiki/Primarina_(Pok%C3%A9mon),80,74,74,60,126,116,530,,Soloist Pokémon,Water,Fairy,1.8,44.0,7.0
+731,Pikipek,https://bulbapedia.bulbagarden.net/wiki/Pikipek_(Pok%C3%A9mon),35,75,30,65,30,30,265,,Woodpecker Pokémon,Normal,Flying,0.3,1.2,7.0
+732,Trumbeak,https://bulbapedia.bulbagarden.net/wiki/Trumbeak_(Pok%C3%A9mon),55,85,50,75,40,50,355,,Bugle Beak Pokémon,Normal,Flying,0.6,14.8,7.0
+733,Toucannon,https://bulbapedia.bulbagarden.net/wiki/Toucannon_(Pok%C3%A9mon),80,120,75,60,75,75,485,,Cannon Pokémon,Normal,Flying,1.1,26.0,7.0
+734,Yungoos,https://bulbapedia.bulbagarden.net/wiki/Yungoos_(Pok%C3%A9mon),48,70,30,45,30,30,253,,Loitering Pokémon,Normal,,0.4,6.0,7.0
+735,Gumshoos,https://bulbapedia.bulbagarden.net/wiki/Gumshoos_(Pok%C3%A9mon),88,110,60,45,55,60,418,,Stakeout Pokémon,Normal,,0.7,14.2,7.0
+736,Grubbin,https://bulbapedia.bulbagarden.net/wiki/Grubbin_(Pok%C3%A9mon),47,62,45,46,55,45,300,,Larva Pokémon,Bug,,0.4,4.4,7.0
+737,Charjabug,https://bulbapedia.bulbagarden.net/wiki/Charjabug_(Pok%C3%A9mon),57,82,95,36,55,75,400,,Battery Pokémon,Bug,Electric,0.5,10.5,7.0
+738,Vikavolt,https://bulbapedia.bulbagarden.net/wiki/Vikavolt_(Pok%C3%A9mon),77,70,90,43,145,75,500,,Stag Beetle Pokémon,Bug,Electric,1.5,45.0,7.0
+739,Crabrawler,https://bulbapedia.bulbagarden.net/wiki/Crabrawler_(Pok%C3%A9mon),47,82,57,63,42,47,338,,Boxing Pokémon,Fighting,,0.6,7.0,7.0
+740,Crabominable,https://bulbapedia.bulbagarden.net/wiki/Crabominable_(Pok%C3%A9mon),97,132,77,43,62,67,478,,Woolly Crab Pokémon,Fighting,Ice,1.7,180.0,7.0
+741,Oricorio,https://bulbapedia.bulbagarden.net/wiki/Oricorio_(Pok%C3%A9mon),75,70,70,93,98,70,476,,Dancing Pokémon,Fire,Flying,0.6,3.4,7.0
+742,Cutiefly,https://bulbapedia.bulbagarden.net/wiki/Cutiefly_(Pok%C3%A9mon),40,45,40,84,55,40,304,,Bee Fly Pokémon,Bug,Fairy,0.1,0.2,7.0
+743,Ribombee,https://bulbapedia.bulbagarden.net/wiki/Ribombee_(Pok%C3%A9mon),60,55,60,124,95,70,464,,Bee Fly Pokémon,Bug,Fairy,0.2,0.5,7.0
+744,Rockruff,https://bulbapedia.bulbagarden.net/wiki/Rockruff_(Pok%C3%A9mon),45,65,40,60,30,40,280,,Puppy Pokémon,Rock,,0.5,9.2,7.0
+745,Lycanroc Midday Form,https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(Pok%C3%A9mon),75,115,65,112,55,65,487,,,,,,,7.0
+745,Lycanroc Midnight Form,https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(Pok%C3%A9mon),85,115,75,82,55,75,487,,,,,,,7.0
+745,Lycanroc Dusk Form,https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(Pok%C3%A9mon),75,117,65,110,55,65,487,,,,,,,7.0
+746,Wishiwashi Solo Form,https://bulbapedia.bulbagarden.net/wiki/Wishiwashi_(Pok%C3%A9mon),45,20,20,40,25,25,175,,,,,,,7.0
+746,Wishiwashi School Form,https://bulbapedia.bulbagarden.net/wiki/Wishiwashi_(Pok%C3%A9mon),45,140,130,30,140,135,620,,,,,,,7.0
+747,Mareanie,https://bulbapedia.bulbagarden.net/wiki/Mareanie_(Pok%C3%A9mon),50,53,62,45,43,52,305,,Brutal Star Pokémon,Poison,Water,0.4,8.0,7.0
+748,Toxapex,https://bulbapedia.bulbagarden.net/wiki/Toxapex_(Pok%C3%A9mon),50,63,152,35,53,142,495,,Brutal Star Pokémon,Poison,Water,0.7,14.5,7.0
+749,Mudbray,https://bulbapedia.bulbagarden.net/wiki/Mudbray_(Pok%C3%A9mon),70,100,70,45,45,55,385,,Donkey Pokémon,Ground,,1.0,110.0,7.0
+750,Mudsdale,https://bulbapedia.bulbagarden.net/wiki/Mudsdale_(Pok%C3%A9mon),100,125,100,35,55,85,500,,Draft Horse Pokémon,Ground,,2.5,920.0,7.0
+751,Dewpider,https://bulbapedia.bulbagarden.net/wiki/Dewpider_(Pok%C3%A9mon),38,40,52,27,40,72,269,,Water Bubble Pokémon,Water,Bug,0.3,4.0,7.0
+752,Araquanid,https://bulbapedia.bulbagarden.net/wiki/Araquanid_(Pok%C3%A9mon),68,70,92,42,50,132,454,,Water Bubble Pokémon,Water,Bug,1.8,82.0,7.0
+753,Fomantis,https://bulbapedia.bulbagarden.net/wiki/Fomantis_(Pok%C3%A9mon),40,55,35,35,50,35,250,,Sickle Grass Pokémon,Grass,,0.3,1.5,7.0
+754,Lurantis,https://bulbapedia.bulbagarden.net/wiki/Lurantis_(Pok%C3%A9mon),70,105,90,45,80,90,480,,Bloom Sickle Pokémon,Grass,,0.9,18.5,7.0
+755,Morelull,https://bulbapedia.bulbagarden.net/wiki/Morelull_(Pok%C3%A9mon),40,35,55,15,65,75,285,,Illuminating Pokémon,Grass,Fairy,0.2,1.5,7.0
+756,Shiinotic,https://bulbapedia.bulbagarden.net/wiki/Shiinotic_(Pok%C3%A9mon),60,45,80,30,90,100,405,,Illuminating Pokémon,Grass,Fairy,1.0,11.5,7.0
+757,Salandit,https://bulbapedia.bulbagarden.net/wiki/Salandit_(Pok%C3%A9mon),48,44,40,77,71,40,320,,Toxic Lizard Pokémon,Poison,Fire,0.6,4.8,7.0
+758,Salazzle,https://bulbapedia.bulbagarden.net/wiki/Salazzle_(Pok%C3%A9mon),68,64,60,117,111,60,480,,Toxic Lizard Pokémon,Poison,Fire,1.2,22.2,7.0
+759,Stufful,https://bulbapedia.bulbagarden.net/wiki/Stufful_(Pok%C3%A9mon),70,75,50,50,45,50,340,,Flailing Pokémon,Normal,Fighting,0.5,6.8,7.0
+760,Bewear,https://bulbapedia.bulbagarden.net/wiki/Bewear_(Pok%C3%A9mon),120,125,80,60,55,60,500,,Strong Arm Pokémon,Normal,Fighting,2.1,135.0,7.0
+761,Bounsweet,https://bulbapedia.bulbagarden.net/wiki/Bounsweet_(Pok%C3%A9mon),42,30,38,32,30,38,210,,Fruit Pokémon,Grass,,0.3,3.2,7.0
+762,Steenee,https://bulbapedia.bulbagarden.net/wiki/Steenee_(Pok%C3%A9mon),52,40,48,62,40,48,290,,Fruit Pokémon,Grass,,0.7,8.2,7.0
+763,Tsareena,https://bulbapedia.bulbagarden.net/wiki/Tsareena_(Pok%C3%A9mon),72,120,98,72,50,98,510,,Fruit Pokémon,Grass,,1.2,21.4,7.0
+764,Comfey,https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pok%C3%A9mon),51,52,90,100,82,110,485,,Posy Picker Pokémon,Fairy,,0.1,0.3,7.0
+765,Oranguru,https://bulbapedia.bulbagarden.net/wiki/Oranguru_(Pok%C3%A9mon),90,60,80,60,90,110,490,,Sage Pokémon,Normal,Psychic,1.5,76.0,7.0
+766,Passimian,https://bulbapedia.bulbagarden.net/wiki/Passimian_(Pok%C3%A9mon),100,120,90,80,40,60,490,,Teamwork Pokémon,Fighting,,2.0,82.8,7.0
+767,Wimpod,https://bulbapedia.bulbagarden.net/wiki/Wimpod_(Pok%C3%A9mon),25,35,40,80,20,30,230,,Turn Tail Pokémon,Bug,Water,0.5,12.0,7.0
+768,Golisopod,https://bulbapedia.bulbagarden.net/wiki/Golisopod_(Pok%C3%A9mon),75,125,140,40,60,90,530,,Hard Scale Pokémon,Bug,Water,2.0,108.0,7.0
+769,Sandygast,https://bulbapedia.bulbagarden.net/wiki/Sandygast_(Pok%C3%A9mon),55,55,80,15,70,45,320,,Sand Heap Pokémon,Ghost,Ground,0.5,70.0,7.0
+770,Palossand,https://bulbapedia.bulbagarden.net/wiki/Palossand_(Pok%C3%A9mon),85,75,110,35,100,75,480,,Sand Castle Pokémon,Ghost,Ground,1.3,250.0,7.0
+771,Pyukumuku,https://bulbapedia.bulbagarden.net/wiki/Pyukumuku_(Pok%C3%A9mon),55,60,130,5,30,130,410,,Sea Cucumber Pokémon,Water,,0.3,1.2,7.0
+772,Type: Null,https://bulbapedia.bulbagarden.net/wiki/Type:_Null_(Pok%C3%A9mon),95,95,95,59,95,95,534,,Synthetic Pokémon,Normal,,1.9,120.5,7.0
+773,Silvally,https://bulbapedia.bulbagarden.net/wiki/Silvally_(Pok%C3%A9mon),95,95,95,95,95,95,570,,Synthetic Pokémon,Normal,,2.3,100.5,7.0
+774,Minior Meteor Form,https://bulbapedia.bulbagarden.net/wiki/Minior_(Pok%C3%A9mon),60,60,100,60,60,100,440,,,,,,,7.0
+774,Minior Core,https://bulbapedia.bulbagarden.net/wiki/Minior_(Pok%C3%A9mon),60,100,60,120,100,60,500,,,,,,,7.0
+775,Komala,https://bulbapedia.bulbagarden.net/wiki/Komala_(Pok%C3%A9mon),65,115,65,65,75,95,480,,Drowsing Pokémon,Normal,,0.4,19.9,7.0
+776,Turtonator,https://bulbapedia.bulbagarden.net/wiki/Turtonator_(Pok%C3%A9mon),60,78,135,36,91,85,485,,Blast Turtle Pokémon,Fire,Dragon,2.0,212.0,7.0
+777,Togedemaru,https://bulbapedia.bulbagarden.net/wiki/Togedemaru_(Pok%C3%A9mon),65,98,63,96,40,73,435,,Roly-Poly Pokémon,Electric,Steel,0.3,3.3,7.0
+778,Mimikyu,https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pok%C3%A9mon),55,90,80,96,50,105,476,,Disguise Pokémon,Ghost,Fairy,0.2,0.7,7.0
+779,Bruxish,https://bulbapedia.bulbagarden.net/wiki/Bruxish_(Pok%C3%A9mon),68,105,70,92,70,70,475,,Gnash Teeth Pokémon,Water,Psychic,0.9,19.0,7.0
+780,Drampa,https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pok%C3%A9mon),78,60,85,36,135,91,485,,Placid Pokémon,Normal,Dragon,3.0,185.0,7.0
+780,Drampa,https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pok%C3%A9mon),78,85,110,36,160,116,585,Mega Drampa,Placid Pokémon,Normal,Dragon,3.0,185.0,7.0
+781,Dhelmise,https://bulbapedia.bulbagarden.net/wiki/Dhelmise_(Pok%C3%A9mon),70,131,100,40,86,90,517,,Sea Creeper Pokémon,Ghost,Grass,3.9,210.0,7.0
+782,Jangmo-o,https://bulbapedia.bulbagarden.net/wiki/Jangmo-o_(Pok%C3%A9mon),45,55,65,45,45,45,300,,Scaly Pokémon,Dragon,,0.6,29.7,7.0
+783,Hakamo-o,https://bulbapedia.bulbagarden.net/wiki/Hakamo-o_(Pok%C3%A9mon),55,75,90,65,65,70,420,,Scaly Pokémon,Dragon,Fighting,1.2,47.0,7.0
+784,Kommo-o,https://bulbapedia.bulbagarden.net/wiki/Kommo-o_(Pok%C3%A9mon),75,110,125,85,100,105,600,,Scaly Pokémon,Dragon,Fighting,1.6,78.2,7.0
+785,Tapu Koko,https://bulbapedia.bulbagarden.net/wiki/Tapu_Koko_(Pok%C3%A9mon),70,115,85,130,95,75,570,,Land Spirit Pokémon,Electric,Fairy,1.8,20.5,7.0
+786,Tapu Lele,https://bulbapedia.bulbagarden.net/wiki/Tapu_Lele_(Pok%C3%A9mon),70,85,75,95,130,115,570,,Land Spirit Pokémon,Psychic,Fairy,1.2,18.6,7.0
+787,Tapu Bulu,https://bulbapedia.bulbagarden.net/wiki/Tapu_Bulu_(Pok%C3%A9mon),70,130,115,75,85,95,570,,Land Spirit Pokémon,Grass,Fairy,1.9,45.5,7.0
+788,Tapu Fini,https://bulbapedia.bulbagarden.net/wiki/Tapu_Fini_(Pok%C3%A9mon),70,75,115,85,95,130,570,,Land Spirit Pokémon,Water,Fairy,1.3,21.2,7.0
+789,Cosmog,https://bulbapedia.bulbagarden.net/wiki/Cosmog_(Pok%C3%A9mon),43,29,31,37,29,31,200,,Nebula Pokémon,Psychic,,0.2,0.1,7.0
+790,Cosmoem,https://bulbapedia.bulbagarden.net/wiki/Cosmoem_(Pok%C3%A9mon),43,29,131,37,29,131,400,,Protostar Pokémon,Psychic,,0.1,999.9,7.0
+791,Solgaleo,https://bulbapedia.bulbagarden.net/wiki/Solgaleo_(Pok%C3%A9mon),137,137,107,97,113,89,680,,Sunne Pokémon,Psychic,Steel,3.4,230.0,7.0
+792,Lunala,https://bulbapedia.bulbagarden.net/wiki/Lunala_(Pok%C3%A9mon),137,113,89,97,137,107,680,,Moone Pokémon,Psychic,Ghost,4.0,120.0,7.0
+793,Nihilego,https://bulbapedia.bulbagarden.net/wiki/Nihilego_(Pok%C3%A9mon),109,53,47,103,127,131,570,,Parasite Pokémon,Rock,Poison,1.2,55.5,7.0
+794,Buzzwole,https://bulbapedia.bulbagarden.net/wiki/Buzzwole_(Pok%C3%A9mon),107,139,139,79,53,53,570,,Swollen Pokémon,Bug,Fighting,2.4,333.6,7.0
+795,Pheromosa,https://bulbapedia.bulbagarden.net/wiki/Pheromosa_(Pok%C3%A9mon),71,137,37,151,137,37,570,,Lissome Pokémon,Bug,Fighting,1.8,25.0,7.0
+796,Xurkitree,https://bulbapedia.bulbagarden.net/wiki/Xurkitree_(Pok%C3%A9mon),83,89,71,83,173,71,570,,Glowing Pokémon,Electric,,3.8,100.0,7.0
+797,Celesteela,https://bulbapedia.bulbagarden.net/wiki/Celesteela_(Pok%C3%A9mon),97,101,103,61,107,101,570,,Launch Pokémon,Steel,Flying,9.2,999.9,7.0
+798,Kartana,https://bulbapedia.bulbagarden.net/wiki/Kartana_(Pok%C3%A9mon),59,181,131,109,59,31,570,,Drawn Sword Pokémon,Grass,Steel,0.3,0.1,7.0
+799,Guzzlord,https://bulbapedia.bulbagarden.net/wiki/Guzzlord_(Pok%C3%A9mon),223,101,53,43,97,53,570,,Junkivore Pokémon,Dark,Dragon,5.5,888.0,7.0
+800,Necrozma,https://bulbapedia.bulbagarden.net/wiki/Necrozma_(Pok%C3%A9mon),97,107,101,79,127,89,600,,Prism Pokémon,Psychic,,2.4,230.0,7.0
+800,Necrozma,https://bulbapedia.bulbagarden.net/wiki/Necrozma_(Pok%C3%A9mon),97,157,127,77,113,109,680,Dusk Mane Necrozma,Prism Pokémon,Psychic,,2.4,230.0,7.0
+800,Necrozma,https://bulbapedia.bulbagarden.net/wiki/Necrozma_(Pok%C3%A9mon),97,113,109,77,157,127,680,Dawn Wings Necrozma,Prism Pokémon,Psychic,,2.4,230.0,7.0
+800,Necrozma,https://bulbapedia.bulbagarden.net/wiki/Necrozma_(Pok%C3%A9mon),97,167,97,129,167,97,754,Ultra Necrozma,Prism Pokémon,Psychic,,2.4,230.0,7.0
+801,Magearna,https://bulbapedia.bulbagarden.net/wiki/Magearna_(Pok%C3%A9mon),80,95,115,65,130,115,600,,Artificial Pokémon,Steel,Fairy,1.0,80.5,7.0
+802,Marshadow,https://bulbapedia.bulbagarden.net/wiki/Marshadow_(Pok%C3%A9mon),90,125,80,125,90,90,600,,Gloomdweller Pokémon,Fighting,Ghost,0.7,22.2,7.0
+803,Poipole,https://bulbapedia.bulbagarden.net/wiki/Poipole_(Pok%C3%A9mon),67,73,67,73,73,67,420,,Poison Pin Pokémon,Poison,,0.6,1.8,7.0
+804,Naganadel,https://bulbapedia.bulbagarden.net/wiki/Naganadel_(Pok%C3%A9mon),73,73,73,121,127,73,540,,Poison Pin Pokémon,Poison,Dragon,3.6,150.0,7.0
+805,Stakataka,https://bulbapedia.bulbagarden.net/wiki/Stakataka_(Pok%C3%A9mon),61,131,211,13,53,101,570,,Rampart Pokémon,Rock,Steel,5.5,820.0,7.0
+806,Blacephalon,https://bulbapedia.bulbagarden.net/wiki/Blacephalon_(Pok%C3%A9mon),53,127,53,107,151,79,570,,Fireworks Pokémon,Fire,Ghost,1.8,13.0,7.0
+807,Zeraora,https://bulbapedia.bulbagarden.net/wiki/Zeraora_(Pok%C3%A9mon),88,112,75,143,102,80,600,,Thunderclap Pokémon,Electric,,1.5,44.5,7.0
+808,Meltan,https://bulbapedia.bulbagarden.net/wiki/Meltan_(Pok%C3%A9mon),46,65,65,34,55,35,300,,Hex Nut Pokémon,Steel,,0.2,8.0,7.0
+809,Melmetal,https://bulbapedia.bulbagarden.net/wiki/Melmetal_(Pok%C3%A9mon),135,143,143,34,80,65,600,,Hex Nut Pokémon,Steel,,2.5,800.0,7.0
+810,Grookey,https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pok%C3%A9mon),50,65,50,65,40,40,310,,Chimp Pokémon,Grass,,0.3,5.0,8.0
+811,Thwackey,https://bulbapedia.bulbagarden.net/wiki/Thwackey_(Pok%C3%A9mon),70,85,70,80,55,60,420,,Beat Pokémon,Grass,,0.7,14.0,8.0
+812,Rillaboom,https://bulbapedia.bulbagarden.net/wiki/Rillaboom_(Pok%C3%A9mon),100,125,90,85,60,70,530,,Drummer Pokémon,Grass,,2.1,90.0,8.0
+813,Scorbunny,https://bulbapedia.bulbagarden.net/wiki/Scorbunny_(Pok%C3%A9mon),50,71,40,69,40,40,310,,Rabbit Pokémon,Fire,,0.3,4.5,8.0
+814,Raboot,https://bulbapedia.bulbagarden.net/wiki/Raboot_(Pok%C3%A9mon),65,86,60,94,55,60,420,,Rabbit Pokémon,Fire,,0.6,9.0,8.0
+815,Cinderace,https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon),80,116,75,119,65,75,530,,Striker Pokémon,Fire,,1.4,33.0,8.0
+816,Sobble,https://bulbapedia.bulbagarden.net/wiki/Sobble_(Pok%C3%A9mon),50,40,40,70,70,40,310,,Water Lizard Pokémon,Water,,0.3,4.0,8.0
+817,Drizzile,https://bulbapedia.bulbagarden.net/wiki/Drizzile_(Pok%C3%A9mon),65,60,55,90,95,55,420,,Water Lizard Pokémon,Water,,0.7,11.5,8.0
+818,Inteleon,https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pok%C3%A9mon),70,85,65,120,125,65,530,,Secret Agent Pokémon,Water,,1.9,45.2,8.0
+819,Skwovet,https://bulbapedia.bulbagarden.net/wiki/Skwovet_(Pok%C3%A9mon),70,55,55,25,35,35,275,,Cheeky Pokémon,Normal,,0.3,2.5,8.0
+820,Greedent,https://bulbapedia.bulbagarden.net/wiki/Greedent_(Pok%C3%A9mon),120,95,95,20,55,75,460,,Greedy Pokémon,Normal,,0.6,6.0,8.0
+821,Rookidee,https://bulbapedia.bulbagarden.net/wiki/Rookidee_(Pok%C3%A9mon),38,47,35,57,33,35,245,,Tiny Bird Pokémon,Flying,,0.2,1.8,8.0
+822,Corvisquire,https://bulbapedia.bulbagarden.net/wiki/Corvisquire_(Pok%C3%A9mon),68,67,55,77,43,55,365,,Raven Pokémon,Flying,,0.8,16.0,8.0
+823,Corviknight,https://bulbapedia.bulbagarden.net/wiki/Corviknight_(Pok%C3%A9mon),98,87,105,67,53,85,495,,Raven Pokémon,Flying,Steel,2.2,75.0,8.0
+824,Blipbug,https://bulbapedia.bulbagarden.net/wiki/Blipbug_(Pok%C3%A9mon),25,20,20,45,25,45,180,,Larva Pokémon,Bug,,0.4,8.0,8.0
+825,Dottler,https://bulbapedia.bulbagarden.net/wiki/Dottler_(Pok%C3%A9mon),50,35,80,30,50,90,335,,Radome Pokémon,Bug,Psychic,0.4,19.5,8.0
+826,Orbeetle,https://bulbapedia.bulbagarden.net/wiki/Orbeetle_(Pok%C3%A9mon),60,45,110,90,80,120,505,,Seven Spot Pokémon,Bug,Psychic,0.4,40.8,8.0
+827,Nickit,https://bulbapedia.bulbagarden.net/wiki/Nickit_(Pok%C3%A9mon),40,28,28,50,47,52,245,,Fox Pokémon,Dark,,0.6,8.9,8.0
+828,Thievul,https://bulbapedia.bulbagarden.net/wiki/Thievul_(Pok%C3%A9mon),70,58,58,90,87,92,455,,Fox Pokémon,Dark,,1.2,19.9,8.0
+829,Gossifleur,https://bulbapedia.bulbagarden.net/wiki/Gossifleur_(Pok%C3%A9mon),40,40,60,10,40,60,250,,Flowering Pokémon,Grass,,0.4,2.2,8.0
+830,Eldegoss,https://bulbapedia.bulbagarden.net/wiki/Eldegoss_(Pok%C3%A9mon),60,50,90,60,80,120,460,,Cotton Bloom Pokémon,Grass,,0.5,2.5,8.0
+831,Wooloo,https://bulbapedia.bulbagarden.net/wiki/Wooloo_(Pok%C3%A9mon),42,40,55,48,40,45,270,,Sheep Pokémon,Normal,,0.6,6.0,8.0
+832,Dubwool,https://bulbapedia.bulbagarden.net/wiki/Dubwool_(Pok%C3%A9mon),72,80,100,88,60,90,490,,Sheep Pokémon,Normal,,1.3,43.0,8.0
+833,Chewtle,https://bulbapedia.bulbagarden.net/wiki/Chewtle_(Pok%C3%A9mon),50,64,50,44,38,38,284,,Snapping Pokémon,Water,,0.3,8.5,8.0
+834,Drednaw,https://bulbapedia.bulbagarden.net/wiki/Drednaw_(Pok%C3%A9mon),90,115,90,74,48,68,485,,Bite Pokémon,Water,Rock,1.0,115.5,8.0
+835,Yamper,https://bulbapedia.bulbagarden.net/wiki/Yamper_(Pok%C3%A9mon),59,45,50,26,40,50,270,,Puppy Pokémon,Electric,,0.3,13.5,8.0
+836,Boltund,https://bulbapedia.bulbagarden.net/wiki/Boltund_(Pok%C3%A9mon),69,90,60,121,90,60,490,,Dog Pokémon,Electric,,1.0,34.0,8.0
+837,Rolycoly,https://bulbapedia.bulbagarden.net/wiki/Rolycoly_(Pok%C3%A9mon),30,40,50,30,40,50,240,,Coal Pokémon,Rock,,0.3,12.0,8.0
+838,Carkol,https://bulbapedia.bulbagarden.net/wiki/Carkol_(Pok%C3%A9mon),80,60,90,50,60,70,410,,Coal Pokémon,Rock,Fire,1.1,78.0,8.0
+839,Coalossal,https://bulbapedia.bulbagarden.net/wiki/Coalossal_(Pok%C3%A9mon),110,80,120,30,80,90,510,,Coal Pokémon,Rock,Fire,2.8,310.5,8.0
+840,Applin,https://bulbapedia.bulbagarden.net/wiki/Applin_(Pok%C3%A9mon),40,40,80,20,40,40,260,,Apple Core Pokémon,Grass,Dragon,0.2,0.5,8.0
+841,Flapple,https://bulbapedia.bulbagarden.net/wiki/Flapple_(Pok%C3%A9mon),70,110,80,70,95,60,485,,Apple Wing Pokémon,Grass,Dragon,0.3,1.0,8.0
+842,Appletun,https://bulbapedia.bulbagarden.net/wiki/Appletun_(Pok%C3%A9mon),110,85,80,30,100,80,485,,Apple Nectar Pokémon,Grass,Dragon,0.4,13.0,8.0
+843,Silicobra,https://bulbapedia.bulbagarden.net/wiki/Silicobra_(Pok%C3%A9mon),52,57,75,46,35,50,315,,Sand Snake Pokémon,Ground,,2.2,7.6,8.0
+844,Sandaconda,https://bulbapedia.bulbagarden.net/wiki/Sandaconda_(Pok%C3%A9mon),72,107,125,71,65,70,510,,Sand Snake Pokémon,Ground,,3.8,65.5,8.0
+845,Cramorant,https://bulbapedia.bulbagarden.net/wiki/Cramorant_(Pok%C3%A9mon),70,85,55,85,85,95,475,,Gulp Pokémon,Flying,Water,0.8,18.0,8.0
+846,Arrokuda,https://bulbapedia.bulbagarden.net/wiki/Arrokuda_(Pok%C3%A9mon),41,63,40,66,40,30,280,,Rush Pokémon,Water,,0.5,1.0,8.0
+847,Barraskewda,https://bulbapedia.bulbagarden.net/wiki/Barraskewda_(Pok%C3%A9mon),61,123,60,136,60,50,490,,Skewer Pokémon,Water,,1.3,30.0,8.0
+848,Toxel,https://bulbapedia.bulbagarden.net/wiki/Toxel_(Pok%C3%A9mon),40,38,35,40,54,35,242,,Baby Pokémon,Electric,Poison,0.4,11.0,8.0
+849,Toxtricity,https://bulbapedia.bulbagarden.net/wiki/Toxtricity_(Pok%C3%A9mon),75,98,70,75,114,70,502,,Punk Pokémon,Electric,Poison,1.6,40.0,8.0
+850,Sizzlipede,https://bulbapedia.bulbagarden.net/wiki/Sizzlipede_(Pok%C3%A9mon),50,65,45,45,50,50,305,,Radiator Pokémon,Fire,Bug,0.7,1.0,8.0
+851,Centiskorch,https://bulbapedia.bulbagarden.net/wiki/Centiskorch_(Pok%C3%A9mon),100,115,65,65,90,90,525,,Radiator Pokémon,Fire,Bug,3.0,120.0,8.0
+852,Clobbopus,https://bulbapedia.bulbagarden.net/wiki/Clobbopus_(Pok%C3%A9mon),50,68,60,32,50,50,310,,Tantrum Pokémon,Fighting,,0.6,4.0,8.0
+853,Grapploct,https://bulbapedia.bulbagarden.net/wiki/Grapploct_(Pok%C3%A9mon),80,118,90,42,70,80,480,,Jujitsu Pokémon,Fighting,,1.6,39.0,8.0
+854,Sinistea,https://bulbapedia.bulbagarden.net/wiki/Sinistea_(Pok%C3%A9mon),40,45,45,50,74,54,308,,Black Tea Pokémon,Ghost,,0.1,0.2,8.0
+855,Polteageist,https://bulbapedia.bulbagarden.net/wiki/Polteageist_(Pok%C3%A9mon),60,65,65,70,134,114,508,,Black Tea Pokémon,Ghost,,0.2,0.4,8.0
+856,Hatenna,https://bulbapedia.bulbagarden.net/wiki/Hatenna_(Pok%C3%A9mon),42,30,45,39,56,53,265,,Calm Pokémon,Psychic,,0.4,3.4,8.0
+857,Hattrem,https://bulbapedia.bulbagarden.net/wiki/Hattrem_(Pok%C3%A9mon),57,40,65,49,86,73,370,,Serene Pokémon,Psychic,,0.6,4.8,8.0
+858,Hatterene,https://bulbapedia.bulbagarden.net/wiki/Hatterene_(Pok%C3%A9mon),57,90,95,29,136,103,510,,Silent Pokémon,Psychic,Fairy,2.1,5.1,8.0
+859,Impidimp,https://bulbapedia.bulbagarden.net/wiki/Impidimp_(Pok%C3%A9mon),45,45,30,50,55,40,265,,Wily Pokémon,Dark,Fairy,0.4,5.5,8.0
+860,Morgrem,https://bulbapedia.bulbagarden.net/wiki/Morgrem_(Pok%C3%A9mon),65,60,45,70,75,55,370,,Devious Pokémon,Dark,Fairy,0.8,12.5,8.0
+861,Grimmsnarl,https://bulbapedia.bulbagarden.net/wiki/Grimmsnarl_(Pok%C3%A9mon),95,120,65,60,95,75,510,,Bulk Up Pokémon,Dark,Fairy,1.5,61.0,8.0
+862,Obstagoon,https://bulbapedia.bulbagarden.net/wiki/Obstagoon_(Pok%C3%A9mon),93,90,101,95,60,81,520,,Blocking Pokémon,Dark,Normal,1.6,46.0,8.0
+863,Perrserker,https://bulbapedia.bulbagarden.net/wiki/Perrserker_(Pok%C3%A9mon),70,110,100,50,50,60,440,,Viking Pokémon,Steel,,0.8,28.0,8.0
+864,Cursola,https://bulbapedia.bulbagarden.net/wiki/Cursola_(Pok%C3%A9mon),60,95,50,30,145,130,510,,Coral Pokémon,Ghost,,1.0,0.4,8.0
+865,Sirfetch'd,https://bulbapedia.bulbagarden.net/wiki/Sirfetch%27d_(Pok%C3%A9mon),62,135,95,65,68,82,507,,Wild Duck Pokémon,Fighting,,0.8,117.0,8.0
+866,Mr. Rime,https://bulbapedia.bulbagarden.net/wiki/Mr._Rime_(Pok%C3%A9mon),80,85,75,70,110,100,520,,Comedian Pokémon,Ice,Psychic,1.5,58.2,8.0
+867,Runerigus,https://bulbapedia.bulbagarden.net/wiki/Runerigus_(Pok%C3%A9mon),58,95,145,30,50,105,483,,Grudge Pokémon,Ground,Ghost,1.6,66.6,8.0
+868,Milcery,https://bulbapedia.bulbagarden.net/wiki/Milcery_(Pok%C3%A9mon),45,40,40,34,50,61,270,,Cream Pokémon,Fairy,,0.2,0.3,8.0
+869,Alcremie,https://bulbapedia.bulbagarden.net/wiki/Alcremie_(Pok%C3%A9mon),65,60,75,64,110,121,495,,Cream Pokémon,Fairy,,0.3,0.5,8.0
+870,Falinks,https://bulbapedia.bulbagarden.net/wiki/Falinks_(Pok%C3%A9mon),65,100,100,75,70,60,470,,Formation Pokémon,Fighting,,3.0,62.0,8.0
+870,Falinks,https://bulbapedia.bulbagarden.net/wiki/Falinks_(Pok%C3%A9mon),65,135,135,100,70,65,570,Mega Falinks,Formation Pokémon,Fighting,,3.0,62.0,8.0
+871,Pincurchin,https://bulbapedia.bulbagarden.net/wiki/Pincurchin_(Pok%C3%A9mon),48,101,95,15,91,85,435,,Sea Urchin Pokémon,Electric,,0.3,1.0,8.0
+872,Snom,https://bulbapedia.bulbagarden.net/wiki/Snom_(Pok%C3%A9mon),30,25,35,20,45,30,185,,Worm Pokémon,Ice,Bug,0.3,3.8,8.0
+873,Frosmoth,https://bulbapedia.bulbagarden.net/wiki/Frosmoth_(Pok%C3%A9mon),70,65,60,65,125,90,475,,Frost Moth Pokémon,Ice,Bug,1.3,42.0,8.0
+874,Stonjourner,https://bulbapedia.bulbagarden.net/wiki/Stonjourner_(Pok%C3%A9mon),100,125,135,70,20,20,470,,Big Rock Pokémon,Rock,,2.5,520.0,8.0
+875,Eiscue Ice Face,https://bulbapedia.bulbagarden.net/wiki/Eiscue_(Pok%C3%A9mon),75,80,110,50,65,90,470,,,,,,,8.0
+875,Eiscue Noice Face,https://bulbapedia.bulbagarden.net/wiki/Eiscue_(Pok%C3%A9mon),75,80,70,130,65,50,470,,,,,,,8.0
+876,Indeedee,https://bulbapedia.bulbagarden.net/wiki/Indeedee_(Pok%C3%A9mon),60,65,55,95,105,95,475,Male,Emotion Pokémon,Psychic,Normal,0.9,28.0,8.0
+876,Indeedee,https://bulbapedia.bulbagarden.net/wiki/Indeedee_(Pok%C3%A9mon),70,55,65,85,95,105,475,Female,Emotion Pokémon,Psychic,Normal,0.9,28.0,8.0
+877,Morpeko,https://bulbapedia.bulbagarden.net/wiki/Morpeko_(Pok%C3%A9mon),58,95,58,97,70,58,436,,Two-Sided Pokémon,Electric,Dark,0.3,3.0,8.0
+878,Cufant,https://bulbapedia.bulbagarden.net/wiki/Cufant_(Pok%C3%A9mon),72,80,49,40,40,49,330,,Copperderm Pokémon,Steel,,1.2,100.0,8.0
+879,Copperajah,https://bulbapedia.bulbagarden.net/wiki/Copperajah_(Pok%C3%A9mon),122,130,69,30,80,69,500,,Copperderm Pokémon,Steel,,3.0,650.0,8.0
+880,Dracozolt,https://bulbapedia.bulbagarden.net/wiki/Dracozolt_(Pok%C3%A9mon),90,100,90,75,80,70,505,,Fossil Pokémon,Electric,Dragon,1.8,190.0,8.0
+881,Arctozolt,https://bulbapedia.bulbagarden.net/wiki/Arctozolt_(Pok%C3%A9mon),90,100,90,55,90,80,505,,Fossil Pokémon,Electric,Ice,2.3,150.0,8.0
+882,Dracovish,https://bulbapedia.bulbagarden.net/wiki/Dracovish_(Pok%C3%A9mon),90,90,100,75,70,80,505,,Fossil Pokémon,Water,Dragon,2.3,215.0,8.0
+883,Arctovish,https://bulbapedia.bulbagarden.net/wiki/Arctovish_(Pok%C3%A9mon),90,90,100,55,80,90,505,,Fossil Pokémon,Water,Ice,2.0,175.0,8.0
+884,Duraludon,https://bulbapedia.bulbagarden.net/wiki/Duraludon_(Pok%C3%A9mon),70,95,115,85,120,50,535,,Alloy Pokémon,Steel,Dragon,1.8,40.0,8.0
+885,Dreepy,https://bulbapedia.bulbagarden.net/wiki/Dreepy_(Pok%C3%A9mon),28,60,30,82,40,30,270,,Lingering Pokémon,Dragon,Ghost,0.5,2.0,8.0
+886,Drakloak,https://bulbapedia.bulbagarden.net/wiki/Drakloak_(Pok%C3%A9mon),68,80,50,102,60,50,410,,Caretaker Pokémon,Dragon,Ghost,1.4,11.0,8.0
+887,Dragapult,https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pok%C3%A9mon),88,120,75,142,100,75,600,,Stealth Pokémon,Dragon,Ghost,3.0,50.0,8.0
+888,Zacian,https://bulbapedia.bulbagarden.net/wiki/Zacian_(Pok%C3%A9mon),92,120,115,138,80,115,660,Hero of Many Battles,Warrior Pokémon,Fairy,,2.8,110.0,8.0
+888,Zacian,https://bulbapedia.bulbagarden.net/wiki/Zacian_(Pok%C3%A9mon),92,150,115,148,80,115,700,Crowned Sword,Warrior Pokémon,Fairy,,2.8,110.0,8.0
+889,Zamazenta,https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(Pok%C3%A9mon),92,120,115,138,80,115,660,Hero of Many Battles,Warrior Pokémon,Fighting,,2.9,210.0,8.0
+889,Zamazenta,https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(Pok%C3%A9mon),92,120,140,128,80,140,700,Crowned Shield,Warrior Pokémon,Fighting,,2.9,210.0,8.0
+890,Eternatus,https://bulbapedia.bulbagarden.net/wiki/Eternatus_(Pok%C3%A9mon),140,85,95,130,145,95,690,,Gigantic Pokémon,Poison,Dragon,20.0,950.0,8.0
+890,Eternatus,https://bulbapedia.bulbagarden.net/wiki/Eternatus_(Pok%C3%A9mon),255,115,250,130,125,250,1125,Eternamax Eternatus,Gigantic Pokémon,Poison,Dragon,20.0,950.0,8.0
+891,Kubfu,https://bulbapedia.bulbagarden.net/wiki/Kubfu_(Pok%C3%A9mon),60,90,60,72,53,50,385,,Wushu Pokémon,Fighting,,0.6,12.0,8.0
+892,Urshifu,https://bulbapedia.bulbagarden.net/wiki/Urshifu_(Pok%C3%A9mon),100,130,100,97,63,60,550,,Wushu Pokémon,Fighting,Dark,1.9,105.0,8.0
+893,Zarude,https://bulbapedia.bulbagarden.net/wiki/Zarude_(Pok%C3%A9mon),105,120,105,105,70,95,600,,Rogue Monkey Pokémon,Dark,Grass,1.8,70.0,8.0
+894,Regieleki,https://bulbapedia.bulbagarden.net/wiki/Regieleki_(Pok%C3%A9mon),80,100,50,200,100,50,580,,Electron Pokémon,Electric,,1.2,145.0,8.0
+895,Regidrago,https://bulbapedia.bulbagarden.net/wiki/Regidrago_(Pok%C3%A9mon),200,100,50,80,100,50,580,,Dragon Orb Pokémon,Dragon,,2.1,200.0,8.0
+896,Glastrier,https://bulbapedia.bulbagarden.net/wiki/Glastrier_(Pok%C3%A9mon),100,145,130,30,65,110,580,,Wild Horse Pokémon,Ice,,2.2,800.0,8.0
+897,Spectrier,https://bulbapedia.bulbagarden.net/wiki/Spectrier_(Pok%C3%A9mon),100,65,60,130,145,80,580,,Swift Horse Pokémon,Ghost,,2.0,44.5,8.0
+898,Calyrex,https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pok%C3%A9mon),100,80,80,80,80,80,500,,King Pokémon,Psychic,Grass,1.1,7.7,8.0
+898,Calyrex,https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pok%C3%A9mon),100,165,150,50,85,130,680,Ice Rider Calyrex,King Pokémon,Psychic,Grass,1.1,7.7,8.0
+898,Calyrex,https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pok%C3%A9mon),100,85,80,150,165,100,680,Shadow Rider Calyrex,King Pokémon,Psychic,Grass,1.1,7.7,8.0
+899,Wyrdeer,https://bulbapedia.bulbagarden.net/wiki/Wyrdeer_(Pok%C3%A9mon),103,105,72,65,105,75,525,,Big Horn Pokémon,Normal,Psychic,1.8,95.1,8.0
+900,Kleavor,https://bulbapedia.bulbagarden.net/wiki/Kleavor_(Pok%C3%A9mon),70,130,95,85,45,75,500,,Axe Pokémon,Bug,Rock,1.8,89.0,8.0
+901,Ursaluna,https://bulbapedia.bulbagarden.net/wiki/Ursaluna_(Pok%C3%A9mon),130,140,105,50,45,80,550,,Peat Pokémon,Ground,Normal,2.4,290.0,8.0
+901,Ursaluna,https://bulbapedia.bulbagarden.net/wiki/Ursaluna_(Pok%C3%A9mon),113,70,120,52,135,65,555,Bloodmoon Ursaluna,Peat Pokémon,Ground,Normal,2.4,290.0,8.0
+902,Basculegion,https://bulbapedia.bulbagarden.net/wiki/Basculegion_(Pok%C3%A9mon),120,112,65,78,80,75,530,Male,Big Fish Pokémon,Water,Ghost,3.0,110.0,8.0
+902,Basculegion,https://bulbapedia.bulbagarden.net/wiki/Basculegion_(Pok%C3%A9mon),120,92,65,78,100,75,530,Female,Big Fish Pokémon,Water,Ghost,3.0,110.0,8.0
+903,Sneasler,https://bulbapedia.bulbagarden.net/wiki/Sneasler_(Pok%C3%A9mon),80,130,60,120,40,80,510,,Free Climb Pokémon,Fighting,Poison,1.3,43.0,8.0
+904,Overqwil,https://bulbapedia.bulbagarden.net/wiki/Overqwil_(Pok%C3%A9mon),85,115,95,85,65,65,510,,Pin Cluster Pokémon,Dark,Poison,2.5,60.5,8.0
+905,Enamorus,https://bulbapedia.bulbagarden.net/wiki/Enamorus_(Pok%C3%A9mon),74,115,70,106,135,80,580,Incarnate Forme,Love-Hate Pokémon,Fairy,Flying,1.6,48.0,8.0
+905,Enamorus,https://bulbapedia.bulbagarden.net/wiki/Enamorus_(Pok%C3%A9mon),74,115,110,46,135,100,580,Therian Forme,Love-Hate Pokémon,Fairy,Flying,1.6,48.0,8.0
+906,Sprigatito,https://bulbapedia.bulbagarden.net/wiki/Sprigatito_(Pok%C3%A9mon),40,61,54,65,45,45,310,,Grass Cat Pokémon,Grass,,0.4,4.1,9.0
+907,Floragato,https://bulbapedia.bulbagarden.net/wiki/Floragato_(Pok%C3%A9mon),61,80,63,83,60,63,410,,Grass Cat Pokémon,Grass,,0.9,12.2,9.0
+908,Meowscarada,https://bulbapedia.bulbagarden.net/wiki/Meowscarada_(Pok%C3%A9mon),76,110,70,123,81,70,530,,Magician Pokémon,Grass,Dark,1.5,31.2,9.0
+909,Fuecoco,https://bulbapedia.bulbagarden.net/wiki/Fuecoco_(Pok%C3%A9mon),67,45,59,36,63,40,310,,Fire Croc Pokémon,Fire,,0.4,9.8,9.0
+910,Crocalor,https://bulbapedia.bulbagarden.net/wiki/Crocalor_(Pok%C3%A9mon),81,55,78,49,90,58,411,,Fire Croc Pokémon,Fire,,1.0,30.7,9.0
+911,Skeledirge,https://bulbapedia.bulbagarden.net/wiki/Skeledirge_(Pok%C3%A9mon),104,75,100,66,110,75,530,,Singer Pokémon,Fire,Ghost,1.6,326.5,9.0
+912,Quaxly,https://bulbapedia.bulbagarden.net/wiki/Quaxly_(Pok%C3%A9mon),55,65,45,50,50,45,310,,Duckling Pokémon,Water,,0.5,6.1,9.0
+913,Quaxwell,https://bulbapedia.bulbagarden.net/wiki/Quaxwell_(Pok%C3%A9mon),70,85,65,65,65,60,410,,Practicing Pokémon,Water,,1.2,21.5,9.0
+914,Quaquaval,https://bulbapedia.bulbagarden.net/wiki/Quaquaval_(Pok%C3%A9mon),85,120,80,85,85,75,530,,Dancer Pokémon,Water,Fighting,1.8,61.9,9.0
+915,Lechonk,https://bulbapedia.bulbagarden.net/wiki/Lechonk_(Pok%C3%A9mon),54,45,40,35,35,45,254,,Hog Pokémon,Normal,,0.5,10.2,9.0
+916,Oinkologne,https://bulbapedia.bulbagarden.net/wiki/Oinkologne_(Pok%C3%A9mon),110,100,75,65,59,80,489,Male,Hog Pokémon,Normal,,1.0,120.0,9.0
+916,Oinkologne,https://bulbapedia.bulbagarden.net/wiki/Oinkologne_(Pok%C3%A9mon),115,90,70,65,59,90,489,Female,Hog Pokémon,Normal,,1.0,120.0,9.0
+917,Tarountula,https://bulbapedia.bulbagarden.net/wiki/Tarountula_(Pok%C3%A9mon),35,41,45,20,29,40,210,,String Ball Pokémon,Bug,,0.3,4.0,9.0
+918,Spidops,https://bulbapedia.bulbagarden.net/wiki/Spidops_(Pok%C3%A9mon),60,79,92,35,52,86,404,,Trap Pokémon,Bug,,1.0,16.5,9.0
+919,Nymble,https://bulbapedia.bulbagarden.net/wiki/Nymble_(Pok%C3%A9mon),33,46,40,45,21,25,210,,Grasshopper Pokémon,Bug,,0.2,1.0,9.0
+920,Lokix,https://bulbapedia.bulbagarden.net/wiki/Lokix_(Pok%C3%A9mon),71,102,78,92,52,55,450,,Grasshopper Pokémon,Bug,Dark,1.0,17.5,9.0
+921,Pawmi,https://bulbapedia.bulbagarden.net/wiki/Pawmi_(Pok%C3%A9mon),45,50,20,60,40,25,240,,Mouse Pokémon,Electric,,0.3,2.5,9.0
+922,Pawmo,https://bulbapedia.bulbagarden.net/wiki/Pawmo_(Pok%C3%A9mon),60,75,40,85,50,40,350,,Mouse Pokémon,Electric,Fighting,0.4,6.5,9.0
+923,Pawmot,https://bulbapedia.bulbagarden.net/wiki/Pawmot_(Pok%C3%A9mon),70,115,70,105,70,60,490,,Hands-On Pokémon,Electric,Fighting,0.9,41.0,9.0
+924,Tandemaus,https://bulbapedia.bulbagarden.net/wiki/Tandemaus_(Pok%C3%A9mon),50,50,45,75,40,45,305,,Couple Pokémon,Normal,,0.3,1.8,9.0
+925,Maushold,https://bulbapedia.bulbagarden.net/wiki/Maushold_(Pok%C3%A9mon),74,75,70,111,65,75,470,,Family Pokémon,Normal,,0.3,2.8,9.0
+926,Fidough,https://bulbapedia.bulbagarden.net/wiki/Fidough_(Pok%C3%A9mon),37,55,70,65,30,55,312,,Puppy Pokémon,Fairy,,0.3,10.9,9.0
+927,Dachsbun,https://bulbapedia.bulbagarden.net/wiki/Dachsbun_(Pok%C3%A9mon),57,80,115,95,50,80,477,,Dog Pokémon,Fairy,,0.5,14.9,9.0
+928,Smoliv,https://bulbapedia.bulbagarden.net/wiki/Smoliv_(Pok%C3%A9mon),41,35,45,30,58,51,260,,Olive Pokémon,Grass,Normal,0.3,6.5,9.0
+929,Dolliv,https://bulbapedia.bulbagarden.net/wiki/Dolliv_(Pok%C3%A9mon),52,53,60,33,78,78,354,,Olive Pokémon,Grass,Normal,0.6,11.9,9.0
+930,Arboliva,https://bulbapedia.bulbagarden.net/wiki/Arboliva_(Pok%C3%A9mon),78,69,90,39,125,109,510,,Olive Pokémon,Grass,Normal,1.4,48.2,9.0
+931,Squawkabilly,https://bulbapedia.bulbagarden.net/wiki/Squawkabilly_(Pok%C3%A9mon),82,96,51,92,45,51,417,,Parrot Pokémon,Normal,Flying,0.6,2.4,9.0
+932,Nacli,https://bulbapedia.bulbagarden.net/wiki/Nacli_(Pok%C3%A9mon),55,55,75,25,35,35,280,,Rock Salt Pokémon,Rock,,0.4,16.0,9.0
+933,Naclstack,https://bulbapedia.bulbagarden.net/wiki/Naclstack_(Pok%C3%A9mon),60,60,100,35,35,65,355,,Rock Salt Pokémon,Rock,,0.6,105,9.0
+934,Garganacl,https://bulbapedia.bulbagarden.net/wiki/Garganacl_(Pok%C3%A9mon),100,100,130,35,45,90,500,,Rock Salt Pokémon,Rock,,2.3,240.0,9.0
+935,Charcadet,https://bulbapedia.bulbagarden.net/wiki/Charcadet_(Pok%C3%A9mon),40,50,40,35,50,40,255,,Fire Child Pokémon,Fire,,0.6,10.5,9.0
+936,Armarouge,https://bulbapedia.bulbagarden.net/wiki/Armarouge_(Pok%C3%A9mon),85,60,100,75,125,80,525,,Fire Warrior Pokémon,Fire,Psychic,1.5,85.0,9.0
+937,Ceruledge,https://bulbapedia.bulbagarden.net/wiki/Ceruledge_(Pok%C3%A9mon),75,125,80,85,60,100,525,,Fire Blades Pokémon,Fire,Ghost,1.6,62.0,9.0
+938,Tadbulb,https://bulbapedia.bulbagarden.net/wiki/Tadbulb_(Pok%C3%A9mon),61,31,41,45,59,35,272,,EleTadpole Pokémon,Electric,,0.3,0.4,9.0
+939,Bellibolt,https://bulbapedia.bulbagarden.net/wiki/Bellibolt_(Pok%C3%A9mon),109,64,91,45,103,83,495,,EleFrog Pokémon,Electric,,1.2,113.0,9.0
+940,Wattrel,https://bulbapedia.bulbagarden.net/wiki/Wattrel_(Pok%C3%A9mon),40,40,35,70,55,40,280,,Storm Petrel Pokémon,Electric,Flying,0.4,3.6,9.0
+941,Kilowattrel,https://bulbapedia.bulbagarden.net/wiki/Kilowattrel_(Pok%C3%A9mon),70,70,60,125,105,60,490,,Frigatebird Pokémon,Electric,Flying,1.4,38.6,9.0
+942,Maschiff,https://bulbapedia.bulbagarden.net/wiki/Maschiff_(Pok%C3%A9mon),60,78,60,51,40,51,340,,Rascal Pokémon,Dark,,0.5,16,9.0
+943,Mabosstiff,https://bulbapedia.bulbagarden.net/wiki/Mabosstiff_(Pok%C3%A9mon),80,120,90,85,60,70,505,,Boss Pokémon,Dark,,1.1,61,9.0
+944,Shroodle,https://bulbapedia.bulbagarden.net/wiki/Shroodle_(Pok%C3%A9mon),40,65,35,75,40,35,290,,Toxic Mouse Pokémon,Poison,Normal,0.2,0.7,9.0
+945,Grafaiai,https://bulbapedia.bulbagarden.net/wiki/Grafaiai_(Pok%C3%A9mon),63,95,65,110,80,72,485,,Toxic Monkey Pokémon,Poison,Normal,0.7,27.2,9.0
+946,Bramblin,https://bulbapedia.bulbagarden.net/wiki/Bramblin_(Pok%C3%A9mon),40,65,30,60,45,35,275,,Tumbleweed Pokémon,Grass,Ghost,0.6,0.6,9.0
+947,Brambleghast,https://bulbapedia.bulbagarden.net/wiki/Brambleghast_(Pok%C3%A9mon),55,115,70,90,80,70,480,,Tumbleweed Pokémon,Grass,Ghost,1.2,6.0,9.0
+948,Toedscool,https://bulbapedia.bulbagarden.net/wiki/Toedscool_(Pok%C3%A9mon),40,40,35,70,50,100,335,,Woodear Pokémon,Ground,Grass,0.9,33.0,9.0
+949,Toedscruel,https://bulbapedia.bulbagarden.net/wiki/Toedscruel_(Pok%C3%A9mon),80,70,65,100,80,120,515,,Woodear Pokémon,Ground,Grass,1.9,58.0,9.0
+950,Klawf,https://bulbapedia.bulbagarden.net/wiki/Klawf_(Pok%C3%A9mon),70,100,115,75,35,55,450,,Ambush Pokémon,Rock,,1.3,79.0,9.0
+951,Capsakid,https://bulbapedia.bulbagarden.net/wiki/Capsakid_(Pok%C3%A9mon),50,62,40,50,62,40,304,,Spicy Pepper Pokémon,Grass,,0.3,3.0,9.0
+952,Scovillain,https://bulbapedia.bulbagarden.net/wiki/Scovillain_(Pok%C3%A9mon),65,108,65,75,108,65,486,,Spicy Pepper Pokémon,Grass,Fire,0.9,15.0,9.0
+953,Rellor,https://bulbapedia.bulbagarden.net/wiki/Rellor_(Pok%C3%A9mon),41,50,60,30,31,58,270,,Rolling Pokémon,Bug,,0.2,1.0,9.0
+954,Rabsca,https://bulbapedia.bulbagarden.net/wiki/Rabsca_(Pok%C3%A9mon),75,50,85,45,115,100,470,,Rolling Pokémon,Bug,Psychic,0.3,3.5,9.0
+955,Flittle,https://bulbapedia.bulbagarden.net/wiki/Flittle_(Pok%C3%A9mon),30,35,30,75,55,30,255,,Frill Pokémon,Psychic,,0.2,1.5,9.0
+956,Espathra,https://bulbapedia.bulbagarden.net/wiki/Espathra_(Pok%C3%A9mon),95,60,60,105,101,60,481,,Ostrich Pokémon,Psychic,,1.9,90.0,9.0
+957,Tinkatink,https://bulbapedia.bulbagarden.net/wiki/Tinkatink_(Pok%C3%A9mon),50,45,45,58,35,64,297,,Metalsmith Pokémon,Fairy,Steel,0.4,8.9,9.0
+958,Tinkatuff,https://bulbapedia.bulbagarden.net/wiki/Tinkatuff_(Pok%C3%A9mon),65,55,55,78,45,82,380,,Hammer Pokémon,Fairy,Steel,0.7,59.1,9.0
+959,Tinkaton,https://bulbapedia.bulbagarden.net/wiki/Tinkaton_(Pok%C3%A9mon),85,75,77,94,70,105,506,,Hammer Pokémon,Fairy,Steel,0.7,112.8,9.0
+960,Wiglett,https://bulbapedia.bulbagarden.net/wiki/Wiglett_(Pok%C3%A9mon),10,55,25,95,35,25,245,,Garden Eel Pokémon,Water,,1.2,1.8,9.0
+961,Wugtrio,https://bulbapedia.bulbagarden.net/wiki/Wugtrio_(Pok%C3%A9mon),35,100,50,120,50,70,425,,Garden Eel Pokémon,Water,,1.2,5.4,9.0
+962,Bombirdier,https://bulbapedia.bulbagarden.net/wiki/Bombirdier_(Pok%C3%A9mon),70,103,85,82,60,85,485,,Item Drop Pokémon,Flying,Dark,1.5,42.9,9.0
+963,Finizen,https://bulbapedia.bulbagarden.net/wiki/Finizen_(Pok%C3%A9mon),70,45,40,75,45,40,315,,Dolphin Pokémon,Water,,1.3,60.2,9.0
+964,Palafin Zero,https://bulbapedia.bulbagarden.net/wiki/Palafin_(Pok%C3%A9mon),100,70,72,100,53,62,457,,,,,,,9.0
+964,Palafin Hero,https://bulbapedia.bulbagarden.net/wiki/Palafin_(Pok%C3%A9mon),100,160,97,100,106,87,650,,,,,,,9.0
+965,Varoom,https://bulbapedia.bulbagarden.net/wiki/Varoom_(Pok%C3%A9mon),45,70,63,47,30,45,300,,Single-Cyl Pokémon,Steel,Poison,1.0,35.0,9.0
+966,Revavroom,https://bulbapedia.bulbagarden.net/wiki/Revavroom_(Pok%C3%A9mon),80,119,90,90,54,67,500,,Multi-Cyl Pokémon,Steel,Poison,1.8,120.0,9.0
+967,Cyclizar,https://bulbapedia.bulbagarden.net/wiki/Cyclizar_(Pok%C3%A9mon),70,95,65,121,85,65,501,,Mount Pokémon,Dragon,Normal,1.6,63.0,9.0
+968,Orthworm,https://bulbapedia.bulbagarden.net/wiki/Orthworm_(Pok%C3%A9mon),70,85,145,65,60,55,480,,Earthworm Pokémon,Steel,,2.5,310.0,9.0
+969,Glimmet,https://bulbapedia.bulbagarden.net/wiki/Glimmet_(Pok%C3%A9mon),48,35,42,60,105,60,350,,Ore Pokémon,Rock,Poison,0.7,8.0,9.0
+970,Glimmora,https://bulbapedia.bulbagarden.net/wiki/Glimmora_(Pok%C3%A9mon),83,55,90,86,130,81,525,,Ore Pokémon,Rock,Poison,1.5,45.0,9.0
+971,Greavard,https://bulbapedia.bulbagarden.net/wiki/Greavard_(Pok%C3%A9mon),50,61,60,34,30,55,290,,Ghost Dog Pokémon,Ghost,,0.6,35.0,9.0
+972,Houndstone,https://bulbapedia.bulbagarden.net/wiki/Houndstone_(Pok%C3%A9mon),72,101,100,68,50,97,488,,Ghost Dog Pokémon,Ghost,,2.0,15.0,9.0
+973,Flamigo,https://bulbapedia.bulbagarden.net/wiki/Flamigo_(Pok%C3%A9mon),82,115,74,90,75,64,500,,Synchronize Pokémon,Flying,Fighting,1.6,37.0,9.0
+974,Cetoddle,https://bulbapedia.bulbagarden.net/wiki/Cetoddle_(Pok%C3%A9mon),108,68,45,43,30,40,334,,Terra Whale Pokémon,Ice,,1.2,45.0,9.0
+975,Cetitan,https://bulbapedia.bulbagarden.net/wiki/Cetitan_(Pok%C3%A9mon),170,113,65,73,45,55,521,,Terra Whale Pokémon,Ice,,4.5,700.0,9.0
+976,Veluza,https://bulbapedia.bulbagarden.net/wiki/Veluza_(Pok%C3%A9mon),90,102,73,70,78,65,478,,Jettison Pokémon,Water,Psychic,2.5,90,9.0
+977,Dondozo,https://bulbapedia.bulbagarden.net/wiki/Dondozo_(Pok%C3%A9mon),150,100,115,35,65,65,530,,Big Catfish Pokémon,Water,,12.0,220.0,9.0
+978,Tatsugiri,https://bulbapedia.bulbagarden.net/wiki/Tatsugiri_(Pok%C3%A9mon),68,50,60,82,120,95,475,,Mimicry Pokémon,Dragon,Water,0.3,8.0,9.0
+979,Annihilape,https://bulbapedia.bulbagarden.net/wiki/Annihilape_(Pok%C3%A9mon),110,115,80,90,50,90,535,,Rage Monkey Pokémon,Fighting,Ghost,1.2,56.0,9.0
+980,Clodsire,https://bulbapedia.bulbagarden.net/wiki/Clodsire_(Pok%C3%A9mon),130,75,60,20,45,100,430,,Spiny Fish Pokémon,Poison,Ground,1.8,223.0,9.0
+981,Farigiraf,https://bulbapedia.bulbagarden.net/wiki/Farigiraf_(Pok%C3%A9mon),120,90,70,60,110,70,520,,Long Neck Pokémon,Normal,Psychic,3.2,160.0,9.0
+982,Dudunsparce,https://bulbapedia.bulbagarden.net/wiki/Dudunsparce_(Pok%C3%A9mon),125,100,80,55,85,75,520,,Land Snake Pokémon,Normal,,3.6,39.2,9.0
+983,Kingambit,https://bulbapedia.bulbagarden.net/wiki/Kingambit_(Pok%C3%A9mon),100,135,120,50,60,85,550,,Big Blade Pokémon,Dark,Steel,2.0,120.0,9.0
+984,Great Tusk,https://bulbapedia.bulbagarden.net/wiki/Great_Tusk_(Pok%C3%A9mon),115,131,131,87,53,53,570,,Paradox Pokémon,Ground,Fighting,2.2,320.0,9.0
+985,Scream Tail,https://bulbapedia.bulbagarden.net/wiki/Scream_Tail_(Pok%C3%A9mon),115,65,99,111,65,115,570,,Paradox Pokémon,Fairy,Psychic,1.2,8.0,9.0
+986,Brute Bonnet,https://bulbapedia.bulbagarden.net/wiki/Brute_Bonnet_(Pok%C3%A9mon),111,127,99,55,79,99,570,,Paradox Pokémon,Grass,Dark,1.2,21.0,9.0
+987,Flutter Mane,https://bulbapedia.bulbagarden.net/wiki/Flutter_Mane_(Pok%C3%A9mon),55,55,55,135,135,135,570,,Paradox Pokémon,Ghost,Fairy,1.4,4.0,9.0
+988,Slither Wing,https://bulbapedia.bulbagarden.net/wiki/Slither_Wing_(Pok%C3%A9mon),85,135,79,81,85,105,570,,Paradox Pokémon,Bug,Fighting,3.2,92.0,9.0
+989,Sandy Shocks,https://bulbapedia.bulbagarden.net/wiki/Sandy_Shocks_(Pok%C3%A9mon),85,81,97,101,121,85,570,,Paradox Pokémon,Electric,Ground,2.3,60.0,9.0
+990,Iron Treads,https://bulbapedia.bulbagarden.net/wiki/Iron_Treads_(Pok%C3%A9mon),90,112,120,106,72,70,570,,Paradox Pokémon,Ground,Steel,0.9,240.0,9.0
+991,Iron Bundle,https://bulbapedia.bulbagarden.net/wiki/Iron_Bundle_(Pok%C3%A9mon),56,80,114,136,124,60,570,,Paradox Pokémon,Ice,Water,0.6,11.0,9.0
+992,Iron Hands,https://bulbapedia.bulbagarden.net/wiki/Iron_Hands_(Pok%C3%A9mon),154,140,108,50,50,68,570,,Paradox Pokémon,Fighting,Electric,1.8,380.7,9.0
+993,Iron Jugulis,https://bulbapedia.bulbagarden.net/wiki/Iron_Jugulis_(Pok%C3%A9mon),94,80,86,108,122,80,570,,Paradox Pokémon,Dark,Flying,1.3,111.0,9.0
+994,Iron Moth,https://bulbapedia.bulbagarden.net/wiki/Iron_Moth_(Pok%C3%A9mon),80,70,60,110,140,110,570,,Paradox Pokémon,Fire,Poison,1.2,36.0,9.0
+995,Iron Thorns,https://bulbapedia.bulbagarden.net/wiki/Iron_Thorns_(Pok%C3%A9mon),100,134,110,72,70,84,570,,Paradox Pokémon,Rock,Electric,1.6,303.0,9.0
+996,Frigibax,https://bulbapedia.bulbagarden.net/wiki/Frigibax_(Pok%C3%A9mon),65,75,45,55,35,45,320,,Ice Fin Pokémon,Dragon,Ice,0.5,17.0,9.0
+997,Arctibax,https://bulbapedia.bulbagarden.net/wiki/Arctibax_(Pok%C3%A9mon),90,95,66,62,45,65,423,,Ice Fin Pokémon,Dragon,Ice,0.8,30.0,9.0
+998,Baxcalibur,https://bulbapedia.bulbagarden.net/wiki/Baxcalibur_(Pok%C3%A9mon),115,145,92,87,75,86,600,,Ice Dragon Pokémon,Dragon,Ice,2.1,210.0,9.0
+999,Gimmighoul Chest Form,https://bulbapedia.bulbagarden.net/wiki/Gimmighoul_(Pok%C3%A9mon),45,30,70,10,75,70,300,,,,,,,9.0
+999,Gimmighoul Roaming Form,https://bulbapedia.bulbagarden.net/wiki/Gimmighoul_(Pok%C3%A9mon),45,30,25,80,75,45,300,,,,,,,9.0
+1000,Gholdengo,https://bulbapedia.bulbagarden.net/wiki/Gholdengo_(Pok%C3%A9mon),87,60,95,84,133,91,550,,Coin Entity Pokémon,Steel,Ghost,1.2,30.0,9.0
+1001,Wo-Chien,https://bulbapedia.bulbagarden.net/wiki/Wo-Chien_(Pok%C3%A9mon),85,85,100,70,95,135,570,,Ruinous Pokémon,Dark,Grass,1.5,74.2,9.0
+1002,Chien-Pao,https://bulbapedia.bulbagarden.net/wiki/Chien-Pao_(Pok%C3%A9mon),80,120,80,135,90,65,570,,Ruinous Pokémon,Dark,Ice,1.9,152.2,9.0
+1003,Ting-Lu,https://bulbapedia.bulbagarden.net/wiki/Ting-Lu_(Pok%C3%A9mon),155,110,125,45,55,80,570,,Ruinous Pokémon,Dark,Ground,2.7,699.7,9.0
+1004,Chi-Yu,https://bulbapedia.bulbagarden.net/wiki/Chi-Yu_(Pok%C3%A9mon),55,80,80,100,135,120,570,,Ruinous Pokémon,Dark,Fire,0.4,4.9,9.0
+1005,Roaring Moon,https://bulbapedia.bulbagarden.net/wiki/Roaring_Moon_(Pok%C3%A9mon),105,139,71,119,55,101,590,,Paradox Pokémon,Dragon,Dark,2.0,380.0,9.0
+1006,Iron Valiant,https://bulbapedia.bulbagarden.net/wiki/Iron_Valiant_(Pok%C3%A9mon),74,130,90,116,120,60,590,,Paradox Pokémon,Fairy,Fighting,1.4,35.0,9.0
+1007,Koraidon,https://bulbapedia.bulbagarden.net/wiki/Koraidon_(Pok%C3%A9mon),100,135,115,135,85,100,670,,Paradox Pokémon,Fighting,Dragon,2.5,303.0,9.0
+1008,Miraidon,https://bulbapedia.bulbagarden.net/wiki/Miraidon_(Pok%C3%A9mon),100,85,100,135,135,115,670,,Paradox Pokémon,Electric,Dragon,3.5,240.0,9.0
+1009,Walking Wake,https://bulbapedia.bulbagarden.net/wiki/Walking_Wake_(Pok%C3%A9mon),99,83,91,109,125,83,590,,Paradox Pokémon,Water,Dragon,3.5,280.0,9.0
+1010,Iron Leaves,https://bulbapedia.bulbagarden.net/wiki/Iron_Leaves_(Pok%C3%A9mon),90,130,88,104,70,108,590,,Paradox Pokémon,Grass,Psychic,1.5,125.0,9.0
+1011,Dipplin,https://bulbapedia.bulbagarden.net/wiki/Dipplin_(Pok%C3%A9mon),80,80,110,40,95,80,485,,Candy Apple Pokémon,Grass,Dragon,0.4,4.4,9.0
+1012,Poltchageist,https://bulbapedia.bulbagarden.net/wiki/Poltchageist_(Pok%C3%A9mon),40,45,45,50,74,54,308,,Matcha Pokémon,Grass,Ghost,0.1,1.1,9.0
+1013,Sinistcha,https://bulbapedia.bulbagarden.net/wiki/Sinistcha_(Pok%C3%A9mon),71,60,106,70,121,80,508,,Matcha Pokémon,Grass,Ghost,0.2,2.2,9.0
+1014,Okidogi,https://bulbapedia.bulbagarden.net/wiki/Okidogi_(Pok%C3%A9mon),88,128,115,80,58,86,555,,Retainer Pokémon,Poison,Fighting,1.8,92.2,9.0
+1015,Munkidori,https://bulbapedia.bulbagarden.net/wiki/Munkidori_(Pok%C3%A9mon),88,75,66,106,130,90,555,,Retainer Pokémon,Poison,Psychic,1.0,12.2,9.0
+1016,Fezandipiti,https://bulbapedia.bulbagarden.net/wiki/Fezandipiti_(Pok%C3%A9mon),88,91,82,99,70,125,555,,Retainer Pokémon,Poison,Fairy,1.4,30.1,9.0
+1017,Ogerpon,https://bulbapedia.bulbagarden.net/wiki/Ogerpon_(Pok%C3%A9mon),80,120,84,110,60,96,550,,Mask Pokémon,Grass,,1.2,39.8,9.0
+1018,Archaludon,https://bulbapedia.bulbagarden.net/wiki/Archaludon_(Pok%C3%A9mon),90,105,130,85,125,65,600,,Alloy Pokémon,Steel,Dragon,2.0,60.0,9.0
+1019,Hydrapple,https://bulbapedia.bulbagarden.net/wiki/Hydrapple_(Pok%C3%A9mon),106,80,110,44,120,80,540,,Apple Hydra Pokémon,Grass,Dragon,1.8,93.0,9.0
+1020,Gouging Fire,https://bulbapedia.bulbagarden.net/wiki/Gouging_Fire_(Pok%C3%A9mon),105,115,121,91,65,93,590,,Paradox Pokémon,Fire,Dragon,3.5,590.0,9.0
+1021,Raging Bolt,https://bulbapedia.bulbagarden.net/wiki/Raging_Bolt_(Pok%C3%A9mon),125,73,91,75,137,89,590,,Paradox Pokémon,Electric,Dragon,5.2,480.0,9.0
+1022,Iron Boulder,https://bulbapedia.bulbagarden.net/wiki/Iron_Boulder_(Pok%C3%A9mon),90,120,80,124,68,108,590,,Paradox Pokémon,Rock,Psychic,1.5,162.5,9.0
+1023,Iron Crown,https://bulbapedia.bulbagarden.net/wiki/Iron_Crown_(Pok%C3%A9mon),90,72,100,98,122,108,590,,Paradox Pokémon,Steel,Psychic,1.6,156.0,9.0
+1024,Terapagos Normal Form,https://bulbapedia.bulbagarden.net/wiki/Terapagos_(Pok%C3%A9mon),90,65,85,60,65,85,450,,,,,,,9.0
+1024,Terapagos Terastal Form,https://bulbapedia.bulbagarden.net/wiki/Terapagos_(Pok%C3%A9mon),95,95,110,85,105,110,600,,,,,,,9.0
+1024,Terapagos Stellar Form,https://bulbapedia.bulbagarden.net/wiki/Terapagos_(Pok%C3%A9mon),160,105,110,85,130,110,700,,,,,,,9.0
+1025,Pecharunt,https://bulbapedia.bulbagarden.net/wiki/Pecharunt_(Pok%C3%A9mon),88,88,160,88,88,88,600,,Subjugation Pokémon,Poison,Ghost,0.3 m,0.3 kg,9.0

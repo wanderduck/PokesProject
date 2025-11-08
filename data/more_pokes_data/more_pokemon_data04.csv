@@ -1,0 +1,55 @@
+Pokemon,Category,Type 1,Type 2,Height (m),Weight (kg)
+Dratini,Dragon Pokémon,Dragon,,1.8 m,3.3 kg
+Dragonair,Dragon Pokémon,Dragon,,4.0 m,16.5 kg
+Dragonite,Dragon Pokémon,Dragon,Flying,2.2 m,210.0 kg
+Dragonite,Dragon Pokémon,Dragon,Flying,2.2 m,210.0 kg
+Mewtwo,Genetic Pokémon,Psychic,,2.0 m,122.0 kg
+Mewtwo,Genetic Pokémon,Psychic,,2.0 m,122.0 kg
+Mewtwo,Genetic Pokémon,Psychic,,2.0 m,122.0 kg
+Mew,New Species Pokémon,Psychic,,0.4 m,4.0 kg
+Chikorita,Leaf Pokémon,Grass,,0.9 m,6.4 kg
+Bayleef,Leaf Pokémon,Grass,,1.2 m,15.8 kg
+Meganium,Herb Pokémon,Grass,,1.8 m,100.5 kg
+Meganium,Herb Pokémon,Grass,,1.8 m,100.5 kg
+Cyndaquil,Fire Mouse Pokémon,Fire,,0.5 m,7.9 kg
+Quilava,Volcano Pokémon,Fire,,0.9 m,19.0 kg
+Typhlosion,"Volcano Pokémon
+Ghost Flame Pokémon",Fire,,1.7 m,79.5 kg
+Typhlosion,"Volcano Pokémon
+Ghost Flame Pokémon",Fire,,1.7 m,79.5 kg
+Totodile,Big Jaw Pokémon,Water,,0.6 m,9.5 kg
+Croconaw,Big Jaw Pokémon,Water,,1.1 m,25.0 kg
+Feraligatr,"Big Jaw Pokémon
+Double Jaw Pokémon",Water,,2.3 m,88.8 kg
+Feraligatr,"Big Jaw Pokémon
+Double Jaw Pokémon",Water,,2.3 m,88.8 kg
+Sentret,Scout Pokémon,Normal,,0.8 m,6.0 kg
+Furret,Long Body Pokémon,Normal,,1.8 m,32.5 kg
+Hoothoot,Owl Pokémon,Normal,Flying,0.7 m,21.2 kg
+Noctowl,Owl Pokémon,Normal,Flying,1.6 m,40.8 kg
+Ledyba,Five Star Pokémon,Bug,Flying,1.0 m,10.8 kg
+Ledian,Five Star Pokémon,Bug,Flying,1.4 m,35.6 kg
+Spinarak,String Spit Pokémon,Bug,Poison,0.5 m,8.5 kg
+Ariados,Long Leg Pokémon,Bug,Poison,1.1 m,33.5 kg
+Crobat,Bat Pokémon,Poison,Flying,1.8 m,75.0 kg
+Chinchou,Angler Pokémon,Water,Electric,0.5 m,12.0 kg
+Lanturn,Light Pokémon,Water,Electric,1.2 m,22.5 kg
+Pichu,Tiny Mouse Pokémon,Electric,,0.3 m,2.0 kg
+Cleffa,Star Shape Pokémon,Fairy,,0.3 m,3.0 kg
+Igglybuff,Balloon Pokémon,Normal,Fairy,0.3 m,1.0 kg
+Togepi,Spike Ball Pokémon,Fairy,,0.3 m,1.5 kg
+Togetic,Happiness Pokémon,Fairy,Flying,0.6 m,3.2 kg
+Natu,Tiny Bird Pokémon,Psychic,Flying,0.2 m,2.0 kg
+Xatu,Mystic Pokémon,Psychic,Flying,1.5 m,15.0 kg
+Mareep,Wool Pokémon,Electric,,0.6 m,7.8 kg
+Flaaffy,Wool Pokémon,Electric,,0.8 m,13.3 kg
+Ampharos,Light Pokémon,Electric,,1.4 m,61.5 kg
+Ampharos,Light Pokémon,Electric,,1.4 m,61.5 kg
+Bellossom,Flower Pokémon,Grass,,0.4 m,5.8 kg
+Marill,Aqua Mouse Pokémon,Water,Fairy,0.4 m,8.5 kg
+Azumarill,Aqua Rabbit Pokémon,Water,Fairy,0.8 m,28.5 kg
+Sudowoodo,Imitation Pokémon,Rock,,1.2 m,38.0 kg
+Politoed,Frog Pokémon,Water,,1.1 m,33.9 kg
+Hoppip,Cottonweed Pokémon,Grass,Flying,0.4 m,0.5 kg
+Skiploom,Cottonweed Pokémon,Grass,Flying,0.6 m,1.0 kg
+Jumpluff,Cottonweed Pokémon,Grass,Flying,0.8 m,3.0 kg

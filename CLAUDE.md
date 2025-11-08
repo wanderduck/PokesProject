@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Pokémon data analysis portfolio project that scrapes data from Bulbapedia, processes it, and performs exploratory data analysis with visualizations. Primary workflow is in `pokesportfolioproject-main-35866.ipynb`.
+Pokémon data analysis portfolio project that scrapes data from Bulbapedia, processes it, and performs exploratory data analysis with visualizations. Primary workflow is in `pokesproject_main.ipynb`.
 
 ## Environment Setup
 
@@ -71,7 +71,8 @@ Three-stage scraping workflow implemented in the notebook:
 ## Important Implementation Details
 
 - Notebook cells are executed non-sequentially (check execution numbers)
-- CSVs are saved to project root, not `data/` directory
+- CSVs are saved to both project root and `data/` directory
 - `pd.set_option('mode.chained_assignment', None)` disables chained assignment warnings
 - Forme extraction regex: `r'(?<=\().*(?=\))'` captures text within parentheses
 - Data cleaning modifies Pokemon names in-place using `.split('(')[0].rstrip()`
+- Multiple `get_driver()` function definitions exist throughout notebook for different scraping stages

@@ -1,0 +1,51 @@
+Pokemon,Category,Type 1,Type 2,Height (m),Weight (kg)
+Bulbasaur,Seed Pokémon,Grass,Poison,0.7 m,6.9 kg
+Ivysaur,Seed Pokémon,Grass,Poison,1.0 m,13.0 kg
+Venusaur,Seed Pokémon,Grass,Poison,2.0 m,100.0 kg
+Venusaur,Seed Pokémon,Grass,Poison,2.0 m,100.0 kg
+Charmander,Lizard Pokémon,Fire,,0.6 m,8.5 kg
+Charmeleon,Flame Pokémon,Fire,,1.1 m,19.0 kg
+Charizard,Flame Pokémon,Fire,Flying,1.7 m,90.5 kg
+Charizard,Flame Pokémon,Fire,Flying,1.7 m,90.5 kg
+Charizard,Flame Pokémon,Fire,Flying,1.7 m,90.5 kg
+Squirtle,Tiny Turtle Pokémon,Water,,0.5 m,9.0 kg
+Wartortle,Turtle Pokémon,Water,,1.0 m,22.5 kg
+Blastoise,Shellfish Pokémon,Water,,1.6 m,85.5 kg
+Blastoise,Shellfish Pokémon,Water,,1.6 m,85.5 kg
+Caterpie,Worm Pokémon,Bug,,0.3 m,2.9 kg
+Metapod,Cocoon Pokémon,Bug,,0.7 m,9.9 kg
+Butterfree,Butterfly Pokémon,Bug,Flying,1.1 m,32.0 kg
+Weedle,Hairy Bug Pokémon,Bug,Poison,0.3 m,3.2 kg
+Kakuna,Cocoon Pokémon,Bug,Poison,0.6 m,10.0 kg
+Beedrill,Poison Bee Pokémon,Bug,Poison,1.0 m,29.5 kg
+Beedrill,Poison Bee Pokémon,Bug,Poison,1.0 m,29.5 kg
+Pidgey,Tiny Bird Pokémon,Normal,Flying,0.3 m,1.8 kg
+Pidgeotto,Bird Pokémon,Normal,Flying,1.1 m,30.0 kg
+Pidgeot,Bird Pokémon,Normal,Flying,1.5 m,39.5 kg
+Pidgeot,Bird Pokémon,Normal,Flying,1.5 m,39.5 kg
+Rattata,Mouse Pokémon,Normal,,0.3 m,3.5 kg
+Rattata,Mouse Pokémon,Normal,,0.3 m,3.5 kg
+Raticate,Mouse Pokémon,Normal,,0.7 m,18.5 kg
+Raticate,Mouse Pokémon,Normal,,0.7 m,18.5 kg
+Spearow,Tiny Bird Pokémon,Normal,Flying,0.3 m,2.0 kg
+Fearow,Beak Pokémon,Normal,Flying,1.2 m,38.0 kg
+Ekans,Snake Pokémon,Poison,,2.0 m,6.9 kg
+Arbok,Cobra Pokémon,Poison,,3.5 m,65.0 kg
+Pikachu,Mouse Pokémon,Electric,,0.4 m,6.0 kg
+Pikachu,Mouse Pokémon,Electric,,0.4 m,6.0 kg
+Raichu,Mouse Pokémon,Electric,,0.8 m,30.0 kg
+Raichu,Mouse Pokémon,Electric,,0.8 m,30.0 kg
+Sandshrew,Mouse Pokémon,Ground,,0.6 m,12.0 kg
+Sandshrew,Mouse Pokémon,Ground,,0.6 m,12.0 kg
+Sandslash,Mouse Pokémon,Ground,,1.0 m,29.5 kg
+Sandslash,Mouse Pokémon,Ground,,1.0 m,29.5 kg
+Nidoran♀,Poison Pin Pokémon,Poison,,0.4 m,7.0 kg
+Nidorina,Poison Pin Pokémon,Poison,,0.8 m,20.0 kg
+Nidoqueen,Drill Pokémon,Poison,Ground,1.3 m,60.0 kg
+Nidoran♂,Poison Pin Pokémon,Poison,,0.5 m,9.0 kg
+Nidorino,Poison Pin Pokémon,Poison,,0.9 m,19.5 kg
+Nidoking,Drill Pokémon,Poison,Ground,1.4 m,62.0 kg
+Clefairy,Fairy Pokémon,Fairy,,0.6 m,7.5 kg
+Clefable,Fairy Pokémon,Fairy,,1.3 m,40.0 kg
+Clefable,Fairy Pokémon,Fairy,,1.3 m,40.0 kg
+Vulpix,Fox Pokémon,Fire,,0.6 m,9.9 kg
