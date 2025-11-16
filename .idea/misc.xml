@@ -29,4 +29,10 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1826000" />
   </component>
+  <component name="ViteConfiguration">
+    <option name="mode" value="DISABLED" />
+  </component>
+  <component name="WebPackConfiguration">
+    <option name="mode" value="DISABLED" />
+  </component>
 </project>
