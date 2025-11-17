@@ -2,31 +2,31 @@ Pokedex Number,Pokemon,Link,HP,Attack,Defense,Speed,Special Attack,Special Defen
 1,Bulbasaur,https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon),45,49,49,45,65,65,318,,Seed Pokémon,Grass,Poison,0.7,6.9,1.0
 2,Ivysaur,https://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pok%C3%A9mon),60,62,63,60,80,80,405,,Seed Pokémon,Grass,Poison,1.0,13.0,1.0
 3,Venusaur,https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon),80,82,83,80,100,100,525,,Seed Pokémon,Grass,Poison,2.0,100.0,1.0
-3,Venusaur,https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon),80,100,123,80,122,120,625,Mega Venusaur,Seed Pokémon,Grass,Poison,2.0,100.0,1.0
+3,Venusaur,https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon),80,100,123,80,122,120,625,Mega Venusaur,Seed Pokémon,Grass,Poison,2.4,155.5,1.0
 4,Charmander,https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon),39,52,43,65,60,50,309,,Lizard Pokémon,Fire,,0.6,8.5,1.0
 5,Charmeleon,https://bulbapedia.bulbagarden.net/wiki/Charmeleon_(Pok%C3%A9mon),58,64,58,80,80,65,405,,Flame Pokémon,Fire,,1.1,19.0,1.0
 6,Charizard,https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon),78,84,78,100,109,85,534,,Flame Pokémon,Fire,Flying,1.7,90.5,1.0
-6,Charizard,https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon),78,130,111,100,130,85,634,Mega Charizard X,Flame Pokémon,Fire,Flying,1.7,90.5,1.0
-6,Charizard,https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon),78,104,78,100,159,115,634,Mega Charizard Y,Flame Pokémon,Fire,Flying,1.7,90.5,1.0
+6,Charizard,https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon),78,130,111,100,130,85,634,Mega Charizard X,Flame Pokémon,Fire,Dragon,1.7,110.5,1.0
+6,Charizard,https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon),78,104,78,100,159,115,634,Mega Charizard Y,Flame Pokémon,Fire,Flying,1.7,100.5,1.0
 7,Squirtle,https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon),44,48,65,43,50,64,314,,Tiny Turtle Pokémon,Water,,0.5,9.0,1.0
 8,Wartortle,https://bulbapedia.bulbagarden.net/wiki/Wartortle_(Pok%C3%A9mon),59,63,80,58,65,80,405,,Turtle Pokémon,Water,,1.0,22.5,1.0
 9,Blastoise,https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon),79,83,100,78,85,105,530,,Shellfish Pokémon,Water,,1.6,85.5,1.0
-9,Blastoise,https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon),79,103,120,78,135,115,630,Mega Blastoise,Shellfish Pokémon,Water,,1.6,85.5,1.0
+9,Blastoise,https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon),79,103,120,78,135,115,630,Mega Blastoise,Shellfish Pokémon,Water,,1.6,101.1,1.0
 10,Caterpie,https://bulbapedia.bulbagarden.net/wiki/Caterpie_(Pok%C3%A9mon),45,30,35,45,20,20,195,,Worm Pokémon,Bug,,0.3,2.9,1.0
 11,Metapod,https://bulbapedia.bulbagarden.net/wiki/Metapod_(Pok%C3%A9mon),50,20,55,30,25,25,205,,Cocoon Pokémon,Bug,,0.7,9.9,1.0
 12,Butterfree,https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pok%C3%A9mon),60,45,50,70,90,80,395,,Butterfly Pokémon,Bug,Flying,1.1,32.0,1.0
 13,Weedle,https://bulbapedia.bulbagarden.net/wiki/Weedle_(Pok%C3%A9mon),40,35,30,50,20,20,195,,Hairy Bug Pokémon,Bug,Poison,0.3,3.2,1.0
 14,Kakuna,https://bulbapedia.bulbagarden.net/wiki/Kakuna_(Pok%C3%A9mon),45,25,50,35,25,25,205,,Cocoon Pokémon,Bug,Poison,0.6,10.0,1.0
 15,Beedrill,https://bulbapedia.bulbagarden.net/wiki/Beedrill_(Pok%C3%A9mon),65,90,40,75,45,80,395,,Poison Bee Pokémon,Bug,Poison,1.0,29.5,1.0
-15,Beedrill,https://bulbapedia.bulbagarden.net/wiki/Beedrill_(Pok%C3%A9mon),65,150,40,145,15,80,495,Mega Beedrill,Poison Bee Pokémon,Bug,Poison,1.0,29.5,1.0
+15,Beedrill,https://bulbapedia.bulbagarden.net/wiki/Beedrill_(Pok%C3%A9mon),65,150,40,145,15,80,495,Mega Beedrill,Poison Bee Pokémon,Bug,Poison,1.4,40.5,1.0
 16,Pidgey,https://bulbapedia.bulbagarden.net/wiki/Pidgey_(Pok%C3%A9mon),40,45,40,56,35,35,251,,Tiny Bird Pokémon,Normal,Flying,0.3,1.8,1.0
 17,Pidgeotto,https://bulbapedia.bulbagarden.net/wiki/Pidgeotto_(Pok%C3%A9mon),63,60,55,71,50,50,349,,Bird Pokémon,Normal,Flying,1.1,30.0,1.0
 18,Pidgeot,https://bulbapedia.bulbagarden.net/wiki/Pidgeot_(Pok%C3%A9mon),83,80,75,101,70,70,479,,Bird Pokémon,Normal,Flying,1.5,39.5,1.0
-18,Pidgeot,https://bulbapedia.bulbagarden.net/wiki/Pidgeot_(Pok%C3%A9mon),83,80,80,121,135,80,579,Mega Pidgeot,Bird Pokémon,Normal,Flying,1.5,39.5,1.0
+18,Pidgeot,https://bulbapedia.bulbagarden.net/wiki/Pidgeot_(Pok%C3%A9mon),83,80,80,121,135,80,579,Mega Pidgeot,Bird Pokémon,Normal,Flying,2.2,50.5,1.0
 19,Rattata,https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pok%C3%A9mon),30,56,35,72,25,35,253,,Mouse Pokémon,Normal,,0.3,3.5,1.0
-19,Rattata,https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pok%C3%A9mon),30,56,35,72,25,35,253,Alolan Rattata,Mouse Pokémon,Normal,,0.3,3.5,1.0
+19,Rattata,https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pok%C3%A9mon),30,56,35,72,25,35,253,Alolan Rattata,Mouse Pokémon,Dark,Normal,0.3,3.8,1.0
 20,Raticate,https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pok%C3%A9mon),55,81,60,97,50,70,413,,Mouse Pokémon,Normal,,0.7,18.5,1.0
-20,Raticate,https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pok%C3%A9mon),75,71,70,77,40,80,413,Alolan Raticate,Mouse Pokémon,Normal,,0.7,18.5,1.0
+20,Raticate,https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pok%C3%A9mon),75,71,70,77,40,80,413,Alolan Raticate,Mouse Pokémon,Dark,Normal,0.7,22.5,1.0
 21,Spearow,https://bulbapedia.bulbagarden.net/wiki/Spearow_(Pok%C3%A9mon),40,60,30,70,31,31,262,,Tiny Bird Pokémon,Normal,Flying,0.3,2.0,1.0
 22,Fearow,https://bulbapedia.bulbagarden.net/wiki/Fearow_(Pok%C3%A9mon),65,90,65,100,61,61,442,,Beak Pokémon,Normal,Flying,1.2,38.0,1.0
 23,Ekans,https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pok%C3%A9mon),35,60,44,55,40,54,288,,Snake Pokémon,Poison,,2.0,6.9,1.0
@@ -34,9 +34,9 @@ Pokedex Number,Pokemon,Link,HP,Attack,Defense,Speed,Special Attack,Special Defen
 25,Pikachu,https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon),35,55,40,90,50,50,320,,Mouse Pokémon,Electric,,0.4,6.0,1.0
 25,Pikachu,https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon),45,80,50,120,75,60,430,Partner Pikachu,Mouse Pokémon,Electric,,0.4,6.0,1.0
 26,Raichu,https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon),60,90,55,110,90,80,485,,Mouse Pokémon,Electric,,0.8,30.0,1.0
-26,Raichu,https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon),60,85,50,110,95,85,485,Alolan Raichu,Mouse Pokémon,Electric,,0.8,30.0,1.0
+26,Raichu,https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon),60,85,50,110,95,85,485,Alolan Raichu,Mouse Pokémon,Electric,Psychic,0.7,21.0,1.0
 27,Sandshrew,https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pok%C3%A9mon),50,75,85,40,20,30,300,,Mouse Pokémon,Ground,,0.6,12.0,1.0
-27,Sandshrew,https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pok%C3%A9mon),50,75,90,40,10,35,300,Alolan Sandshrew,Mouse Pokémon,Ground,,0.6,12.0,1.0
+27,Sandshrew,https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pok%C3%A9mon),50,75,90,40,10,35,300,Alolan Sandshrew,Mouse Pokémon,Ice,Steel,0.7,40.0,1.0
 28,Sandslash,https://bulbapedia.bulbagarden.net/wiki/Sandslash_(Pok%C3%A9mon),75,100,110,65,45,55,450,,Mouse Pokémon,Ground,,1.0,29.5,1.0
 28,Sandslash,https://bulbapedia.bulbagarden.net/wiki/Sandslash_(Pok%C3%A9mon),75,100,120,65,25,65,450,Alolan Sandslash,Mouse Pokémon,Ground,,1.0,29.5,1.0
 29,Nidoran♀,https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon),55,47,52,41,40,40,275,,Poison Pin Pokémon,Poison,,0.4,7.0,1.0

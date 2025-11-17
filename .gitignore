@@ -6,3 +6,8 @@ CLAUDE.md
 sample.ipynb
 
 .qodo
+/improved_scraper.py
+
+/test_variant_scraper.py
+/test_variant_fix.py
+/improved_get_more_pokemon_data.py
